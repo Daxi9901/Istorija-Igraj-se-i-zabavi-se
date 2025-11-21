@@ -1,0 +1,115 @@
+{
+  "id": "bitkeww2",
+  "name": "Bitke Drugog svetskog rata",
+  "tagline": "Najveći sukobi Drugog svetskog rata koji su odredili tok istorije.",
+  "intro": [
+    "Drugi svetski rat obuhvatio je neke od najmasovnijih, najdužih i najkrvavijih bitaka u ljudskoj istoriji. Ratni frontovi su se protezali preko Evrope, Afrike, Azije i okeana. Svaka od velikih bitaka imala je sopstvenu dinamiku, strategiju i ulogu u oblikovanju krajnjeg ishoda rata. Mnoge od njih ostale su zapamćene po ogromnim žrtvama, tehničkim inovacijama i strateškim preokretima.",
+    "Na Istočnom frontu vodile su se najžešće i najintenzivnije bitke, uključujući Staljingrad, Kursk i Lenjingrad. Ove bitke bile su monumentalne po obimu, često uključujući stotine hiljada vojnika, hiljade tenkova i masovnu artiljeriju. Ovaj front predstavljao je ključnu tačku slamanja nacističke Nemačke, jer je sovjetska vojska postepeno preuzimala inicijativu i potiskivala Wehrmacht ka Berlinu.",
+    "U Severnoj Africi odvijala se velika borba između Nemačke, Italije i savezničkih snaga. Ključne bitke poput El Alamejna pokazale su važnost logistike, snabdevanja gorivom i kontrole Sredozemlja. Pustinjske borbe bile su izuzetno zahtevne zbog ekstremnih uslova, ali su strateški osigurale put ka invaziji na Italiju.",
+    "Na Pacifičkom frontu rat je poprimio sasvim drugačiji karakter. Borbe su vođene na ostrvima, džunglama, planinama i okeanima. Bitke kod Midveja, Gvadalkanala, Ivo Džime i Okinave bile su brutalne i ključne za oslabljenje Japanskog carstva. Rat na Pacifiku istakao je značaj mornarice, avijacije i amfibijskih operacija.",
+    "Na Zapadnom frontu ključna faza rata počinje savezničkim iskrcavanjem u Normandiji 6. juna 1944, nakon čega sledi niz velikih ofanziva koje oslobađaju Francusku, Belgiju i Holandiju. Jedna od poslednjih velikih nemačkih kontraofanziva — Bitka kod Ardena — pokazala je poslednji pokušaj Wehrmachta da zaustavi saveznike.",
+    "Bitke Drugog svetskog rata ne predstavljaju samo vojni čin, već i duboke političke i humanitarne posledice. Sa sobom su donele milionske civilne žrtve, razaranja čitavih gradova, promene granica država, pad imperija, uspon novih sila i tehnološke inovacije koje su oblikovale svet nakon 1945. godine."
+  ],
+  "questions": [
+    {
+      "question": "Koja se bitka smatra prekretnicom rata na istočnom frontu?",
+      "answers": ["Bitka kod Moskve", "Bitka kod Kurska", "Bitka za Lenjingrad", "Bitka kod Staljingrada"],
+      "correct": 3
+    },
+    {
+      "question": "Koja je bitka najveća tenkovska bitka u istoriji?",
+      "answers": ["El Alamejn", "Okinava", "Kursk", "Tobruk"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je naterala Japansko carstvo u povlačenje na Pacifiku?",
+      "answers": ["Bitka kod Midveja", "Bitka kod Berlina", "Bitka kod Ardena", "Bitka kod Krfa"],
+      "correct": 0
+    },
+    {
+      "question": "Koja bitka predstavlja poslednju veliku nemačku ofanzivu na Zapadnom frontu?",
+      "answers": ["Bitka kod Ardena", "Bitka kod Monte Kasina", "Bitka kod El Alamejna", "Bitka kod Staljingrada"],
+      "correct": 0
+    },
+    {
+      "question": "Koja se bitka odvijala u pustinji Severne Afrike i označila prekretnicu protiv Romelovih snaga?",
+      "answers": ["Bitka kod Midveja", "Bitka kod El Alamejna", "Bitka kod Tobruka", "Bitka kod Pelelijua"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je operacija otvorila zapadni front u Evropi?",
+      "answers": ["Operacija Barbarosa", "Operacija Tigar", "Operacija Overlord", "Operacija Merkur"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je bila najduža opsada u Drugom svetskom ratu?",
+      "answers": ["Bitka za Berlin", "Bitka za Sevastopolj", "Opsada Lenjingrada", "Bitka za Harkov"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je označila prvi veliki poraz Japana na kopnu?",
+      "answers": ["Gvadalkanal", "Ivo Džima", "Okinava", "Midvej"],
+      "correct": 0
+    },
+    {
+      "question": "Koja bitka je bila odlučujuća u oslobađanju Italije?",
+      "answers": ["Monte Kasino", "Omaha", "Bastonj", "Tarava"],
+      "correct": 0
+    },
+    {
+      "question": "Bitka kod Berlina dovela je do:",
+      "answers": ["Ujedinjenja Nemačke", "Kapitulacije Nemačke", "Ulaska SAD u rat", "Povlačenja Japana"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je bila najvažnija na moru tokom Pacifičkog rata?",
+      "answers": ["Bitka kod Midveja", "Bitka kod Britanije", "Bitka kod Barenca", "Bitka kod Narvika"],
+      "correct": 0
+    },
+    {
+      "question": "Koja bitka se najviše vezuje za masovno korišćenje kamikaza?",
+      "answers": ["Omaha", "Ivo Džima", "Okinava", "Monte Kasino"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je bitka bila ključna u odbrani Britanije 1940?",
+      "answers": ["Bitka kod Ardena", "Bitka za Britaniju", "Bitka kod Norveške", "Bitka za Tobruk"],
+      "correct": 1
+    },
+    {
+      "question": "Koja se bitka odigrala na Istočnom frontu i uključivala ogromne artiljerijske dvoboje?",
+      "answers": ["Bitka kod Prohorovke", "Bitka kod Normandije", "Bitka kod Pilsena", "Bitka kod Krfa"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bitka omogućila saveznički ulazak u Francusku?",
+      "answers": ["Bitka kod El Alamejna", "Bitka kod Ardena", "Bitka kod Normandije", "Bitka kod Kijeva"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je predvodio nemačke snage u Severnoj Africi?",
+      "answers": ["Gering", "Romel", "Keitel", "Manštajn"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka se smatra najbrutalnijom u čitavom ratu?",
+      "answers": ["Ivo Džima", "Okinava", "Staljingrad", "Midvej"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je pomorska bitka značajno oslabila nemačku mornaricu?",
+      "answers": ["Bitka za Atlantik", "Bitka kod Malte", "Bitka kod Barenca", "Bitka kod Bresta"],
+      "correct": 0
+    },
+    {
+      "question": "Bitka kod Kurska poznata je po:",
+      "answers": ["Najvećoj tenkovskoj borbi u istoriji", "Prvom nuklearnom napadu", "Kapitulaciji Italije", "Smrti Hitlera"],
+      "correct": 0
+    },
+    {
+      "question": "Bitka za Okinavu bila je važna jer:",
+      "answers": ["Je slomila poslednju liniju nemačke odbrane", "Je otvorila put ka Japanu", "Je dovela do kapitulacije Italije", "Je označila kraj rata u Africi"],
+      "correct": 1
+    }
+  ]
+}

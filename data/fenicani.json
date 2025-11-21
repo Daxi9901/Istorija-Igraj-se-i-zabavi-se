@@ -1,0 +1,115 @@
+{
+  "id": "fenicani",
+  "name": "Feničani",
+  "tagline": "Pomorski trgovci, izumitelji alfabeta i osnivači velikih kolonija širom Mediterana.",
+  "intro": [
+    "Feničani su bili drevni semitski narod nastanjen na istočnoj obali Sredozemnog mora, na prostoru današnjeg Libana, Izraela i Sirije. Njihova civilizacija cvetala je od oko 1500. do 300. godine p.n.e., sa najvećim gradovima Tir, Sidon, Biblos i kasnije Kartagina. Iako nisu stvorili ogromno carstvo, uticali su na čitav Mediteran zahvaljujući trgovini, pomorstvu i kulturnoj razmeni.",
+    "Najveći doprinos Feničana bio je razvoj prvog fonetskog alfabeta, sastavljenog od 22 znaka. Za razliku od složenih klinastih i hijeroglifskih sistema, fenički alfabet bio je jednostavan, lak za učenje i brzo se širio među narodima. Iz njega su potekli grčki, latinski i hebrejski alfabeti, a samim tim i većina modernih pisama današnjeg sveta.",
+    "Feničani su bili neverovatni moreplovci, poznati kao najbolji navigatori svog vremena. Njihove brodove krasila su čvrsta konstrukcija i izuzetna brzina, a plovili su od istočnog Mediterana sve do Jadrana, Sicilije, Iberije i severne Afrike. Postoje i zapisi da su, po nalogu egipatskog faraona Neho II, čak oplovili Afriku oko 600. godine p.n.e., mnogo pre evropskih moreplovaca.",
+    "Ekonomija Feničana bila je zasnovana na luksuznoj robi: purpurnoj boji dobijenoj iz morskih puževa 'murex', visokokvalitetnom staklu, drvetu kedra, nakitu, metalima i finim tkaninama. Bili su i vrhunski diplomati – često su posredovali između velikih sila kao što su Egipat, Asirija, Vavilon i Persija, održavajući nezavisnost dugim periodima.",
+    "Najveća fenička kolonija bila je Kartagina, osnovana u 9. veku p.n.e. Kartagina je kasnije postala moćno pomorsko carstvo, ulazeći u sukobe sa Grčkom i posebnо sa Rimom, što je dovelo do poznatih Punskih ratova. Iako je Kartagina uništena 146. godine p.n.e., njen uticaj na mediteranske trgovačke puteve bio je izuzetan.",
+    "Religija Feničana bila je politeistička, sa bogovima kao što su Baal, Melkart, Aštarta i Ešmun. Njihovi hramovi i rituali imali su veliki uticaj na kasnije kanaanske i mediteranske kulture. Uprkos nedostatku velikih carstava, Feničani su ostavili neizbrisiv trag na istoriju sveta – kroz alfabet, trgovinu, kolonizaciju i kulturnu razmenu koja je oblikovala buduće civilizacije."
+  ],
+  "questions": [
+    {
+      "question": "Koji je najveći doprinos Feničana svetskoj kulturi?",
+      "answers": ["Gradnja piramida", "Izum fonetskog alfabeta", "Izum točka", "Prva metalna oružja"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je bio jedan od najvažnijih feničkih gradova?",
+      "answers": ["Tir", "Ur", "Babilon", "Teba"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvala najmoćnija fenička kolonija u severnoj Africi?",
+      "answers": ["Ugarit", "Mari", "Kartagina", "Akad"],
+      "correct": 2
+    },
+    {
+      "question": "Po čemu su Feničani bili posebno poznati u trgovini?",
+      "answers": ["Čeliku", "Purpurnoj boji od morskog puža", "Porcelanu", "Papirusu"],
+      "correct": 1
+    },
+    {
+      "question": "Koji su narod Feničani izuzetno snažno uticali svojim pismom?",
+      "answers": ["Grke", "Persijance", "Egipćane", "Hetite"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvala životinja iz koje su Feničani dobijali purpurnu boju?",
+      "answers": ["Koralj", "Murex puž", "Kamenica", "Meduza"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je bog bio često smatran zaštitnikom grada Tira?",
+      "answers": ["Osiris", "Melkart", "Enlil", "Anu"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je jezik potekao iz feničkog alfabeta?",
+      "answers": ["Kineski", "Grčki", "Egipatski", "Sumerski"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je prema starim zapisima naručio plovidbu Feničana oko Afrike?",
+      "answers": ["Ramzes II", "Kir Veliki", "Neho II", "Kserks I"],
+      "correct": 2
+    },
+    {
+      "question": "Od kog drveta su Feničani bili poznati trgovci?",
+      "answers": ["Hrast", "Bor", "Kedar", "Jasen"],
+      "correct": 2
+    },
+    {
+      "question": "Koja fenička boginja bila je povezana s plodnošću i ljubavlju?",
+      "answers": ["Aštarta", "Izida", "Hera", "Ninhursag"],
+      "correct": 0
+    },
+    {
+      "question": "Koja vrsta brodova je bila najpoznatija u feničkoj floti?",
+      "answers": ["Trirema", "Sidrno brodovlje", "Duga pomorska galija", "Ratna kola na vodi"],
+      "correct": 2
+    },
+    {
+      "question": "Koji grad se smatra jednim od najstarijih feničkih centara?",
+      "answers": ["Nipur", "Biblos", "Athena", "Tirint"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao glavni trgovački i pomorski bog Feničana?",
+      "answers": ["Baal", "Melkart", "Ea", "Horus"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je moćna sila uništila Kartaginu 146. godine p.n.e.?",
+      "answers": ["Egipat", "Persija", "Rim", "Asirija"],
+      "correct": 2
+    },
+    {
+      "question": "Koje su veštine činile Feničane vrhunskim navigatorima?",
+      "answers": ["Zvezdana navigacija i konstrukcija čvrstih brodova", "Letenje balonima", "Magnetni kompas", "Upotreba parnih mašina"],
+      "correct": 0
+    },
+    {
+      "question": "Od kog materijala su Feničani bili poznati majstori?",
+      "answers": ["Stakla", "Bronze", "Zlata", "Mramora"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je religija dominirala među Feničanima?",
+      "answers": ["Monoteizam", "Politeizam", "Dualizam", "Animizam"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je fenički grad imao značajne veze sa Egiptom kroz trgovinu?",
+      "answers": ["Kition", "Biblos", "Kartagina", "Ugarit"],
+      "correct": 1
+    },
+    {
+      "question": "Koja vrsta pisma je proizašla iz feničkog alfabeta?",
+      "answers": ["Hijeroglifi", "Klinasto pismo", "Latinično pismo", "Polinezijski piktogrami"],
+      "correct": 2
+    }
+  ]
+}

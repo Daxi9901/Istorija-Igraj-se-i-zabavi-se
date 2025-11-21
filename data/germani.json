@@ -1,0 +1,115 @@
+{
+  "id": "germani",
+  "name": "Germani",
+  "tagline": "Ratnički narodi severne Evrope koji su oblikovali istoriju Rima i srednjeg veka.",
+  "intro": [
+    "Germani su bili grupa plemena koja su tokom starog i ranog srednjeg veka naseljavala područje današnje Nemačke, Danske, Holandije, Poljske i Skandinavije. Njihovo poreklo obično se povezuje sa severnoevropskim šumama i močvarama, gde su živeli u manjim zajednicama organizovanim plemenski. Rimljani su ih prvi put detaljno opisali, posebno u delima Julija Cezara i Tacita. Germanska plemena nisu bila politički ujedinjena – umesto carstava, imali su labave saveze pod različitim poglavarima.",
+    "Germani su bili poznati kao izuzetno hrabri i ratoborni ratnici. Borili su se u gustim formacijama poznatim kao \"klin\" ili \"svinjski nos\". Njihova taktika oslanjala se na izdržljivost, moral, snagu i poznavanje terena, dok je oružje bilo jednostavno ali efikasno – najčešće koplje (frameja), štit i dugački mačevi. Germani su verovali u bogove povezane sa ratom, prirodom i sudbinom: najvažniji među njima bili su Odin, Tor, Freja i Tiu.",
+    "Rimsko Carstvo je vekovima pokušavalo da pokori Germane, ali je nailazilo na snažan otpor. Najpoznatiji sukob bio je u Teutoburškoj šumi 9. godine n.e., kada je Arminije iz plemena Hermanaca (Cherusci) uništio tri rimske legije. Ovo je jedan od najvećih poraza u istoriji Rima i događaj koji je trajno zaustavio rimsko napredovanje u Germaniju.",
+    "Germanska društva bila su zasnovana na savetu starijih, ratničkim družinama i okupljanjima slobodnih ljudi, tzv. tingovima. Na tim skupovima rešavali su se sporovi, birali vođe i donosile važne odluke. Većina Germana bavila se zemljoradnjom, stočarstvom i lovom, dok su žene imale visok društveni status, neretko posedujući važnu ulogu u čuvanju tradicije, kućnom kultu i proročištima.",
+    "Od 4. veka mnogi germanski narodi migrirali su prema jugu i zapadu u procesu poznatom kao Velika seoba naroda. Vizigoti, Ostrogoti, Vandali, Burgundi, Lombardi, Angli, Saksonci i Franci ostavili su ogroman trag u formiranju srednjovekovnih evropskih država. Vizigoti su osvojili Rim 410. godine, Vandali severnu Afriku, a Ostrogoti stvorili kraljevstvo u Italiji. Franci su kasnije postavili temelje srednjovekovne Francuske i Svetog rimskog carstva.",
+    "Germanska kultura snažno je uticala na evropsku tradiciju. Njihova mitologija i herojske pesme stvorile su dela poput Ede i Nibelunških pesama. Germanska pravna tradicija, običaji, ratnički kodeksi, kao i njihov jezik, postali su temelj skupa savremenih germanskih jezika. Danas su potomci ovih plemena među najvećim narodima Evrope."
+  ],
+  "questions": [
+    {
+      "question": "Ko je predvodio germansku pobunu protiv Rima u Teutoburškoj šumi 9. godine?",
+      "answers": ["Alarik", "Arminije", "Odoakar", "Atila"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvalo oružje karakteristično za germanske ratnike?",
+      "answers": ["Frameja", "Pilum", "Sarisa", "Gladius"],
+      "correct": 0
+    },
+    {
+      "question": "Koji rimski istoričar je napisao delo 'Germania'?",
+      "answers": ["Tacit", "Plinije Mlađi", "Svetonije", "Livije"],
+      "correct": 0
+    },
+    {
+      "question": "Koje pleme je osvojilo Rim 410. godine?",
+      "answers": ["Vandali", "Ostrogoti", "Vizigoti", "Sasi"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zvalo tradicionalno germansko narodno veće?",
+      "answers": ["Senat", "Ting", "Veče", "Folkmoot"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio bog groma u germanskoj mitologiji?",
+      "answers": ["Odin", "Tor", "Frej", "Baldr"],
+      "correct": 1
+    },
+    {
+      "question": "Koja grupa germanskih naroda je osvojila severnu Afriku?",
+      "answers": ["Vandali", "Franci", "Burgundi", "Saksonci"],
+      "correct": 0
+    },
+    {
+      "question": "Kakav oblik formacije je bio karakterističan za germanske ratnike?",
+      "answers": ["Falanga", "Klin (svinjski nos)", "Testudo", "Kočijaška formacija"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio prvi barbarski kralj Italije koji je svrgnuo poslednjeg rimskog cara Romula Augustula?",
+      "answers": ["Odoakar", "Ardarik", "Teodorih Veliki", "Gaiserik"],
+      "correct": 0
+    },
+    {
+      "question": "Koji narod je osnovao kraljevstvo u Italiji nakon pada zapadnog Rimskog carstva?",
+      "answers": ["Burgundi", "Ostrogoti", "Lombardi", "Vizigoti"],
+      "correct": 1
+    },
+    {
+      "question": "Koji germanski narod je stvorio temelje za Francusku?",
+      "answers": ["Lombardi", "Saksonci", "Franci", "Vandali"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove proces tokom kog su germanska plemena migrirala Evropom?",
+      "answers": ["Transhumanca", "Velika seoba naroda", "Panonijska migracija", "Nordijska ekspanzija"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio vođa Huna, neprijatelj mnogih germanskih naroda?",
+      "answers": ["Atila", "Arminije", "Gaiserik", "Teodorih"],
+      "correct": 0
+    },
+    {
+      "question": "Koje germansko pleme je osnovalo kraljevinu na Iberijskom poluostrvu?",
+      "answers": ["Burgundi", "Vizigoti", "Lombardi", "Angli"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio vođa Ostrogota koji je osnovao kraljevstvo u Italiji?",
+      "answers": ["Teodorih Veliki", "Odoakar", "Gunderik", "Sigibert"],
+      "correct": 0
+    },
+    {
+      "question": "Kojim su se zanimanjem bavila većina germanskih plemena?",
+      "answers": ["Rudarstvom", "Stočarstvom i zemljoradnjom", "Brodogradnjom", "Diplomatijom"],
+      "correct": 1
+    },
+    {
+      "question": "Kako su Rimljani zvali teritoriju naseljenu Germanima?",
+      "answers": ["Germania", "Svebija", "Nordika", "Barbaricum"],
+      "correct": 3
+    },
+    {
+      "question": "Koji je narod osnovao kraljevinu u severnoj Italiji?",
+      "answers": ["Sasi", "Lombardi", "Vandali", "Franci"],
+      "correct": 1
+    },
+    {
+      "question": "Koja herojska germanska pesma govori o Zigfridu i prstenu Nibelunga?",
+      "answers": ["Beovulf", "Edda", "Nibelunška pesma", "Saga o Völsunzima"],
+      "correct": 2
+    },
+    {
+      "question": "Kojim su pismom najranije germanske zajednice zapisivale svoje znakove?",
+      "answers": ["Runama", "Latinicom", "Klinastim pismom", "Grčkim pismom"],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "drugisrpskiustanak",
+  "name": "Drugi srpski ustanak",
+  "tagline": "Ustanak koji je otvorio put ka autonomiji Srbije i obnovi državnosti.",
+  "intro": [
+    "Drugi srpski ustanak, podignut 1815. godine, predstavlja ključnu prekretnicu u istoriji Srbije. Nakon sloma Prvog ustanka 1813. i brutalne ponovne uspostave osmanske vlasti, srpski narod ponovo je bio izložen teškom teroru, visokim nametima, nasilju i samovolji lokalnih osmanskih vlasti. Mnogi vođe Prvog ustanka bili su ubijeni ili primorani na beg, dok je narod živeo u stalnom strahu od odmazdi.",
+    "Ipak, ideja o slobodi nije nestala. Tokom 1814. izbio je Hadži-Prodanov ustanak, koji je ubrzo ugušen, ali je pokazao da se nezadovoljstvo u narodu gomila. Osmanlije su očekivale nove pobune, dok su Srbi želeli vođu koji će pametnije, opreznije i diplomatski mudrije voditi borbu. U takvim okolnostima pojavio se Miloš Obrenović, jedan od vojvoda iz Prvog ustanka, koji je nakon 1813. ostao u Srbiji i održavao veze među narodom.",
+    "Ustanak je zvanično podignut na Vaskrs, 23. aprila 1815. godine, na zboru u Takovu. Miloš Obrenović proglašen je voždom, a ustanak se brzo proširio širom Šumadije. Za razliku od Karađorđa, Miloš je vodio rat oprezno, kombinujući borbu i diplomatiju. Cilj Drugog ustanka nije bio potpuno proterivanje Osmanlija, već obezbeđivanje široke autonomije uz minimalna razaranja.",
+    "Ustanici su ostvarili više važnih pobeda, posebno u borbama kod Ljubića, Paleža i Dublja. Ipak, pravo Miloševo oružje bile su diplomatske pregovore sa osmanskim vlastima. On je uspeo da iskoristi nestabilnost u Osmanskom carstvu i spremnost nekih paša da pregovaraju kako bi se izbegao opšti rat.",
+    "Posle godina pregovora i sporazuma, Srbija dobija značajnu autonomiju. Sultanov hatišerif iz 1830. godine formalno potvrđuje Miloša Obrenovića kao naslednog kneza Srbije i omogućava Srbiji gotovo potpunu unutrašnju samoupravu – pravo na biranje kneževa, ograničenje turskih posada i početak formiranja sopstvene uprave. Time je Drugi ustanak, iako kratkotrajan, imao trajne istorijske posledice.",
+    "Drugi srpski ustanak postavio je temelje moderne Srbije. Uvedena je organizovana administracija, obnovljene su crkve, uvedeni sudovi, počela je izgradnja drumova, a knez Miloš postavio je temelje državnog aparata koji će kasnije biti proširen pod njegovim naslednicima. Ovaj ustanak predstavlja jedan od najvažnijih koraka ka potpunom oslobođenju i nezavisnosti Srbije."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio vođa Drugog srpskog ustanka?",
+      "answers": ["Karađorđe Petrović", "Stanoje Glavaš", "Miloš Obrenović", "Petar Dobrnjac"],
+      "correct": 2
+    },
+    {
+      "question": "Gde je zvanično podignut Drugi srpski ustanak?",
+      "answers": ["Topola", "Takovo", "Kragujevac", "Ljubić"],
+      "correct": 1
+    },
+    {
+      "question": "Koji praznik je obeležio početak ustanka 1815?",
+      "answers": ["Božić", "Đurđevdan", "Vaskrs", "Sretenje"],
+      "correct": 2
+    },
+    {
+      "question": "Koji prethodni ustanak je nagovestio novo nezadovoljstvo pre 1815?",
+      "answers": ["Hadži-Prodanov ustanak", "Boj na Mišaru", "Timočka buna", "Crkvena buna"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bila glavna strategija Miloša Obrenovića tokom ustanka?",
+      "answers": ["Isključivo otvorena borba", "Strano plaćeništvo", "Diplomatija i kontrolisani rat", "Oslanjanje na Austriju"],
+      "correct": 2
+    },
+    {
+      "question": "Koja velika bitka iz 1815. bila je među najznačajnijim pobedama ustanika?",
+      "answers": ["Boj na Čokešini", "Boj na Ivankovcu", "Boj na Ljubiću", "Boj na Ševi"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio poznati ustanik iz Dublja, poginuo u borbi 1815?",
+      "answers": ["Todor Naumović", "Sima Marković", "Tanasko Rajić", "Hajduk Veljko"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio Milošev brat i jedan od bliskih saradnika?",
+      "answers": ["Mladen Milovanović", "Vujica Vulićević", "Jovan Obrenović", "Sima Nenadović"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je osmanska tvrđava ostala pod kontrolom Carstva i nakon ustanka?",
+      "answers": ["Užička tvrđava", "Beogradska tvrđava", "Kruševački grad", "Niška tvrđava"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao osmanski dokument kojim je potvrđena srpska autonomija?",
+      "answers": ["Tilsitski ugovor", "Hatišerif iz 1830.", "Bukureški mir", "Berat o autonomiji"],
+      "correct": 1
+    },
+    {
+      "question": "Koja evropska sila je ranije bila glavni saveznik Srba, ali se povukla 1812?",
+      "answers": ["Francuska", "Britanija", "Rusija", "Austrija"],
+      "correct": 2
+    },
+    {
+      "question": "Koji ustanici su bili poznati kao Miloševi protivnici, ali učesnici ustanka?",
+      "answers": ["Karađorđe i Glavaš", "Milenko i Petar Dobrnjac", "Hadži-Prodan i Katić", "Prota Mateja i Luka Lazarević"],
+      "correct": 1
+    },
+    {
+      "question": "Kako je Miloš pregovarao sa Osmanlijama?",
+      "answers": ["Odbijanjem svakog dogovora", "Strogim vojnim uslovima", "Umešnom diplomatijom i kompromisima", "Ucenama preko Austrije"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio jedan od prvoimenovanih knezova koje je Miloš postavio tokom ustanka?",
+      "answers": ["Ilija Birčanin", "Marko Štitarac", "Antonije Platišević", "Vasa Čarapić"],
+      "correct": 2
+    },
+    {
+      "question": "Koja godina se smatra formalnim završetkom Drugog ustanka?",
+      "answers": ["1816.", "1817.", "1818.", "1820."],
+      "correct": 1
+    },
+    {
+      "question": "Koja oblast je bila centar i simbol Drugog ustanka?",
+      "answers": ["Mačva", "Šumadija", "Homolje", "Resava"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je u ime Osmanlija pregovarao sa Milošem?",
+      "answers": ["Ali–beg Vidinlija", "Husein–paša", "Huršid–paša", "Mustafa Deli–paša"],
+      "correct": 3
+    },
+    {
+      "question": "Koji događaj je doveo do konačnog Miloševog učvršćivanja vlasti?",
+      "answers": ["Smrt Karađorđa 1817.", "Povratak Austrije u Srbiju", "Dolazak ruskih trupa", "Opsada Beograda"],
+      "correct": 0
+    },
+    {
+      "question": "Koja titula je dodeljena Milošu nakon hatišerifa 1830?",
+      "answers": ["Vladika", "Vožd", "Knez Srbije", "Gospodar Šumadije"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je najveća istorijska posledica Drugog srpskog ustanka?",
+      "answers": ["Potpuni nestanak Osmanlija sa Balkana", "Uspostavljanje austrijske vlasti", "Sticanje široke autonomije i temelj državnosti", "Dolazak Karađorđeve dinastije"],
+      "correct": 2
+    }
+  ]
+}

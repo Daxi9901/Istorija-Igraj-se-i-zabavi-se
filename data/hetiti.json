@@ -1,0 +1,115 @@
+{
+  "id": "hetiti",
+  "name": "Hetiti",
+  "tagline": "Moćno anatolsko carstvo bronzanog doba, poznato po ratnim kolima, diplomatiji i najranijim državnim zakonima.",
+  "intro": [
+    "Hetiti su bili indoevropski narod koji se tokom 2. milenijuma p.n.e. uzdigao u području centralne Anadolije, na teritoriji današnje Turske. Njihov glavni grad bio je Hatuša, monumentalno utvrđenje smešteno u planinskom području, okruženo masivnim zidinama, lavljim i sfinginim kapijama te impresivnim kraljevskim arhivom. Hetitsko carstvo predstavljalo je jednu od četiri velike sile kasnog bronzanog doba, zajedno sa Egiptom, Asirijom i Vavilonom.",
+    "Uspon Hetita počinje oko 1650. godine p.n.e. pod kraljem Labarnom I (poznatim i kao Hatušili I). Kraljevi Hetita kombinovali su diplomatsku veštinu i vojnu moć – posebno ratna kola, po kojima su bili čuveni. Njihova vojska koristila je tročlana kola, što je davalo taktičku prednost nad egipatskim dvoročlanim kolima. Hetiti su bili poznati kao vešti metalurzi, posebno po obradi gvožđa, zbog čega se često povezuju sa nastankom gvozdenog doba.",
+    "Najpoznatiji hetitski kralj bio je Šupiluliuma I, koji je stvorio ogromnu državu od Anatolije do severne Sirije. Hetiti su imali sofisticiran državni aparat: podelu na pokrajine, lokalne guvernere, razvijenu špijunsku mrežu i diplomatske veze s velikim silama. Upravo iz njihovih arhiva potiče ogromna količina diplomatske prepiske, uključujući pisma sa faraonima, vavilonskim kraljevima i asirskim vladarima.",
+    "Jedan od najznačajnijih događaja u hetitskoj istoriji jeste Bitka kod Kadeša (oko 1274. p.n.e.) između Hetita, predvođenih Mutvati II, i Egipćana pod Ramzesom II. Ovo je jedna od najpoznatijih bitaka antike, a takođe je rezultirala prvim poznatim mirovnim sporazumom u istoriji, koji je potpisan između ove dve sile i sačuvan u više primeraka.",
+    "Hetiti su takođe bili poznati po svojim zakonima – humani i racionalni u poređenju s drugim starim zakonodavstvima. Umesto smrtne kazne, često su uvodili novčane kazne, što je bio revolucionarni pristup za to doba. Bili su i odlični arhivisti: stotine glinenih tablica otkrivene u Hatuši pružaju uvid u njihovu religiju, mitologiju, upravu, trgovinu i međunarodne odnose.",
+    "Kraj Hetitskog carstva bio je dramatičan. Oko 1200. godine p.n.e., talas naroda sa mora, klimatske promene, unutrašnji sukobi i ekonomska kriza doveli su do urušavanja carstva. Hatuša je uništena, a preživeli Hetiti povlače se ka severnoj Siriji, gde formiraju male neo-hetitske kraljevine. Ipak, njihov kulturni uticaj bio je ogroman — ostavili su trag u pravu, diplomatiji, tehnologiji i vojnim inovacijama."
+  ],
+  "questions": [
+    {
+      "question": "Koji je bio glavni grad Hetitskog carstva?",
+      "answers": ["Ur", "Niniva", "Hatuša", "Mari"],
+      "correct": 2
+    },
+    {
+      "question": "Po čemu su Hetiti bili posebno poznati u vojnoj tehnologiji?",
+      "answers": ["Bronzanim dvoručnim mačevima", "Naprednim ratnim kolima", "Kamuflažnim taktikama", "Teškom konjicom"],
+      "correct": 1
+    },
+    {
+      "question": "Koji hetitski kralj je najpoznatiji po svom osvajanju Sirije?",
+      "answers": ["Labarnu I", "Šupiluliuma I", "Mutvati II", "Telipinu"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio hetitski protivnik u bici kod Kadeša?",
+      "answers": ["Ramzes II", "Asurbanipal", "Nabukodonosor II", "Ehnaton"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao prvi poznati mirovni sporazum u istoriji?",
+      "answers": ["Hamurabijev sporazum", "Sparta–Atina ugovor", "Kadeški sporazum", "Ugovor iz Ugarita"],
+      "correct": 2
+    },
+    {
+      "question": "Koja su kola koristili Hetiti?",
+      "answers": ["Dvočlana laka kola", "Tročlana teška kola", "Četvorokrilna borbena kola", "Jednoosovinska bojna kola"],
+      "correct": 1
+    },
+    {
+      "question": "U kojoj modernoj državi se nalazila Hatuša?",
+      "answers": ["Sirija", "Irak", "Turska", "Jordan"],
+      "correct": 2
+    },
+    {
+      "question": "Koji materijal Hetiti povezuju sa prelaskom u novo istorijsko doba?",
+      "answers": ["Bakar", "Gvožđe", "Zlato", "Bronza"],
+      "correct": 1
+    },
+    {
+      "question": "Koja civilizacija je bila česti rival Hetita?",
+      "answers": ["Egipat", "Kina", "Grčka", "Rim"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao hetitski vrhovni bog?",
+      "answers": ["Enlil", "Tešub", "Ašur", "Horus"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio poznat po reorganizaciji hetitske države i administracije?",
+      "answers": ["Telipinu", "Šupiluliuma I", "Sargon II", "Hatusili III"],
+      "correct": 0
+    },
+    {
+      "question": "Koji su narodi doprineli padu Hetitskog carstva?",
+      "answers": ["Narodi sa mora", "Vikinzi", "Makedonci", "Saksenci"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao najveći arhiv glinenih tablica otkriven u Hetitskoj državi?",
+      "answers": ["Biblioteka Ninive", "Arhiv Ugarita", "Arhiv Hatuše", "Arhiv Asura"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio hetitski kralj u vreme potpisivanja Kadeškog sporazuma?",
+      "answers": ["Mutvati II", "Muvatali II", "Šupiluliuma II", "Labarna II"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je trgovina bila važna za hetitsku ekonomiju?",
+      "answers": ["Železo i srebro", "So i bakar", "Svila i žad", "Drago kamenje i jantar"],
+      "correct": 0
+    },
+    {
+      "question": "Koji narod je nasledio deo hetitske kulture u severnoj Siriji?",
+      "answers": ["Neo-hetiti", "Filistejci", "Hetmani", "Mitanci"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio Labarna I (Hatušili I)?",
+      "answers": ["Vrhovni sveštenik", "Prvi veliki kralj i osvajač", "Jedan od poslednjih kraljeva", "Hetitski ambasador u Egiptu"],
+      "correct": 1
+    },
+    {
+      "question": "Koji jezik su Hetiti koristili u svojim arhivima?",
+      "answers": ["Egipatski hjeroglifi", "Hetitski hijeroglifi i klinasto pismo", "Grčko linearno B pismo", "Feničko pismo"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila centralna organizaciona struktura hetitske države?",
+      "answers": ["Kastni sistem", "Provincijska uprava sa guvernerima", "Gradske republike", "Nomadski klanovi"],
+      "correct": 1
+    },
+    {
+      "question": "Šta je najviše doprinelo padu Hetita?",
+      "answers": ["Seoba Vavilonaca", "Napadi naroda sa mora i ekonomska kriza", "Klimatsko zagrevanje", "Egipatske invazije"],
+      "correct": 1
+    }
+  ]
+}

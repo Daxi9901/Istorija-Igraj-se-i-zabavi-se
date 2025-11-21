@@ -1,0 +1,115 @@
+{
+  "id": "balkanskiratovibitke",
+  "name": "Balkanski ratovi – Bitke",
+  "tagline": "Najznačajnije bitke Prvog i Drugog balkanskog rata.",
+  "intro": [
+    "Bitke Balkanskih ratova (1912–1913) predstavljaju jedne od najintenzivnijih i najvažnijih sukoba u modernoj balkanskoj istoriji. Tokom Prvog balkanskog rata, balkanske države – Srbija, Crna Gora, Grčka i Bugarska – vodile su odlučne bitke protiv Osmanskog carstva, nastojeći da oslobode svoje narode i preuzmu kontrolu nad strateškim oblastima kao što su Makedonija, Kosovo, Metohija i Trakija.",
+    "Srpska vojska istakla se u nizu presudnih bitaka. Bitka kod Kumanova (23–24. oktobar 1912) bila je prva velika srpska pobeda i označila je slom osmanske vojske u Makedoniji. U bitkama kod Prilepa i Bitolja, srpske trupe nastavile su napredovanje i uspostavile kontrolu nad gotovo čitavom Makedonijom. Na jugu je grčka vojska oslobodila Solun, čime je sprečila bugarske ambicije u tom pravcu.",
+    "Jedna od najtežih borbi bio je opsadni rat oko Jedrena (Edirne), koje je Bugarska uz podršku Srbije osvojila 1913. godine. Pad Jedrena predstavljao je simboličan i strateški kraj osmanske dominacije u evropskim oblastima. U međuvremenu, Crna Gora je vodila iscrpljujuće borbe oko Skadra, dok su Srbi sa jakim naporom probijali linije na Kosovu i Metohiji.",
+    "Drugi balkanski rat otvorio je potpuno novo poglavlje, jer je Bugarska napala svoje dotadašnje saveznike – Srbiju i Grčku. Bitka na Bregalnici (30. jun – 9. jul 1913) bila je najkrvavija bitka Drugog balkanskog rata i završila se pobedom srpske vojske. Ova bitka zaustavila je bugarsko napredovanje i omogućila protivofanzivu Srbije i Grčke.",
+    "Bitke Balkanskih ratova nisu samo pomerale granice – one su oblikovale političku budućnost regiona i pripremile scenu za Prvi svetski rat. Pobede Srbije na Kumanovu, Bitolju i Bregalnici uveliko su doprinele njenom međunarodnom prestižu, dok su porazi Bugarske stvorili tenzije koje će kasnije imati dalekosežne posledice.",
+    "Razumevanje ovih bitaka pomaže u sagledavanju složenih odnosa na Balkanu i nasleđa koje i danas utiče na političke i kulturne procese u jugoistočnoj Evropi."
+  ],
+  "questions": [
+    {
+      "question": "Koja bitka se smatra prvom velikom srpskom pobedom u Prvom balkanskom ratu?",
+      "answers": ["Bitka na Bregalnici", "Bitka kod Kumanova", "Bitka kod Prilepa", "Bitka kod Bitolja"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila ključna posledica bitke kod Kumanova?",
+      "answers": ["Oslobađanje Skadra", "Pad Soluna", "Slom osmanske vojske u Makedoniji", "Ulazak Srbije u Albaniju"],
+      "correct": 2
+    },
+    {
+      "question": "Koja sila je osvojila Jedrene (Edirne) 1913. godine?",
+      "answers": ["Grčka", "Crna Gora", "Bugarska uz pomoć Srbije", "Austrija"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je bila najkrvavija u Drugom balkanskom ratu?",
+      "answers": ["Bitka kod Bitolja", "Boj na Kumanovu", "Čokna bitka", "Bitka na Bregalnici"],
+      "correct": 3
+    },
+    {
+      "question": "Koji grad je bio cilj dugotrajne opsade crnogorske vojske?",
+      "answers": ["Skadar", "Janina", "Bitolj", "Jedrene"],
+      "correct": 0
+    },
+    {
+      "question": "Koji srpski komandant je predvodio trupe u Bitci kod Kumanova?",
+      "answers": ["Stepa Stepanović", "Radomir Putnik", "Petar Bojović", "Živojin Mišić"],
+      "correct": 1
+    },
+    {
+      "question": "Koji grad je grčka vojska zauzela, sprečivši bugarsko napredovanje?",
+      "answers": ["Solun", "Edrene", "Prilep", "Tetovo"],
+      "correct": 0
+    },
+    {
+      "question": "Koja od navedenih bitaka omogućava Srbiji osvajanje Bitolja?",
+      "answers": ["Bitka kod Slivnice", "Bitka kod Prilepa", "Bitka kod Skoplja", "Bitka na Bregalnici"],
+      "correct": 1
+    },
+    {
+      "question": "Na kojoj reci se odigrala najteža bitka Drugog balkanskog rata?",
+      "answers": ["Vardar", "Morava", "Bregalnica", "Ibar"],
+      "correct": 2
+    },
+    {
+      "question": "Koja vojska je pokušala da probije srpske položaje na Bregalnici?",
+      "answers": ["Osmanska vojska", "Rumunska vojska", "Bugarska vojska", "Grčka vojska"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je označila kraj osmanske moći u jugoistočnoj Evropi?",
+      "answers": ["Bitka kod Prilepa", "Osvajanje Jedrena", "Bitka kod Kumanova", "Opsada Skadra"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je najviše insistirala na zauzimanju Skadra?",
+      "answers": ["Grčka", "Austrija", "Crna Gora", "Srbija"],
+      "correct": 2
+    },
+    {
+      "question": "Koji komandant je vodio srpske snage u Bitci kod Bitolja?",
+      "answers": ["Živojin Mišić", "Petar Bojović", "Stepa Stepanović", "Miloš Vasić"],
+      "correct": 2
+    },
+    {
+      "question": "U kojoj bici je bugarska vojska pokušala iznenadni napad na Srbiju 1913?",
+      "answers": ["Kumanovo", "Jedrene", "Bregalnica", "Bitolj"],
+      "correct": 2
+    },
+    {
+      "question": "Koja srpska armija je bila ključna u pobedi na Bregalnici?",
+      "answers": ["Drinska armija", "Prva srpska armija", "Moravska armija", "Komitetska armija"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je omogućila srpskim snagama kontrolu nad južnom Makedonijom?",
+      "answers": ["Bitka kod Bitolja", "Bitka na Slivnici", "Bitka kod Bečeja", "Bitka kod Carigrada"],
+      "correct": 0
+    },
+    {
+      "question": "Koja bitka se vodila paralelno sa opsadom Jedrena?",
+      "answers": ["Bitka kod Prizrena", "Bitka kod Kičeva", "Bitka kod Lule Burgasa", "Bitka kod Sarajeva"],
+      "correct": 2
+    },
+    {
+      "question": "Koja vojska je preuzela kontrolu nad Solunom pre kraja 1912?",
+      "answers": ["Bugarska", "Crna Gora", "Grčka", "Rumunija"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka smatra se najvećim sukobom bugarske i srpske vojske?",
+      "answers": ["Bitka kod Skoplja", "Bitka kod Kumanova", "Bitka na Bregalnici", "Bitka kod Edrena"],
+      "correct": 2
+    },
+    {
+      "question": "Koji događaj je bio direktna posledica srpskih pobeda u nizu bitaka 1912?",
+      "answers": ["Ulazak Srbije u rat protiv Rusije", "Ubrzano povlačenje Osmanskog carstva iz Evrope", "Srpska aneksija Soluna", "Bugarsko osvajanje Skoplja"],
+      "correct": 1
+    }
+  ]
+}

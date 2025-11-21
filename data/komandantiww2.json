@@ -1,0 +1,114 @@
+{
+  "id": "komandantiww2",
+  "name": "Komandanti i generali Drugog svetskog rata",
+  "tagline": "Najpoznatiji vojni lideri koji su oblikovali tok Drugog svetskog rata.",
+  "intro": [
+    "Drugi svetski rat nije bio samo sukob država, već i bitka briljantnih i često kontroverznih vojnih uma. Komandanti i generali koji su predvodili armije, flote i vazduhoplovne snage ostavili su dubok trag u istoriji ratovanja. Njihove strategije, odluke, pogrešni potezi i hrabri manevri uticali su ne samo na tok rata, već i na živote miliona vojnika i civila.",
+    "Na strani Saveznika istakli su se vojskovođe poput Dvajta D. Ajzenhauera, čoveka koji je koordinisao savezničke snage u Operaciji Overlord, najvećoj amfibijskoj invaziji u istoriji. Bernar Montgomeri predvodio je britanske snage u Severnoj Africi i Evropi, uključujući odlučujuću pobedu u drugoj bici kod El Alamejna. Na istočnom frontu, Georgij Žukov postaje simbol sovjetskog otpora i vojne dominacije, zaslužan za odbrane Moskve, Staljingrada i konačno osvajanje Berlina.",
+    "Na Pacifiku, američki komandanti poput Čestera Nimica i Daglasa Makartura odigrali su ključne uloge u neutralisanju japanske mornarice i preuzimanju inicijative u ostrvskim operacijama. Njihove strategije, posebno kombinacija pomorske i avijacijske moći, redefinisale su moderno ratovanje.",
+    "Na strani sila Osovine, najpoznatiji komandanti bili su Ervin Romel, 'Pustinjska Lisica', koji je stekao reputaciju briljantnog taktičara u Severnoj Africi. Hajnc Guderijan, otac blitzkriega, razvio je doktrine o modernoj upotrebi tenkova i mehanizovanog ratovanja. Admirali poput Jamamota planirali su ključne operacije Japanskog carstva, uključujući napad na Perl Harbur.",
+    "Generali i komandanti Drugog svetskog rata nisu bili samo vojni lideri — bili su i stratezi, diplomate, motivatori i često simboli nacionalnog otpora. Njihove odluke u ključnim trenucima, bilo da su uspešne ili katastrofalne, oblikovale su budućnost celog sveta. Razumevanje njihovih poteza daje dublji uvid u kompleksnu prirodu globalnog sukoba koji je trajno promenio istoriju čovečanstva."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio vrhovni komandant savezničkih snaga u Operaciji Overlord?",
+      "answers": ["Dvajt Ajzenhauer", "Bernard Montgomeri", "Omar Bredli", "Čester Nimitz"],
+      "correct": 0
+    },
+    {
+      "question": "Koji je sovjetski general vodio odbranu Moskve i napad na Berlin?",
+      "answers": ["Konev", "Timošenko", "Rokosovski", "Georgij Žukov"],
+      "correct": 3
+    },
+    {
+      "question": "Koji nemački general je poznat kao 'Pustinjska Lisica'?",
+      "answers": ["Romel", "Guderián", "Manštajn", "Kajtel"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio glavni japanski planer napada na Perl Harbur?",
+      "answers": ["Jamamoto", "Tojo", "Hata", "Kuribajaši"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je predvodio britanske snage u drugoj bici kod El Alamejna?",
+      "answers": ["Montgomeri", "Paton", "Bradli", "Brooke"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio glavnokomandujući američke mornarice na Pacifiku?",
+      "answers": ["Mak Artur", "Nimitz", "Halsey", "Spruance"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio poznat kao otac blitzkriega?",
+      "answers": ["Guderián", "Manštajn", "Romel", "Kajtel"],
+      "correct": 0
+    },
+    {
+      "question": "Koji američki general je predvodio napredovanje kroz Pacifik?",
+      "answers": ["Mak Artur", "Paton", "Ajzenhauer", "Marshall"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je komandovao nemačkim snagama na istočnom frontu u operaciji 'Citadela'?",
+      "answers": ["Manštajn", "Romel", "Model", "Guderián"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio vrhovni komandant francuskih snaga Slobodne Francuske?",
+      "answers": ["Petain", "De Gol", "Gamelin", "Juin"],
+      "correct": 1
+    },
+    {
+      "question": "Koji general je vodio američku 3. armiju u Evropi?",
+      "answers": ["Montgomeri", "Paton", "Bradli", "Vlasov"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je komandovao japanskim snagama na Ivo Džimi?",
+      "answers": ["Jamamoto", "Kuribajaši", "Tojo", "Ušidži"],
+      "correct": 1
+    },
+    {
+      "question": "Koji general je bio poznat po svojoj ulozi u oslobađanju Pariza?",
+      "answers": ["Maršal Žukov", "De Gol", "Paton", "Ajzenhauer"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je komandovao odbranom Staljingrada za Crvenu armiju?",
+      "answers": ["Zukov", "Vasiljevski", "Čujkov", "Budjoni"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio glavni nemački planer bitke kod Francuske 1940?",
+      "answers": ["Romel", "Manštajn", "Guderián", "Kajtel"],
+      "correct": 1
+    },
+    {
+      "question": "Koji admiral je vodio američku flotu kod Midveja?",
+      "answers": ["Nimitz", "Halsey", "Spruance", "Lejton"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio generalni sekretar Komunističke partije SSSR tokom rata?",
+      "answers": ["Lenjin", "Hruščov", "Staljin", "Molotov"],
+      "correct": 2
+    },
+    {
+      "question": "Koji general je predvodio savezničke snage u Africi pre Montgomerija?",
+      "answers": ["Canning", "O'Connor", "Frejberg", "Auchinleck"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je bio glavnokomandujući savezničkih snaga za operaciju Torch?",
+      "answers": ["Bradli", "Ajzenhauer", "Montgomeri", "Paton"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio nemački feldmaršal poznat po odbrani istočnog fronta u kasnoj fazi rata?",
+      "answers": ["Model", "Kajtel", "Romel", "Jodl"],
+      "correct": 0
+    }
+  ]
+}

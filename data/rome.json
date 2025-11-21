@@ -1,0 +1,122 @@
+{
+  "id": "rome",
+  "name": "Rimska Imperija",
+  "tagline": "Od prašnjavog sela do najmoćnijeg carstva antičkog sveta.",
+  "intro": [
+    "Rim, prema predanju osnovan 753. godine p.n.e., započeo je kao mala zajednica na sedam brežuljaka pored reke Tibar. Tokom prvih vekova Rimom su vladali kraljevi, od kojih su neki bili italskog, a neki etrurskog porekla. Ovaj rani period postavio je temelje rimske religije, društvenog uređanja, vojnih struktura i običajnog prava.",
+    "Godine 509. p.n.e. Rimljani su zbacili poslednjeg kralja Tarkvinija Oholog i osnovali Republiku – državno uređenje u kojem je vlast bila podeljena između različitih institucija. Najviši izvršni organ bila su dvojica konzula, dok je Senat predstavljao političko jezgro rimske aristokratije. Narodne skupštine i tribuni plebsa štitili su interese običnog naroda. Ovaj složeni sistem ravnoteže moći omogućio je Rimu stabilnost i dugotrajno širenje.",
+    "Tokom narednih vekova Rim je osvajao teritorije širom Apeninskog poluostrva, a zatim i čitav mediteranski prostor. Punski ratovi protiv Kartagine, naročito sukob sa slavnim vojskovođom Anibalom, učinili su da Rim postane dominantna sila u Zapadnom Mediteranu. Rimska vojska, zasnovana na dobro organizovanim legijama, bila je jedna od najdisciplinovanijih u istoriji.",
+    "U 1. veku p.n.e. dolazi do opadanja stabilnosti Republike. Borba između optimata (aristokratske frakcije) i populara (narodne frakcije) pretvorila se u građanske ratove. Gaj Marije, Sula, Pompej Veliki i Julije Cezar oblikovali su političku scenu tog vremena. Cezarov uspon i njegovo ubistvo 44. p.n.e. predstavljaju simboličan kraj Republike.",
+    "Godine 27. p.n.e. Oktavijan, Cezarov usvojeni sin, postaje Avgust – prvi rimski car. Njegova vladavina označava početak Carstva i dugog razdoblja mira poznatog kao Pax Romana. Rim u ovom periodu doživljava urbanistički, ekonomski i kulturni procvat. Gradovi širom Carstva dobijaju forume, amfiteatre, akvadukte, puteve i terme.",
+    "Rimska kultura bila je mešavina italskih, etrurskih i grčkih uticaja. Latinski jezik postao je osnov evropskih romanskih jezika. Rimsko pravo, sa naglaskom na jednakost građana pred zakonom i privatnu svojinu, postalo je temelj savremenih pravnih sistema.",
+    "U 3. veku n.e. Carstvo ulazi u duboku krizu: česte smene careva, invazije germanskih plemena, ekonomska nestabilnost i verske napetosti. Car Dioklecijan sprovodi reforme, uvodi tetrarhiju i pokušava da stabilizuje Carstvo. Konstantin Veliki kasnije legalizuje hrišćanstvo i osniva novu prestonicu – Konstantinopolj.",
+    "Godine 395. Carstvo je podeljeno na Istočno i Zapadno. Zapadno Rimsko Carstvo propada 476. godine nakon abdikacije Romula Avgustula, dok Istočno nastavlja da živi kao Vizantijsko Carstvo još gotovo hiljadu godina. Ipak, ideja Rima nikada nije nestala – ona traje kroz evropsku civilizaciju, pravo, arhitekturu i politiku."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio prvi rimski car?",
+      "answers": ["Avgust", "Neron", "Tiberije", "Hadrijan"],
+      "correct": 0
+    },
+    {
+      "question": "Koja godina se smatra tradicionalnim datumom osnivanja Rima?",
+      "answers": ["509. p.n.e.", "753. p.n.e.", "476. n.e.", "31. p.n.e."],
+      "correct": 1
+    },
+    {
+      "question": "Ko je prema legendi osnovao Rim?",
+      "answers": ["Eneja", "Romul", "Numa Pompilije", "Rem"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala najvažnija politička institucija u Republici?",
+      "answers": ["Senat", "Narodna skupština", "Magistratura", "Pretorski savet"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio najveći teritorijalni osvajač među carevima?",
+      "answers": ["Konstantin", "Trajan", "Dioklecijan", "Klaudije"],
+      "correct": 1
+    },
+    {
+      "question": "Protiv koje države je Rim vodio Punske ratove?",
+      "answers": ["Grčke", "Persije", "Kartagine", "Egipta"],
+      "correct": 2
+    },
+    {
+      "question": "Šta je bio Koloseum?",
+      "answers": ["Hram Jupitera", "Carska palata", "Amfiteatar", "Kupatilo (terme)"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se nazivala voda dovodena u Rim putem velikih građevina?",
+      "answers": ["Akvadukt", "Arkada", "Viadukt", "Kanalis"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je ubijen na martovske ide 44. p.n.e.?",
+      "answers": ["Pompej", "Sula", "Ciceron", "Julije Cezar"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je bio vođa Kartagine u Drugom punskom ratu?",
+      "answers": ["Asdrubal", "Hamilkar", "Anibal", "Magod"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio prvi hrišćanski car?",
+      "answers": ["Dioklecijan", "Konstantin Veliki", "Trajan", "Marko Aurelije"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvala rimska vojska osnovna jedinica?",
+      "answers": ["Falanga", "Legija", "Kohorta", "Vexillatio"],
+      "correct": 1
+    },
+    {
+      "question": "Kom caru pripada čuvena izjava: 'Došao sam, video sam, pobedio sam'?",
+      "answers": ["Juliju Cezaru", "Trajanu", "Konstantinu", "Antoninu Piju"],
+      "correct": 0
+    },
+    {
+      "question": "Koja godina se smatra padom Zapadnog Rimskog Carstva?",
+      "answers": ["395. n.e.", "410. n.e.", "476. n.e.", "533. n.e."],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva rimski trg koji je bio političko i društveno središte?",
+      "answers": ["Pantheon", "Forum Romanum", "Palatin", "Kapitol"],
+      "correct": 1
+    },
+    {
+      "question": "Koja religija postaje zvanična u IV veku?",
+      "answers": ["Paganizam", "Hrišćanstvo", "Mitraizam", "Hermetizam"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio poslednji car Zapadnog carstva?",
+      "answers": ["Honorius", "Valentinijan III", "Romul Avgustul", "Majoran"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se nazivao najviši sveštenički položaj u Rimu?",
+      "answers": ["Arhiđakon", "Pontifex Maximus", "Flamen Dialis", "Augur"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala osnovna ulica u rimskim gradovima?",
+      "answers": ["Cardo", "Stoa", "Via Magna", "Decumanus"],
+      "correct": 0
+    },
+    {
+      "question": "Šta predstavlja 'Rimsko pravo'?",
+      "answers": [
+        "Skup religijskih pravila",
+        "Kodeks vojne discipline",
+        "Pravni sistem koji je temelj evropskog prava",
+        "Zakon o carskim naslednicima"
+      ],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "srbija",
+  "name": "Srednjovekovna Srbija – Doba Nemanjića",
+  "tagline": "Razvoj srpske države od Stefana Nemanje do cara Dušana i pada pod Otomansku vlast.",
+  "intro": [
+    "Srednjovekovna Srbija predstavlja period najvećeg političkog, teritorijalnog i kulturnog uspona srpske državnosti. Najznačajniju ulogu u formiranju, jačanju i organizaciji države imala je dinastija Nemanjića, koja je od kraja 12. do sredine 14. veka stvorila snažnu i stabilnu državu u jugoistočnoj Evropi. Osnivač dinastije bio je veliki župan Stefan Nemanja, koji je uspeo da ujedini srpske zemlje, potisne rivalske plemićke porodice i izgradi temelje snažne centralne vlasti.",
+    "Nemanja je vodio politiku bliskih odnosa sa Vizantijom, ali i povremenih sukoba kada je to bilo potrebno za jačanje Srbije. Godine 1196. povlači se sa prestola i odlazi u Hilandar, gde podiže manastir zajedno sa svojim najmlađim sinom Savom. Hilandar postaje duhovno i kulturno središte srpskog naroda. Sveti Sava, Nemanjin sin, 1219. godine dobija autokefalnost Srpske pravoslavne crkve, čime Srbija dobija crkvenu nezavisnost i snažnu duhovnu instituciju koja postaje stub državnosti.",
+    "Sin Stefana Nemanje, Stefan Prvovenčani, krunisan je za kralja Srbije 1217. godine, što predstavlja prekretnicu u srpskoj državnosti i njenom međunarodnom priznanju. Period nakon njega obeležavaju vladavine Uroša I, Dragutina i Milutina, koji su proširili državu, ojačali ekonomiju, unapredili rudarstvo, uveli zakone i učvrstili političku stabilnost. Kralj Milutin ostao je posebno zapamćen po izuzetnoj graditeljskoj aktivnosti – sagradio je veliki broj crkava, među kojima su Gračanica i Bogorodica Ljeviška.",
+    "Najjače vreme srpske srednjovekovne države bilo je tokom vladavine Stefana Dušana (1331–1355). Dušan je osvojio široke teritorije od Bosne do Egejskog mora i 1346. godine proglašen je za cara Srbâ i Grka. Donosi i čuveni zakon – Dušanov zakonik (1349/1354), jedno od najvažnijih pravnih dela srednjovekovne Evrope. Zakonik uređuje sve aspekte života: pravo, vojsku, ekonomiju, društvene odnose i crkvene propise. Dušanova država postaje najmoćnija sila Balkana.",
+    "Posle Dušanove smrti, država postupno slabi zbog unutrašnjih borbi i spoljnih pritisaka. U drugoj polovini 14. veka Srbije se suočava sa rastućom opasnošću od Osmanlijskog carstva. Presudna bitka na Kosovu 1389. između kneza Lazara i sultana Murata postaje simbol borbe za očuvanje srpske državnosti. Iako bitka nije imala jasan vojni pobednik, ona označava početak osmanske dominacije nad srpskim zemljama.",
+    "Do sredine 15. veka većina srpskih teritorija pada pod osmansku vlast, čime se završava srednjovekovna epoha. Ipak, nasleđe Nemanjića – manastiri Studenica, Hilandar, Žiča, Dečani, Gračanica i mnogi drugi – ostaje trajni spomenik srpske kulture, duhovnosti i identiteta. Njihova arhitektura, freskoslikarstvo, književnost i zakonska tradicija oblikovali su vekove srpske istorije."
+  ],
+  "questions": [
+    {
+      "question": "Ko se smatra osnivačem dinastije Nemanjića?",
+      "answers": ["Stefan Dečanski", "Stefan Nemanja", "Vukan Nemanjić", "Sveti Sava"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je dobio autokefalnost Srpske pravoslavne crkve 1219. godine?",
+      "answers": ["Sveti Sava", "Uroš I", "Teodosije", "Stefan Prvovenčani"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je prvi krunisani kralj Srbije?",
+      "answers": ["Stefan Prvovenčani", "Stefan Nemanja", "Dušan Silni", "Dragutin"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je sagradio manastir Hilandar?",
+      "answers": ["Stefan Dečanski i Milutin", "Sveti Sava i Stefan Nemanja", "Car Dušan i Uroš", "Vukan i Rastko"],
+      "correct": 1
+    },
+    {
+      "question": "Najveći uspon Srbije bio je za vreme vladavine:",
+      "answers": ["Uroša I", "Carice Jelene", "Cara Dušana", "Dragutina"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove čuveni srpski srednjovekovni zakonik?",
+      "answers": ["Zakonik kralja Milutina", "Zakonik Stefana Nemanje", "Dušanov zakonik", "Zakonik Uroša Prvog"],
+      "correct": 2
+    },
+    {
+      "question": "Koje godine je Krunisan Stefan Dušan za cara?",
+      "answers": ["1346.", "1389.", "1217.", "1331."],
+      "correct": 0
+    },
+    {
+      "question": "Koja bitka se smatra početkom osmanskog osvajanja Srbije?",
+      "answers": ["Bitka na Velbuždu", "Bitka na Kosovu 1389.", "Bitka kod Nikopolja", "Bitka na Rovinama"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio otac cara Dušana?",
+      "answers": ["Stefan Prvovenčani", "Knez Lazar", "Stefan Dečanski", "Uroš I"],
+      "correct": 2
+    },
+    {
+      "question": "Koji manastir je zadužbina kralja Milutina?",
+      "answers": ["Studenica", "Gračanica", "Žiča", "Hilandar"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je predvodio srpsku vojsku u bici na Kosovu?",
+      "answers": ["Car Dušan", "Despot Stefan Lazarević", "Knez Lazar", "Vuk Branković"],
+      "correct": 2
+    },
+    {
+      "question": "Koja godina se smatra godinom opsade Alezije?",
+      "answers": ["52. p.n.e.", "1196.", "1389.", "1349."],
+      "correct": 3
+    },
+    {
+      "question": "Koji manastir je bio sedište srpskih arhiepiskopa?",
+      "answers": ["Mileševa", "Gračanica", "Žiča", "Studenica"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove poslednji car iz dinastije Nemanjića?",
+      "answers": ["Dušan", "Uroš Prvi", "Uroš Peti (Nejaki)", "Dragutin"],
+      "correct": 2
+    },
+    {
+      "question": "Za vreme kog vladara Srbija je bila najveća teritorijalno?",
+      "answers": ["Milutina", "Dušana", "Lazara", "Dečanskog"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je izgradio manastir Dečani?",
+      "answers": ["Stefan Dečanski", "Sveti Sava", "Dušan Silni", "Uroš I"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je nasledio cara Dušana?",
+      "answers": ["Vuk Branković", "Uroš NejakI", "Dragutin", "Milutin"],
+      "correct": 1
+    },
+    {
+      "question": "Koja srpska dinastija je nasledila Nemanjiće u 15. veku?",
+      "answers": ["Brankovići", "Mrnjavčevići", "Vojinovići", "Balšići"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je glavna srpska zadužbina Stefana Nemanje?",
+      "answers": ["Manastir Dečani", "Studenica", "Gračanica", "Sopoćani"],
+      "correct": 1
+    },
+    {
+      "question": "U kom manastiru je sahranjen Sveti Sava?",
+      "answers": ["Hilandar", "Žiča", "Studenica", "Mileševa"],
+      "correct": 3
+    }
+  ]
+}

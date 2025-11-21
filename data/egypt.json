@@ -1,0 +1,117 @@
+{
+  "id": "egypt",
+  "name": "Stari Egipat",
+  "tagline": "Civilizacija Nila, piramida, bogova i faraona — izvor čuda antičkog sveta.",
+  "intro": [
+    "Stari Egipat predstavlja jednu od najdugovečnijih i najuticajnijih civilizacija antičkog sveta. Smešten u dolini reke Nil, Egipat je opstao više od tri hiljade godina, razvijajući jedinstvenu kulturu, arhitekturu, religiju i administrativni sistem. Tok reke Nil bio je ključ za njihov opstanak — svake godine Nil je plavio obale, ostavljajući plodnu zemlju koja je omogućila visok nivo poljoprivrede. Egipatske zajednice nastajale su oko plodnih obala, stvarajući snažna i organizovana kraljevstva.",
+    "Prva egipatska kraljevstva nastala su oko 3100. godine p.n.e., kada je kralj Narmer (Menes) ujedinio Gornji i Donji Egipat. Time počinje Period Starog kraljevstva, poznat po izgradnji najvećih piramida u Gizi: Kufuove, Kefrenove i Mikerinove piramide. Ovaj period predstavlja vrhunac egipatske monumentalne gradnje i centralizovane vlasti.",
+    "Religija je imala ogroman značaj u svakodnevnom životu Egipćana. Bogovi su prikazivani u ljudskom ili životinjskom obliku, a najvažniji među njima bili su: Ra, bog Sunca; Oziris, bog podzemlja i uskrsnuća; Izida, boginja magije; Horus, bog kraljevstva; i Anubis, bog mumifikacije. Egipćani su verovali u zagrobni život, zbog čega su razvili složene rituale i proces mumifikacije, kako bi sačuvali telo za večni život.",
+    "Srednje kraljevstvo obeleženo je ekonomskim razvojem, širenjem teritorije i jačanjem centralne vlasti. U ovom periodu Egipat postiže vrhunac administrativne organizacije i postaje značajan trgovinski centar. Nakon razdoblja političke nestabilnosti i invazije Hiksa, Egipat ulazi u Novi kraljevski period.",
+    "Novi kraljevski period (1550–1070. p.n.e.) smatra se najmoćnijim vremenom Egipta. U njemu vladaju neki od najpoznatijih faraona: Ahmose, Hatšepsut, Tutmozis III, Amenhotep III, Ehnaton, Tutankamon i Ramzes II, poznat kao Ramzes Veliki. U ovom periodu izgrađena su monumentalna svetilišta u Tebi, uključujući Karnak i Luksor, kao i Dolina kraljeva, mesto gde su sahranjivani faraoni.",
+    "Egipatsko društvo bilo je strogo hijerarhijsko. Na vrhu se nalazio faraon, bog na zemlji, čija je dužnost bila da održava balans i harmoniju — tzv. ma'at. Ispod faraona bili su sveštenici, pisari, vojska, zanatlije i seljaci. Pisari su imali poseban status jer su znali da pišu hijeroglife, složeni sistem pisanja koji je predstavljao kombinaciju simbola, slika i glasovnih znakova.",
+    "U poslednjim vekovima Egipat su pokoravali različiti narodi: Asirci, Persijanci, pa Makedonci pod Aleksandrom Velikim. Nakon Aleksandrove smrti, Egiptom vlada dinastija Ptolemejevića, čija je poslednja vladarka bila čuvena Kleopatra VII. Godine 30. p.n.e., posle njenog poraza od Oktavijana, Egipat postaje rimska provincija.",
+    "Nasleđe Egipta živi i danas kroz arhitekturu, matematiku, medicinu, astronomiju, umetnost i mitologiju. Piramide i hramovi ostaju simboli ljudske inovativnosti, a egipatska civilizacija ostaje jedna od najfascinantnijih i najuticajnijih u istoriji čovečanstva."
+  ],
+  "questions": [
+    {
+      "question": "Ko je ujedinio Gornji i Donji Egipat oko 3100. godine p.n.e.?",
+      "answers": ["Tutmozis III", "Menes (Narmer)", "Ramzes II", "Džoser"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao bog Sunca u staroegipatskoj religiji?",
+      "answers": ["Ra", "Horus", "Anubis", "Seth"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio bog podzemlja i uskrsnuća?",
+      "answers": ["Oziris", "Ptah", "Sobek", "Apis"],
+      "correct": 0
+    },
+    {
+      "question": "Koja faraonka je bila jedna od najmoćnijih žena vladarki Egipta?",
+      "answers": ["Nefertiti", "Hatšepsut", "Kleopatra VI", "Merneit"],
+      "correct": 1
+    },
+    {
+      "question": "Gde su sahranjivani faraoni Novog kraljevstva?",
+      "answers": ["Giza", "Sakkara", "Dolina kraljeva", "Abidos"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove pismo koje su koristili stari Egipćani?",
+      "answers": ["Klinasto pismo", "Latinica", "Hijeroglifi", "Demotsko pismo"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je naredio izgradnju Velike piramide u Gizi?",
+      "answers": ["Mikerin", "Kefren", "Kufu (Keops)", "Džoser"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je faraon poznat po kratkotrajnoj religijskoj reformi u kojoj je uveo kult Atona?",
+      "answers": ["Ehnaton", "Tutankamon", "Ramzes III", "Senusret I"],
+      "correct": 0
+    },
+    {
+      "question": "Kleopatra VII pripadala je kojoj dinastiji?",
+      "answers": ["Ramzesi", "Ptolemejevići", "Mikerini", "Hatšepsutini naslednici"],
+      "correct": 1
+    },
+    {
+      "question": "Koja civilizacija je osvojila Egipat 30. p.n.e. nakon smrti Kleopatre?",
+      "answers": ["Grčka", "Persijska", "Rimska", "Hetitska"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio bog mumifikacije?",
+      "answers": ["Horus", "Anubis", "Ra", "Thot"],
+      "correct": 1
+    },
+    {
+      "question": "Koji arhitekt je zaslužan za prvu stepenastu piramidu?",
+      "answers": ["Imhotep", "Hemiunu", "Senmut", "Ahmose"],
+      "correct": 0
+    },
+    {
+      "question": "Koja kraljica je majka Tutankamona prema većini teorija?",
+      "answers": ["Kija", "Nefertiti", "Hatšepsut", "Mutnodžmet"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove sveta knjiga o putovanju duše u zagrobni život?",
+      "answers": ["Knjiga mrtvih", "Pisma bogovima", "Svitak svetlosti", "Ozirisov kodeks"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao glavni grad tokom Novog kraljevstva?",
+      "answers": ["Memfis", "Teba", "Ahetaton", "Giza"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je smatrao faraona božanskim vladarom koji održava 'ma'at'?",
+      "answers": ["Egipćani", "Grci", "Rimljani", "Hetiti"],
+      "correct": 0
+    },
+    {
+      "question": "Koja civilizacija je privremeno upravljala Egiptom tokom Drugog međuperioda?",
+      "answers": ["Hetiti", "Hiksi", "Babilonci", "Feničani"],
+      "correct": 1
+    },
+    {
+      "question": "Koja piramida je najveća u Gizi?",
+      "answers": ["Mikerinova", "Kefrenova", "Kufuova", "Sneferuova"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se nazivala kraljevska žena koju često nazivaju 'Lepoticom Nila'?",
+      "answers": ["Nefertiti", "Hatšepsut", "Kleopatra VII", "Kija"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je reka bila suštinski izvor života za Egipat?",
+      "answers": ["Eufrat", "Nil", "Tigar", "Jordan"],
+      "correct": 1
+    }
+  ]
+}

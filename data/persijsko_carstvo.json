@@ -1,0 +1,116 @@
+{
+  "id": "persija",
+  "name": "Persijsko Carstvo",
+  "tagline": "Ahemenidska imperija – najveća i najorganizovanija sila drevnog Bliskog istoka.",
+  "intro": [
+    "Persijsko Carstvo, posebno Ahemenidska dinastija (550–330. p.n.e.), predstavlja jednu od najmoćnijih i najorganizovanijih antičkih imperija. Osnivač carstva bio je Kir II Veliki, koji je ujedinio persijska i medijska plemena, pokorio Lidiju, Vavilon i mnoge druge oblasti, stvarajući teritoriju koja se prostirala od Indije do Mediterana. Kir je postao poznat i po svom humanom pristupu vlasti i toleranciji prema različitim narodima i religijama.",
+    "Njegov naslednik, Kambiz II, osvojio je Egipat, čime je Persijsko carstvo postalo najveće do tada poznato carstvo na svetu. Međutim, najveći doprinos administrativnoj stabilnosti dao je Darije I Veliki, koji je reorganizovao carstvo u satrapije – administrativne provincije na čijem su čelu bili satrapi. Takođe je izgradio Carski put, mrežu puteva koja je omogućavala brzu komunikaciju i trgovinu širom carstva.",
+    "Ahemenidi su bili poznati po svojoj verskoj toleranciji. U carstvu su živeli narodi različitih kultura i jezika, a osnova njihove duhovnosti bila je zoroastrizam – religija proroka Zaratustre, koja uči o borbi između dobra (Ahura Mazda) i zla (Angra Mainju). Persijanci su bili jedni od prvih naroda koji su razvili koncept centralizovane birokratije i profesionalne vojske.",
+    "Najpoznatiji sukob Persijanaca bili su Grčko-persijski ratovi (499–449 p.n.e.). Darije I i njegov sin Kserks I pokušali su da pokore grčke polise, ali su u bitkama kod Maratona, Termopila i Salamine doživeli poraze. Uprkos vojnoj moći, persijski pokušaji širenja prema zapadu nikada nisu uspešno završeni.",
+    "Carstvo je dostiglo svoj vrhunac pod Kserksom i Artakserksom, ali je slabljeno unutrašnjim pobunama, korupcijom i neefikasnom upravom. Konačan udar došao je 330. godine p.n.e., kada Aleksandar Veliki osvaja Persepolis i poražava poslednjeg ahemenidskog kralja Darija III. Time prestaje postojanje prvog Persijskog carstva.",
+    "Nakon Ahemenida, Persija se ponovo uzdiže pod Sasanidskom dinastijom (224–651. n.e.), koja obnavlja kulturnu i političku moć regiona. Sasanidi su bili najveći rivali Rimskog i Vizantijskog carstva, poznati po svojoj jahačkoj eliti – kataphraktima, zoroastrijanskoj religiji i izuzetnim arhitektonskim dostignućima. Njihova država pada tek tokom arapskih osvajanja u 7. veku.",
+    "Persijsko nasleđe obuhvata razvoj administracije, arhitekture, umetnosti i religijske filozofije. Uticali su na grčku, rimsku, vizantijsku i arapsku kulturu, ostavljajući trag u svetskoj istoriji kao jedna od najuticajnijih civilizacija antičkog i ranosrednjovekovnog perioda."
+  ],
+  "questions": [
+    {
+      "question": "Ko je osnovao Ahemenidsko Persijsko carstvo?",
+      "answers": ["Kir Veliki", "Darije I", "Kserks I", "Sargon"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvala osnovna administrativna jedinica Persijskog carstva?",
+      "answers": ["Tema", "Satrapija", "Dominion", "Regiment"],
+      "correct": 1
+    },
+    {
+      "question": "Koji persijski vladar je izgradio Carski put?",
+      "answers": ["Kambiz II", "Kserks I", "Darije I", "Artafernes"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove persijska religija zasnovana na učenju proroka Zaratustre?",
+      "answers": ["Manihejizam", "Zoroastrizam", "Mitraizam", "Mazdakizam"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je osvojio Egipat i pridružio ga Persijskom carstvu?",
+      "answers": ["Darije III", "Kambiz II", "Kir Veliki", "Artakserks II"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila prestonica Persijskog carstva tokom Ahemenida?",
+      "answers": ["Vavilon", "Suza", "Persepolis", "Ekbatana"],
+      "correct": 2
+    },
+    {
+      "question": "Koji persijski vladar je napao Grčku 480. godine p.n.e.?",
+      "answers": ["Kir Veliki", "Darije I", "Kserks I", "Artakserks III"],
+      "correct": 2
+    },
+    {
+      "question": "Koji narod je koristio 'kraljevsku konjicu' – kataphrakte?",
+      "answers": ["Asirci", "Sasanidi", "Grci", "Hetiti"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao poslednji ahemenidski kralj?",
+      "answers": ["Artakserks IV", "Darije III", "Kserks II", "Bardija"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je porazio Persijance 330. godine p.n.e.?",
+      "answers": ["Rimljani", "Aleksandar Veliki", "Skiti", "Egipćani"],
+      "correct": 1
+    },
+    {
+      "question": "Koja dva carstva vode duge ratove sa Sasanidima?",
+      "answers": ["Rimsko i Vizantijsko", "Kinesko i Mongolsko", "Vavilonsko i Asirsko", "Egipatsko i Hetitsko"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zove persijski hram svete vatre?",
+      "answers": ["Atarion", "Atashkade", "Mitraion", "Ziggurat"],
+      "correct": 1
+    },
+    {
+      "question": "Koji grad je spalio Aleksandar nakon osvajanja Persije?",
+      "answers": ["Vavilon", "Persepolis", "Suza", "Niniva"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio prvi vladar Sasanidske dinastije?",
+      "answers": ["Ardašir I", "Šapur I", "Hormizd", "Bahram II"],
+      "correct": 0
+    },
+    {
+      "question": "Koji persijski kralj je izgubio bitku kod Maratona?",
+      "answers": ["Darije I", "Kserks I", "Artakserks I", "Kambiz II"],
+      "correct": 0
+    },
+    {
+      "question": "Koja civilizacija je stvorila koncept 'ahura' i 'daeva' – dobrih i zlih duhova?",
+      "answers": ["Grčka", "Persijska (zoroastrizam)", "Vavilonska", "Egipatska"],
+      "correct": 1
+    },
+    {
+      "question": "U kojoj bici Aleksandar odlučno slama Darija III?",
+      "answers": ["Bitka kod Termopila", "Bitka kod Plateje", "Bitka kod Gaugamele", "Bitka kod Salamine"],
+      "correct": 2
+    },
+    {
+      "question": "Koje carstvo uspostavlja najveću mrežu puteva u antičkom svetu pre Rima?",
+      "answers": ["Egipatsko", "Ahemenidsko persijsko", "Asirsko", "Hetitsko"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao veliki persijski zakonodavac i reformator?",
+      "answers": ["Bardija", "Artakserks I", "Darije I", "Kserks II"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je osnivač persijske religijske tradicije?",
+      "answers": ["Mitras", "Ahura Mazda", "Zaratustra (Zoroaster)", "Mani"],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "mesopotamija",
+  "name": "Mesopotamija",
+  "tagline": "Zemlja između dve reke – kolevka prve ljudske civilizacije.",
+  "intro": [
+    "Mesopotamija, što znači 'zemlja između dve reke' (Tigra i Eufrata), predstavlja jednu od najstarijih civilizacija na svetu i često se naziva 'kolevkom civilizacije'. Upravo na ovim prostorima, u području današnjeg Iraka i delova Sirije i Irana, nastaju prvi gradovi, prva pisma, prve zakonike, prvi hramovi, prva organizovana društva i prva carstva u istoriji čovečanstva.",
+    "Najstariji narod koji je razvio visok nivo kulture u Mesopotamiji bili su Sumeri. Njihovi gradovi-države poput Uruka, Ura, Lagaša i Kiša bili su centri religije, trgovine i administracije. Sumeri su oko 3300. godine p.n.e. razvili klinasto pismo, najstariji poznati sistem pisanja na svetu, kojim su beležene ekonomske transakcije, pravni dokumenti, mitovi i pesme.",
+    "Jedno od najpoznatijih sumerskih dela je 'Epo o Gilgamešu', najstariji ep ikada zabeležen. Gilgameš, kralj Uruka, predstavljen je kao polubog koji traga za besmrtnošću, a ep sadrži i najstariju verziju mita o Potopu.",
+    "Nakon Sumera, Mesopotamijom vladaju Akađani, na čelu sa Sargonem I, koji stvara prvo veliko carstvo u istoriji. Oni prvi uvode koncept profesionalne vojske i centralizovane vlasti. Kasnije nastaju Asirsko i Vavilonsko carstvo. Asirci su bili poznati kao vrhunski ratnici, administratori i graditelji, dok su Vavilonci najpoznatiji po kulturnom i pravnom nasleđu.",
+    "Vavilonski kralj Hamurabi poznat je po 'Hamurabijevom zakoniku', jednom od najstarijih zakonika u istoriji, koji uvodi princip 'oko za oko, zub za zub'. Vavilon je takođe bio dom čuvenog Zigurata Etemenanija, koji se često povezuje sa biblijskom pričom o Vavilonskoj kuli.",
+    "Asirci, sa prestonicama Ninivom i Asurom, razvili su moćno militarističko carstvo koje se prostiralo od Egipta do Irana. Njihova kraljevska biblioteka u Ninivi, koju je osnovao Asurbanipal, sadržala je hiljade glinenih tablica sa zapisima o medicini, astronomiji, mitologiji i pravu.",
+    "Nakon pada Asirskog carstva pojavljuju se Novo-Vavilonsko carstvo pod Nabukodonosorom II, poznato po 'Visećim vrtovima Vavilona', jednom od sedam svetskih čuda (iako njihovo postojanje ostaje predmet rasprave). U njegovoj vladavini Vavilon postaje najveći i najlepši grad antičkog sveta.",
+    "Mesopotamske civilizacije doprinele su razvoju matematike (šezdesetični sistem), astronomije, prvih kalendara, prvih sudskih sistema, hidrotehnike i kompleksne birokratije. Uprkos čestim ratovima, smenama vlasti i osvajačima, region je ostao simbol ljudske inovativnosti.",
+    "Persijsko osvajanje 539. godine p.n.e. pod Kirom Velikim završava nezavisnost Mesopotamije, ali njen kulturni uticaj nastavlja da oblikuje Bliski istok i celokupnu svetsku istoriju."
+  ],
+  "questions": [
+    {
+      "question": "Koji narod je prvi razvio visoko razvijenu civilizaciju u Mesopotamiji?",
+      "answers": ["Sumeri", "Egipćani", "Hetiti", "Persijanci"],
+      "correct": 0
+    },
+    {
+      "question": "Koje pismo su koristili Sumeri?",
+      "answers": ["Hijeroglifi", "Klinasto pismo", "Feničko pismo", "Grčko pismo"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio poznat kao osnivač prvog carstva u istoriji?",
+      "answers": ["Hamurabi", "Sargon Akadski", "Asurbanipal", "Nabukodonosor II"],
+      "correct": 1
+    },
+    {
+      "question": "Koji ep se smatra najstarijim epom u istoriji?",
+      "answers": ["Ilijada", "Epo o Gilgamešu", "Mahabharata", "Enuma Eliš"],
+      "correct": 1
+    },
+    {
+      "question": "Koji vavilonski kralj je poznat po svom zakoniku?",
+      "answers": ["Sargon", "Asurbanipal", "Hamurabi", "Kiro Veliki"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva monumentalna stepenasta građevina u Mesopotamiji?",
+      "answers": ["Obelisk", "Hram", "Ziguratt", "Mauzolej"],
+      "correct": 2
+    },
+    {
+      "question": "Koja civilizacija je osnovala biblioteku u Ninivi?",
+      "answers": ["Asirska", "Egipatska", "Hetitska", "Persijska"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je vladao Vavilonom za vreme vrhunca njegove moći?",
+      "answers": ["Kir Veliki", "Nabukodonosor II", "Darej I", "Sargon II"],
+      "correct": 1
+    },
+    {
+      "question": "Koja su bila dva glavna grada Asirskog carstva?",
+      "answers": ["Ur i Uruk", "Ašur i Niniva", "Vavilon i Sipar", "Mari i Ebla"],
+      "correct": 1
+    },
+    {
+      "question": "Koji narod je osvojio Mesopotamiju 539. godine p.n.e.?",
+      "answers": ["Egipćani", "Grci", "Persijanci", "Feničani"],
+      "correct": 2
+    },
+    {
+      "question": "Koji ep sadrži najstariju verziju priče o Potopu?",
+      "answers": ["Vede", "Tora", "Epo o Gilgamešu", "Ilijada"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zvala kraljevska građevina u Vavilonu povezana sa mitom o kuli?",
+      "answers": ["Etemenanki", "Luxor", "Persepolis", "Benben"],
+      "correct": 0
+    },
+    {
+      "question": "Koja civilizacija je koristila šezdesetični matematički sistem?",
+      "answers": ["Egipatska", "Sumerska", "Grčka", "Indijska"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio poslednji veliki vladar Novo-Vavilonskog carstva?",
+      "answers": ["Hamurabi", "Sargon", "Asurbanipal", "Nabukodonosor II"],
+      "correct": 3
+    },
+    {
+      "question": "Kako se zvao najpoznatiji sumerski kralj iz Uruka?",
+      "answers": ["Gilgameš", "Enki", "Lugalzagisi", "Šulgi"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zove najstariji poznati pravni dokument Mesopotamije?",
+      "answers": ["Zakonik Asurbanipala", "Ninivski kodeks", "Hamurabijev zakonik", "Ur-Namuov zakonik"],
+      "correct": 3
+    },
+    {
+      "question": "Koji ratnički narod je osnovao veliko carstvo u severnoj Mesopotamiji?",
+      "answers": ["Asirci", "Hetiti", "Feničani", "Persijanci"],
+      "correct": 0
+    },
+    {
+      "question": "Kojim rečnim sistemima je Mesopotamija okružena?",
+      "answers": ["Nilom i Jordanom", "Tigrom i Eufratom", "Indom i Gangom", "Dunavom i Savom"],
+      "correct": 1
+    },
+    {
+      "question": "Koja civilizacija je stvorila najranije poznate gradove?",
+      "answers": ["Rimska", "Sumska", "Sumerska", "Akađačka"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio poznat kao osnivač prvog profesionalnog stalnog vojnog sistema?",
+      "answers": ["Sargon Akadski", "Hamurabi", "Kiro Veliki", "Enmerkar"],
+      "correct": 0
+    }
+  ]
+}

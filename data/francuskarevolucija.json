@@ -1,0 +1,116 @@
+{
+  "id": "francuskarevolucija",
+  "name": "Francuska revolucija",
+  "tagline": "Revolucija koja je srušila apsolutnu monarhiju i promenila svet.",
+  "intro": [
+    "Francuska revolucija (1789–1799) predstavlja jedan od najdramatičnijih i najuticajnijih događaja u svetskoj istoriji. Ona je označila kraj apsolutističke monarhije u Francuskoj, raspad feudalnog poretka i formiranje novih političkih ideja koje će oblikovati modernu Evropu – jednakost, građanska prava, republikanski sistem i suverenitet naroda.",
+    "Uzroci revolucije bili su duboko ukorenjeni. Francuska je bila u teškoj ekonomskoj krizi zbog dugova nastalih iz prethodnih ratova, uključujući podršku američkoj revoluciji. Narod je patio od gladi i visokih cena hrane, dok je plemstvo uživalo privilegije i oslobađalo se većine poreza. Treći stalež (seljaci, radnici, građanstvo) činio je 97% stanovništva, ali nije imao gotovo nikakvu političku moć.",
+    "Godine 1789. sazvani su Državni staleži – skupština predstavnika triju staleža – ali Treći stalež uskoro se proglašava Nacionalnom skupštinom, tvrdeći da predstavlja francuski narod. Uskoro donose Zakletvu u loptarnici, obećavajući da neće napustiti salu dok ne napišu novi ustav. Ovo označava početak revolucije.",
+    "14. jula 1789. narod Pariza osvaja Bastilju, simbol kraljevske tiranije. Ovaj događaj postaje ikona revolucije. Slede reforme poput ukidanja feudalizma, donošenja Deklaracije o pravima čoveka i građanina, nacionalizacije crkvene imovine i transformacije države.",
+    "Revolucija prolazi kroz više faza: ustavna monarhija (1789–1792), zatim republika (1792–1795), a nakon toga Direktorijum (1795–1799). Tokom radikalne faze (1793–1794), vođa jakobinaca Maksimilijan Robespjer uvodi period poznat kao Vladavina terora, u kojem su hiljade ljudi pogubljene giljotinom, uključujući i kralja Luja XVI i kraljicu Mariju Antoanetu.",
+    "Francuska se bori i protiv evropskih monarhija koje žele da uguše revoluciju. Revolucionarne armije ostvaruju važnu ulogu, a mladi general Napoleon Bonaparta postepeno se uzdiže do statusa nacionalnog heroja. Njegov vojni uspeh, politička energija i popularnost omogućiće mu da 1799. godine izvrši državni udar i preuzme vlast, čime revolucija formalno završava.",
+    "Francuska revolucija ostavila je duboke tragove širom sveta. Njene ideje inspirisale su kasnije pokrete – od evropskih narodnih revolucija 1848. do borbi za nezavisnost širom sveta. Uticala je na modernu demokratiju, ljudska prava, nacionalizam i koncept građanstva. Iako je bila nasilna i haotična, revolucija je uvela svet u novo političko doba."
+  ],
+  "questions": [
+    {
+      "question": "Koja godina se smatra početkom Francuske revolucije?",
+      "answers": ["1776.", "1789.", "1792.", "1804."],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva dokument koji je definisao osnovna ljudska i građanska prava?",
+      "answers": ["Magna karta", "Ustav SAD", "Deklaracija o pravima čoveka i građanina", "Versajski pakt"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio kralj Francuske na početku revolucije?",
+      "answers": ["Luj XIV", "Luj XV", "Luj XVI", "Šarl X"],
+      "correct": 2
+    },
+    {
+      "question": "Koji događaj simbolično označava početak revolucije?",
+      "answers": ["Pad Bastilje", "Napoleonova krunidba", "Robespjerovo pogubljenje", "Pad Tilerija"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio vođa jakobinaca tokom radikalne faze revolucije?",
+      "answers": ["Mirabo", "Danton", "Robespjer", "Marat"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se nazivao dokument kojim su plemićke privilegije ukinute?",
+      "answers": ["Augustovski dekreti", "Zakletva u loptarnici", "Konstitucija 1793.", "Edikt o nantesu"],
+      "correct": 0
+    },
+    {
+      "question": "Koja grupa je bila najradikalnija tokom revolucije?",
+      "answers": ["Žirondinci", "Monarhisti", "Kraljevci", "Jakobinci"],
+      "correct": 3
+    },
+    {
+      "question": "Kako se zvala prva ustavna institucija formirana 1789?",
+      "answers": ["Narodna skupština", "Zakonodavna skupština", "Nacionalna skupština", "Direktorijum"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva period masovnih pogubljenja tokom revolucije?",
+      "answers": ["Bele noći", "Vladavina terora", "Nedelja slobode", "Velika pobuna"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio pogubljen 1793. godine?",
+      "answers": ["Luj XVI", "Napoleon", "Taleran", "Mirabo"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je postao vođa Francuske 1799. nakon državnog udara?",
+      "answers": ["Volter", "Marat", "Ruso", "Napoleon Bonaparta"],
+      "correct": 3
+    },
+    {
+      "question": "Koji stalež je predstavljao većinu stanovništva Francuske?",
+      "answers": ["Prvi stalež", "Drugi stalež", "Treći stalež", "Kraljevski senat"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva zakletva kojom su poslanici Trećeg staleža obećali da neće otići dok ne napišu ustav?",
+      "answers": ["Zakletva u Notre Damu", "Narodna zakletva", "Zakletva u loptarnici", "Versajska prisega"],
+      "correct": 2
+    },
+    {
+      "question": "Koji organ upravlja Francuskom u periodu 1795–1799?",
+      "answers": ["Republika", "Direktorijum", "Carstvo", "Privremeni savet"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivao revolucionarni kalendar uveden tokom revolucije?",
+      "answers": ["Republikanski kalendar", "Savremeni kalendar", "Dekadni kalendar", "Konstitucionalni kalendar"],
+      "correct": 0
+    },
+    {
+      "question": "Koji filozof nije bio direktno povezan sa francuskom revolucijom?",
+      "answers": ["Ruso", "Monteskje", "Volter", "Homer"],
+      "correct": 3
+    },
+    {
+      "question": "Koji dokument je ukinuo feudalizam u Francuskoj?",
+      "answers": ["Sporazum iz Pariza", "Augustovski dekreti", "Direktorijumska povelja", "Novi zakon o staležima"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio politički rival Robespjeru, takođe pogubljen tokom terora?",
+      "answers": ["Danton", "Napoleon", "Mirabo", "Taleran"],
+      "correct": 0
+    },
+    {
+      "question": "Koji događaj je doveo do početka radikalne faze revolucije?",
+      "answers": ["Bitka kod Vaterloa", "Napad na Tilerije", "Proglas republike", "Uvođenje novog kalendara"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila ključna posledica Francuske revolucije?",
+      "answers": ["Obnova apsolutizma", "Povratak plemićkih privilegija", "Uspon Napoleona", "Povratak feudalizma"],
+      "correct": 2
+    }
+  ]
+}

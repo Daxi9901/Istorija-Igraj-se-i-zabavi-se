@@ -1,0 +1,114 @@
+{
+  "id": "indija",
+  "name": "Stara Indija",
+  "tagline": "Civilizacija Harape, Vedskog perioda i carstva Maurija – jedna od najstarijih kultura na svetu.",
+  "intro": [
+    "Stara Indija obuhvata više hiljada godina istorije, kulture i religije koje su oblikovale jedan od najvećih i najrazvijenijih civilizacijskih sistema u svetu. Najstariji tragovi organizovanog društva potiču iz civilizacije Indske doline (Harapa i Mohenjo-Daro), koja je cvetala između 2600. i 1900. godine p.n.e. Ova civilizacija imala je napredne gradove, kanalizaciju, urbanizam u mrežnoj strukturi, plansku izgradnju kuća i bogatu trgovinu. Harapljani su koristili rani oblik pisma, radili sa bakrom, bronzom i dragim kamenjem, a trgovali su sa Mesopotamijom i Persijom.",
+    "Nakon propasti indske civilizacije razvija se Vedski period (oko 1500–500. p.n.e.), u kojem se oblikuju temeljne religijske i društvene strukture Indije. Arijevska plemena unose novi jezik – sanskrt – i stvaraju svete knjige Vede, najstarije tekstove indijske religijske tradicije. Vedski period donosi formiranje kasti, razvoj rituala, žrtvenih obreda, kao i mitologiju bogova poput Indre, Varune, Agnija i Soma.",
+    "U kasnijem periodu formiraju se prve velike države i kraljevstva na Indijskom potkontinentu. Najznačajnije među njima bilo je Maurijsko carstvo koje je osnovao Čandragupta Maurija (4. vek p.n.e.). Pod vladavinom Ašoke Velikog, Maurijsko carstvo postaje jedno od najmoćnijih u Aziji. Ašoka širi budizam, podiže stupove sa uklesanim zakonima, promoviše nenasilje, moral i religijsku toleranciju. Indija tokom ovog perioda postaje centar trgovine, filozofije, matematike i umetnosti.",
+    "Budizam i hinduizam, dve ključne religije Indije, oblikuju duhovni svet čitavog regiona. Hinduizam stvara složeni sistem bogova, filozofskih škola i rituala, dok budizam širi ideje o prosvetljenju, karmičkom ciklusu i uklanjanju patnje. Indijski epovi – Mahabharata i Ramajana – ubrajaju se među najveća književna dela drevnog sveta i prenose priče o herojstvu, moralu i filozofiji.",
+    "Stara Indija ostavila je dubok trag u matematici, astronomiji, medicini i urbanizmu. Indijski matematičari razvili su decimalni sistem, broj nulu, geometriju i algebru. Ajurveda je bila sistem medicine koji je kombinovao biljnu terapiju, jogu, masažu i energetsku ravnotežu. Ova civilizacija oblikovala je temelje mnogih istočnjačkih kultura i ostala jedan od najvažnijih stubova svetske istorije."
+  ],
+  "questions": [
+    {
+      "question": "Koji grad je bio jedno od glavnih središta civilizacije Indske doline?",
+      "answers": ["Patna", "Mohenjo-Daro", "Varanasi", "Ujjain"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je osnovao Maurijsko carstvo?",
+      "answers": ["Ašoka", "Čandragupta Maurija", "Harša", "Bimbisara"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva sveti jezik Vedskog perioda?",
+      "answers": ["Prakrit", "Tamil", "Sanskrt", "Pali"],
+      "correct": 2
+    },
+    {
+      "question": "Koja religija je bila pod posebnom zaštitom Ašoke Velikog?",
+      "answers": ["Hinduizam", "Budizam", "Džainizam", "Zoroastrizam"],
+      "correct": 1
+    },
+    {
+      "question": "Koja civilizacija je imala napredne kanalizacione sisteme i planske gradove?",
+      "answers": ["Vedska civilizacija", "Civilizacija Indske doline", "Hetitska civilizacija", "Ahemenidsko carstvo"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je najstariji indijski sveti tekst?",
+      "answers": ["Ramajana", "Bhagavad Gita", "Rigveda", "Upanišade"],
+      "correct": 2
+    },
+    {
+      "question": "Čime su se isticali gradovi Harape i Mohenjo-Dara?",
+      "answers": ["Monumentalnim hramovima", "Urbanizmom i kanalizacijom", "Vođama krstaških pohoda", "Naprednom metalurgijom gvožđa"],
+      "correct": 1
+    },
+    {
+      "question": "Koji indijski vladar je ugradio svoje zakone u kamene stubove širom carstva?",
+      "answers": ["Bimbisara", "Ašoka", "Harša", "Čandragupta II"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva indijska medicinska tradicija stara hiljadama godina?",
+      "answers": ["Taoizam", "Ajurveda", "Unani", "Sufi medicina"],
+      "correct": 1
+    },
+    {
+      "question": "Koji su najpoznatiji indijski epovi?",
+      "answers": ["Gilgameš i Eneida", "Mahabharata i Ramajana", "Ilijada i Odiseja", "Avesta i Epopeja o Erri"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio osnivač budizma?",
+      "answers": ["Siddhartha Gautama", "Mahavira", "Ašoka", "Vijaja"],
+      "correct": 0
+    },
+    {
+      "question": "Koja reka je bila središte civilizacije Harape?",
+      "answers": ["Ind", "Ganges", "Eufrat", "Sarasvati"],
+      "correct": 0
+    },
+    {
+      "question": "Koje pismo se koristilo u civilizaciji Indske doline?",
+      "answers": ["Hijeroglifi", "Runično pismo", "Nedekodirano harapsko pismo", "Aramejsko pismo"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove filozofski deo Veda?",
+      "answers": ["Brame", "Upanišade", "Aranjake", "Brahmane"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je osnovni cilj budističkog učenja?",
+      "answers": ["Osvajanje sveta", "Prosvetljenje i prestanak patnje", "Bogosluženje Indri", "Žrtveni rituali i molitve"],
+      "correct": 1
+    },
+    {
+      "question": "Koji matematički koncept potiče iz Indije?",
+      "answers": ["Broj nula", "Kvadratna mreža", "Rimske cifre", "Binarni zapis"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je glavna sveta reka hinduizma?",
+      "answers": ["Taj", "Ganges", "Ind", "Krishna"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je dinastija nasledila Maurije?",
+      "answers": ["Gupta", "Han", "Seleukidi", "Kušani"],
+      "correct": 0
+    },
+    {
+      "question": "Koji bog je centralna figura hinduističkog trojstva?",
+      "answers": ["Ahura Mazda", "Ra", "Brahma", "Zeus"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove tradicionalni indijski sistem društvenih slojeva?",
+      "answers": ["Feudalizam", "Kaste", "Varjazi", "Sektori"],
+      "correct": 1
+    }
+  ]
+}

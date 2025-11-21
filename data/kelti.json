@@ -1,0 +1,115 @@
+{
+  "id": "kelti",
+  "name": "Kelti",
+  "tagline": "Stari narod Evrope poznat po ratničkoj kulturi, umetnosti i druidskoj tradiciji.",
+  "intro": [
+    "Kelti su bili široka grupa indoevropskih naroda koji su tokom starog doba naseljavali područja zapadne, centralne i delom istočne Evrope. Njihova kultura nije bila jedinstvena država, već splet brojnih plemena kao što su Gali, Briti, Belgi, Boi, Helvećani, Irski Kelti, Pikti i mnogi drugi. Ovi narodi su govorili keltskim jezicima koji predstavljaju jednu od najstarijih jezičkih grana indoevropske porodice.",
+    "Najraniji dokazi o Keltima potiču iz kulture Halštat (8–5. vek p.n.e.) koja se odlikovala metalurgijom, složenim nakitom i naprednom tehnikom obrade gvožđa. Kasniji period La Tene (5–1. vek p.n.e.) bio je vreme procvata keltske umetnosti, ratovanja i ekspanzije. Keltska kultura se odlikovala prefinjenim ornamentima, kovanim mačevima, okruglim štitovima, spiralnim motivima i bogatom mitologijom.",
+    "Kelti su bili poznati kao ratnici izuzetne hrabrosti. Rimljani su zapisali da su išli u bitke naslikani bojama, s dugačkim mačevima i glasnim ratnim pokličima. Njihova društva bila su zasnovana na klanovima i plemenskim kraljevima, ali ključnu ulogu imali su druidi — sveštenici, sudije, proroci i učitelji. Druidi su čuvali znanje iz astronomije, prava, medicine i rituala, a njihova religija bila je duboko povezana s prirodom, hrastovim svetilištima i svetim gajevima.",
+    "Najpoznatiji Keltima su Gali, naročito plemena poput Avernana, Boi, Sekvana, Biturigija i Helvećana. Njih je Julius Cezar opisao u svom delu 'Komentari o galskom ratu', gde beleži njihove običaje, ratne taktike, savezničke odnose i dramatične bitke. Najčuveniji galski vođa bio je Vercingetoriks, koji je 52. p.n.e. uspeo da ujedini veliki broj keltskih plemena protiv Rima, ali je na kraju bio poražen u opsadi Alezije.",
+    "Iako su Rimljani potisnuli Kelce iz većeg dela kontinentalne Evrope, njihova kultura je opstala naročito u Irskoj, Škotskoj, Velsu, Kornvolu i Bretanji. Ove zemlje i danas čuvaju keltske jezike i tradiciju. Keltima se pripisuju i brojna umetnička i mitološka dela, uključujući cikluse o Kuu Hulinu, kralju Arturu, čarobnjaku Merlinu i vilinskim narodima iz irske mitologije.",
+    "Keltska umetnost i simbolika duboko su se utkale u arheologiju Evrope — od torques ogrlica, do krstova visokog reljefa, kamenih svetilišta i legendi o sidu (svetu duhova). Njihova društvena struktura, ratnički kodeksi, zanatstvo i religija oblikovali su istoriju Evrope mnogo dugo nakon što su rimski legionari zapisali poslednje priče o njima."
+  ],
+  "questions": [
+    {
+      "question": "Koje je najpoznatije galsko pleme predvodio Vercingetoriks?",
+      "answers": ["Averni", "Helvećani", "Belgi", "Biturigi"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao najviši društveni sloj među Keltima, čuvari znanja i rituala?",
+      "answers": ["Vitezovi", "Druidi", "Skaldovi", "Sveštenici Armini"],
+      "correct": 1
+    },
+    {
+      "question": "Koji rimski vojskovođa je osvojio Galiju?",
+      "answers": ["Pompej", "Trajan", "Julije Cezar", "Hadrijan"],
+      "correct": 2
+    },
+    {
+      "question": "Koja kultura predstavlja rani period keltskog razvoja?",
+      "answers": ["Halštat", "Vinča", "Keltenor", "Etrušćanska"],
+      "correct": 0
+    },
+    {
+      "question": "Koja kultura predstavlja klasični period keltske umetnosti?",
+      "answers": ["Mikenska", "La Tene", "Unetice", "Dorska"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio glavni keltski vođa u bici kod Alezije?",
+      "answers": ["Ambioriks", "Vercingetoriks", "Brenus", "Dumnoriks"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je keltski metalni ukras bio simbol statusa i moći?",
+      "answers": ["Torques ogrlica", "Bronzani disk", "Srebrna fibula", "Krunjeni obruč"],
+      "correct": 0
+    },
+    {
+      "question": "Koji narodi predstavljaju današnje potomke Kelta?",
+      "answers": ["IrcI, Škoti, Velšani", "Nemci i Šveđani", "Španci i Portugalci", "Bugari i Srbi"],
+      "correct": 0
+    },
+    {
+      "question": "Ko su bili sveštenici, učitelji i sudije kod Kelta?",
+      "answers": ["Propovednici", "Filidi", "Druidi", "Sođi"],
+      "correct": 2
+    },
+    {
+      "question": "Kako su se zvale keltske velike narodne skupštine?",
+      "answers": ["Tingovi", "Areopagi", "Mootovi", "Lugi"],
+      "correct": 0
+    },
+    {
+      "question": "Koje keltsko pleme je naseljavalo područje današnje Švajcarske?",
+      "answers": ["Helvećani", "Averni", "Treveri", "Saksoni"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao keltski simbol u obliku spirale?",
+      "answers": ["Triquetra", "Triskelion", "Runa spirala", "Solenspir"],
+      "correct": 1
+    },
+    {
+      "question": "Koji keltski junak je poznat iz irskog mitološkog ciklusa?",
+      "answers": ["Beowulf", "Cú Chulainn", "Sigurd", "Gilgameš"],
+      "correct": 1
+    },
+    {
+      "question": "Koja evropska regija i danas čuva keltski jezik i tradiciju?",
+      "answers": ["Bretanija", "Dalmacija", "Toskana", "Češka"],
+      "correct": 0
+    },
+    {
+      "question": "Kako su Kelti najčešće ulazili u bitku?",
+      "answers": ["Teškom konjicom", "U klinastoj formaciji", "Bosonogi i obojeni", "Sa katapultima"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je keltska knjiga smatrana jednim od najvažnijih umetničkih rukopisa?",
+      "answers": ["Knjiga iz Kelsa", "Codex Gigas", "Lindisfarnski jevanđelistar", "Beogradski psaltir"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvao keltski kružni kamen koji je služio kao simbol vlasti?",
+      "answers": ["Lia Fáil", "Menhir", "Dolmen", "Megalit"],
+      "correct": 0
+    },
+    {
+      "question": "Koja keltska grupa je naseljavala Britaniju pre Rimljana?",
+      "answers": ["Pikti i Briti", "Sasi i Juti", "Franci i Burgundi", "Etruščani"],
+      "correct": 0
+    },
+    {
+      "question": "Koji keltski motiv je često korišćen u umetnosti?",
+      "answers": ["Riblji ornament", "Spirala i čvorovi", "Lav i orao", "Krugovi i trouglovi"],
+      "correct": 1
+    },
+    {
+      "question": "Koji rimski izvor najviše opisuje keltska plemena u Galiji?",
+      "answers": ["De Bello Gallico", "Anali", "Germania", "Metamorfoze"],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "prvisvetskirat",
+  "name": "Prvi svetski rat",
+  "tagline": "Veliki rat koji je promenio svetsku politiku, društvo i moderne države.",
+  "intro": [
+    "Prvi svetski rat (1914–1918), poznat i kao Veliki rat, predstavlja jedan od najrazornijih sukoba u ljudskoj istoriji. U njemu je učestvovalo više od 30 zemalja, a rat je odneo oko 20 miliona života. Rat je započeo kao sukob evropskih sila, ali je ubrzo prerastao u globalnu katastrofu, ostavljajući trajne političke, društvene i ekonomske posledice širom sveta.",
+    "Uzroci rata bili su složeni: rastući nacionalizam, rivalstvo velikih sila, militarizam, kolonijalne napetosti i komplikovan sistem vojnih saveza. Evropa je bila podeljena na dve velike koalicije: Antantu (Velika Britanija, Francuska i Rusija) i Centralne sile (Nemačka, Austro-Ugarska, Osmansko carstvo i Bugarska). Godinama su se akumulirale tenzije, ali je neposredni povod za rat bilo ubistvo austrougarskog prestolonaslednika Franca Ferdinanda 28. juna 1914. u Sarajevu.",
+    "Rat je započeo masovnim mobilizacijama i napadima velikih vojski. Zapadni front ubrzo je prerastao u rovovski rat, sa linijama fronta koje su se protezale od Severnog mora do Švajcarske. Rovovi, bodljikava žica, mitraljezi i artiljerija stvorili su statički front, u kojem je svaka ofanziva rezultirala ogromnim gubicima i minimalnim teritorijalnim dobitcima.",
+    "Na Istočnom frontu rat je bio pokretniji, sa sukobima između Nemačke, Austro-Ugarske i Rusije. U ovom periodu dolazi do opadanja ruske moći i konačno do Ruske revolucije 1917. godine, koja dovodi do povlačenja Rusije iz rata. U međuvremenu, rat se širio na Bliski istok, Afriku i Aziju, uključujući pomorske bitke i kolonijalne sukobe.",
+    "Sjedinjene Američke Države ulaze u rat 1917. godine na strani Antante, što menja ravnotežu snaga. Njihov industrijski kapacitet i sveža vojska ubrzali su slom Centralnih sila. Do kraja 1918. godine, Nemačka se suočava s ekonomskim kolapsom, pobunama i slomom na frontovima, što dovodi do primirja potpisanog 11. novembra 1918.",
+    "Versajski ugovor (1919) nametnuo je Nemačkoj teške reparacije, teritorijalne gubitke i ograničenja vojske. Mnogi istoričari smatraju da su ove kazne posadile seme za Drugi svetski rat. Prvi svetski rat takođe je doveo do raspada četiri velika carstva — Austro-Ugarskog, Osmanskog, Nemačkog i Ruskog — i stvorio novu mapu Evrope i Bliskog istoka.",
+    "Veliki rat promenio je način ratovanja: prvi put su masovno korišćeni tenkovi, avioni, podmornice, bojni otrovi, mitraljezi i moderna artiljerija. Rat je ostavio duboke rane u kulturi, umetnosti i svesti naroda, a generacija vojnika i civila bila je obeležena traumama rovova. Prvi svetski rat ostaje jedna od ključnih prekretnica u savremenoj istoriji."
+  ],
+  "questions": [
+    {
+      "question": "Koji događaj je direktno pokrenuo Prvi svetski rat?",
+      "answers": ["Napad na Poljsku", "Ubijstvo Franca Ferdinanda", "Napad na Pariz", "Ruska revolucija"],
+      "correct": 1
+    },
+    {
+      "question": "Koje države su činile Antantu na početku rata?",
+      "answers": ["Nemačka, Austro-Ugarska, Bugarska", "Britanija, Francuska, Rusija", "Italija, Japan, SAD", "Turska, Grčka, Rumunija"],
+      "correct": 1
+    },
+    {
+      "question": "Koje carstvo je bilo saveznik Nemačke u Centralnim silama?",
+      "answers": ["Britansko carstvo", "Osmansko carstvo", "Japansko carstvo", "Špansko carstvo"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao rovovski front koji se protezao kroz Francusku i Belgiju?",
+      "answers": ["Južni front", "Zapadni front", "Galipoljski front", "Severni front"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država se pridružila ratu 1917. godine, menjajući njegov tok?",
+      "answers": ["Španija", "Japan", "SAD", "Brazil"],
+      "correct": 2
+    },
+    {
+      "question": "Koji je gas prvi put masovno korišćen u Prvom svetskom ratu?",
+      "answers": ["Kiseonik", "Ciklon B", "Hlor", "Argon"],
+      "correct": 2
+    },
+    {
+      "question": "Koje carstvo se raspalo tokom Prvog svetskog rata?",
+      "answers": ["Britansko carstvo", "Rusko carstvo", "Francusko carstvo", "Švedsko carstvo"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je poznata kao jedna od najkrvavijih na Zapadnom frontu?",
+      "answers": ["Bitka kod Termopila", "Bitka kod Verduna", "Bitka kod Lepanta", "Bitka kod Trafalgara"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove sporazum kojim je okončan rat 11. novembra 1918.?",
+      "answers": ["Sporazum iz Minhena", "Primirje iz Kompjenja", "Ugovor u Jeni", "Londonski sporazum"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je pretrpela najveće ljudske gubitke na Istočnom frontu?",
+      "answers": ["Francuska", "Rusija", "Srbija", "Italija"],
+      "correct": 1
+    },
+    {
+      "question": "Šta je bio Glavni uzrok povlačenja Rusije iz rata 1917?",
+      "answers": ["Poraz u Africi", "Građanski rat i revolucija", "Napad Japana", "Nedostatak aviona"],
+      "correct": 1
+    },
+    {
+      "question": "Koji novi tip vozila je prvi put korišćen u ratu?",
+      "answers": ["Parni brod", "Tenk", "Traktor", "Letelica bez motora"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je bila teže pogođena ratom na Balkanu?",
+      "answers": ["Bugarska", "Srbija", "Grčka", "Crna Gora"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove mirovni ugovor kojim je zvanično okončan rat 1919.?",
+      "answers": ["Versajski ugovor", "Bečki ugovor", "Pariški pakt", "Varšavski sporazum"],
+      "correct": 0
+    },
+    {
+      "question": "Koji savez je bio glavni protivnik Centralnih sila?",
+      "answers": ["OPEC", "Sveti savez", "Antanta", "Varšavski pakt"],
+      "correct": 2
+    },
+    {
+      "question": "Koja tehnologija je imala veliki pomorski značaj tokom rata?",
+      "answers": ["Parobrodi", "Podmornice (U-boat)", "Katamarani", "Dizalice"],
+      "correct": 1
+    },
+    {
+      "question": "Gde je ubijen nadvojvoda Franc Ferdinand?",
+      "answers": ["Beograd", "Sarajevo", "Beč", "Zagreb"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka se odlikovala ogromnim gubicima na reki Somi?",
+      "answers": ["Bitka na reci Marni", "Bitka na Somi", "Bitka kod Skage Šerra", "Bitka kod Jitlanda"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je bila domaćin pregovora o primirju 1918?",
+      "answers": ["Francuska", "Švajcarska", "Nemačka", "SAD"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bila posledica Versajskog ugovora?",
+      "answers": ["Ukidanje francuske vojske", "Teške reparacije za Nemačku", "Ujedinjenje Austrije i Nemačke", "Stvaranje Osmanskog carstva"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "vizantija",
+  "name": "Vizantijsko Carstvo",
+  "tagline": "Istočno Rimsko Carstvo – most između antike i srednjeg veka.",
+  "intro": [
+    "Vizantijsko Carstvo, nastalo 330. godine osnivanjem Konstantinopolja, predstavljalo je direktni nastavak Rimskog carstva na istoku. Iako teritorijalno manji od svog rimskog prethodnika, Vizantija je postala jedan od najstabilnijih političkih sistema u istoriji, opstajući više od hiljadu godina.",
+    "Tokom svoje duge istorije, Vizantija je bila poznata po svojoj administraciji, diplomatiji, ekonomiji i tehničkoj sofisticiranosti. Car je smatran Božjim predstavnikom na zemlji, dok je pravoslavna vera oblikovala kulturni i društveni život. Rani period obeležili su konflikti sa Persijom i unutrašnje verske rasprave.",
+    "Jedna od najvećih ličnosti u vizantijskoj istoriji bio je car Justinijan I, koji je obnovio delove rimskog Mediterana, reformisao pravo i izgradio Aja Sofiju, najimpresivniji hram srednjeg veka. Njegov general Belisarije bio je jedan od najvećih vojskovođa epoke.",
+    "Tokom srednjeg perioda, Vizantija se suočila sa stalnim pretnjama: Slovenima, Avarima, Arabljanima i kasnije Bugarima. U ovom periodu razvija se 'tematski sistem', koji je spoj vojske i administracije, a koji je omogućio odbranu carstva tokom teških vekova.",
+    "Jedan od najvećih udara na Vizantiju desio se 1204. godine tokom Četvrtog krstaškog rata, kada je Konstantinopolj osvojen i opljačkan, a na njegovom mestu osnovano Latinsko carstvo. Vizantinci obnavljaju državu 1261. godine pod dinastijom Paleologa, ali nikada ne vraćaju staru snagu.",
+    "Poslednji vekovi obeleženi su ekonomskim padom, teritorijalnim gubicima i konstantnim osmanskim pritiskom. Konačni pad dolazi 29. maja 1453. godine, kada Mehmed II osvaja Konstantinopolj. Smrt cara Konstantina XI Paleologa označila je kraj poslednjeg ostatka Rimskog carstva.",
+    "Vizantijsko kulturno nasleđe živi kroz pravoslavlje, ikonopis, arhitekturu, pravne tradicije i očuvano grčko-rimsko znanje koje je kasnije podstaklo renesansu na Zapadu."
+  ],
+  "questions": [
+    {
+      "question": "Ko je osnovao Konstantinopolj?",
+      "answers": ["Konstantin Veliki", "Justinijan I", "Basil II", "Heraklije"],
+      "correct": 0
+    },
+    {
+      "question": "Koja godina se uzima kao osnivanje Vizantijskog Carstva?",
+      "answers": ["476. n.e.", "330. n.e.", "1453. n.e.", "527. n.e."],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila prestonica Vizantije?",
+      "answers": ["Solun", "Antiohija", "Konstantinopolj", "Nikomedia"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je osvojio Konstantinopolj 1453. godine?",
+      "answers": ["Aleksije I", "Basil II", "Justinijan", "Mehmed II"],
+      "correct": 3
+    },
+    {
+      "question": "Koji car je izgradio Aja Sofiju?",
+      "answers": ["Justinijan I", "Konstantin XI", "Heraklije", "Teodosije I"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je najpoznatija pobuna tokom Justinijanove vladavine?",
+      "answers": ["Zelena buna", "Nika pobuna", "Eparška buna", "Plamena buna"],
+      "correct": 1
+    },
+    {
+      "question": "Koji general je služio pod Justinijanom I?",
+      "answers": ["Narses", "Konstantin XI", "Belisarije", "Lukaprin"],
+      "correct": 2
+    },
+    {
+      "question": "Koja sila je osvojila Anadoliju 1071. godine nakon bitke kod Mancikerta?",
+      "answers": ["Vizantinci", "Arapi", "Seldžuci", "Bugari"],
+      "correct": 3
+    },
+    {
+      "question": "Koji car je obnovio carstvo 1261. godine?",
+      "answers": ["Manuil I", "Teodosije I", "Mihail VIII Paleolog", "Roman Dijogen"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bila zvanična religija Vizantije?",
+      "answers": ["Katoličanstvo", "Islamska vera", "Judaizam", "Pravoslavlje"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je prvi legalizovao hrišćanstvo?",
+      "answers": ["Julijan Odpadnik", "Dioklecijan", "Konstantin Veliki", "Valent"],
+      "correct": 2
+    },
+    {
+      "question": "Koji narod je osnovao Latinsko carstvo 1204.?",
+      "answers": ["Bugari", "Avari", "Krstaši", "Persijanci"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio poslednji vizantijski car?",
+      "answers": ["Konstantin XI", "Basil II", "Mihail VIII", "Aleksije III"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivala teritorijalno-vojna jedinica Vizantije?",
+      "answers": ["Klin", "Tagma", "Tema", "Opsidija"],
+      "correct": 2
+    },
+    {
+      "question": "Koja kultura je najviše uticala na razvoj Vizantije?",
+      "answers": ["Germanska", "Keltska", "Latinska", "Grčka"],
+      "correct": 3
+    },
+    {
+      "question": "Koja godina označava Četvrti krstaški pohod?",
+      "answers": ["1185.", "1261.", "1204.", "1071."],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio poznat kao 'Bugaroubica'?",
+      "answers": ["Belisarije", "Basil II", "Manuil I", "Konstantin VII"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila glavna trkačka arena u Konstantinopolju?",
+      "answers": ["Agora", "Hipodrom", "Forum Trajana", "Dromos"],
+      "correct": 1
+    },
+    {
+      "question": "Koji jezik je bio dominantan u Vizantiji?",
+      "answers": ["Latinski", "Koptski", "Aramejski", "Grčki"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je bio glavni neprijatelj Vizantije na istoku?",
+      "answers": ["Avari", "Bugari", "Persijanci", "Keltiberi"],
+      "correct": 2
+    }
+  ]
+}

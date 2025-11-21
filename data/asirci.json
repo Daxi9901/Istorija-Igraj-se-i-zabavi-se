@@ -1,0 +1,115 @@
+{
+  "id": "vavilon",
+  "name": "Vavilon",
+  "tagline": "Moćna mezopotamska civilizacija poznata po zakonima, astronomiji i monumentalnoj arhitekturi.",
+  "intro": [
+    "Vavilon, smešten u donjem toku reke Eufrat na području današnjeg Iraka, predstavlja srce drevne Mesopotamije i jednu od najznačajnijih civilizacija u istoriji čovečanstva. Njegova istorija obuhvata više hiljada godina, tokom kojih su se smenjivali periodi uspona i propadanja, stvarajući izuzetno složenu i bogatu kulturnu tradiciju. Grad je postao posebno važan u vreme Amorićana tokom 18. veka p.n.e., kada je kralj Hamurabi ujedinio Mezopotamiju i stvorio Prvo Vavilonsko carstvo.",
+    "Hamurabi je najpoznatiji po svom zakoniku, jednom od prvih sačuvanih pisanih pravnih sistema u istoriji. Zakonik je sadržao više od 280 članova, upisanih klinastim pismom na kameni stub. 'Oko za oko, zub za zub' bio je njegov najpoznatiji princip, mada je zakon obuhvatao i trgovačke odnose, radne obaveze, porodične odnose i kazne za različite prekršaje. Ovaj zakonodavni sistem uticao je na kasnije pravne tradicije Bliskog istoka i Mediterana.",
+    "Nakon perioda pada, Vavilon doživljava svoj najveći procvat tokom Novovavilonskog carstva (7–6. vek p.n.e.) pod vlašću Nabopolasara i njegovog sina Nabukodonosora II. U to vreme grad postaje jedan od najlepših i najbogatijih na svetu, poznat po Zidinama Vavilona, procesijskom putu, Ištarinim vratima i čuvenim Visećim vrtovima, jednim od Sedam svetskih čuda antike, iako naučnici i danas raspravljaju o njihovom stvarnom postojanju.",
+    "Vavilonci su bili majstori astronomije i matematike. Koristili su šezdesetični brojevni sistem, zahvaljujući kojem danas imamo podelu sata na 60 minuta i kruga na 360 stepeni. Njihovi astronomi su predviđali pomračenja, pratili kretanje planeta i razvili rano shvatanje astrologije. Vavilonski sveštenici bili su posebno obučeni u posmatranju nebeskih znakova, što je predstavljalo važan deo političkih odluka i ritualnih praksi.",
+    "Religija Vavilona bila je politeistička, sa Mardukom kao vrhovnim bogom grada. Vavilonski hramovi, nazvani ziguratima, predstavljali su monumentalne stepenaste građevine koje su služile kao centri religijskog života. Najpoznatiji zigurat bio je Etemenanki, za koji se često smatra da je inspirisao biblijsku priču o Vavilonskoj kuli.",
+    "Pad Vavilona nastupa 539. godine p.n.e. kada persijski car Kir Veliki osvaja grad. Iako grad više nikada nije vratio svoju nekadašnju slavu, njegovo kulturno nasleđe, naučna dostignuća i mitološke priče nastavile su da žive kroz vekove. Vavilon je postao simbol ljudske ambicije, znanja i moći, ali i upozorenje o prolaznosti velikih carstava."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio najpoznatiji vavilonski zakonodavac?",
+      "answers": ["Sargon", "Hamurabi", "Nabukodonosor II", "Asurbanipal"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao čuveni vavilonski pravni dokument?",
+      "answers": ["Zakonnik Ura-Namua", "Asirske tablice", "Hamurabijev zakonik", "Sumerski kodeks"],
+      "correct": 2
+    },
+    {
+      "question": "Koji bog je bio zaštitnik Vavilona?",
+      "answers": ["Enlil", "Marduk", "Nergal", "Šamaš"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio najpoznatiji vavilonski vladar Novovavilonskog carstva?",
+      "answers": ["Tiglat-Pileser", "Nabukodonosor II", "Hammurabi", "Sargon II"],
+      "correct": 1
+    },
+    {
+      "question": "Koje svetsko čudo se vezuje za Vavilon?",
+      "answers": ["Zigurat Ur", "Viseći vrtovi", "Kolos sa Roda", "Mauzolej u Halikarnasu"],
+      "correct": 1
+    },
+    {
+      "question": "Koji brojni sistem su koristili Vavilonci?",
+      "answers": ["Desetični", "Dvadesećični", "Šezdesetični", "Oktalni"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zvalo monumentalno kapijsko zdanje Vavilona?",
+      "answers": ["Ishtarina vrata", "Vrata Horusa", "Vrata Ašura", "Kapija Gudeje"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je osvojio Vavilon 539. godine p.n.e.?",
+      "answers": ["Nabukodonosor", "Kir Veliki", "Darej I", "Aleksandar Veliki"],
+      "correct": 1
+    },
+    {
+      "question": "Koja monumentalna građevina se često povezuje sa biblijskom 'Vavilonskom kulom'?",
+      "answers": ["Hram Šamaša", "Etemenanki (zigurat)", "Palata Sargona", "Urukova citadela"],
+      "correct": 1
+    },
+    {
+      "question": "Kojim pismom su pisali Vavilonci?",
+      "answers": ["Hijeroglifi", "Klinasto pismo", "Feničko pismo", "Grčko pismo"],
+      "correct": 1
+    },
+    {
+      "question": "Glavni izvor vavilonskog astronomskog znanja nalazio se u:",
+      "answers": ["Carskoj biblioteci Ninive", "Hramovima i ziguratima", "Biblioteci Pergama", "Arhivu Persepolisa"],
+      "correct": 1
+    },
+    {
+      "question": "Koja legenda se često povezuje sa Nabukodonosorom II?",
+      "answers": ["Gradnja piramida", "Viseći vrtovi", "Gilgamešova epopeja", "Kretanje Halijeve komete"],
+      "correct": 1
+    },
+    {
+      "question": "Kojim su putem Vavilonci doprinosili matematici?",
+      "answers": ["Razvojem decimala", "Razvojom grčkih geometrijskih teorema", "Šezdesetičnim sistemom i tabelama množnja", "Izumom nule"],
+      "correct": 2
+    },
+    {
+      "question": "Glavni rival Vavilona u Mezopotamiji bili su:",
+      "answers": ["Egipćani", "Asirci", "Hetiti", "Persijanci"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvala monumentalna ulica koja je vodila kroz Vavilon?",
+      "answers": ["Aleja kraljeva", "Procesijska ulica", "Put Marduka", "Ulica božanstava"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je obnovio i utvrdio Vavilon tokom 6. veka p.n.e.?",
+      "answers": ["Hamurabi", "Nabopolasar i Nabukodonosor II", "Asurbanipal", "Šalmaneser"],
+      "correct": 1
+    },
+    {
+      "question": "Vavilonski matematičari bili su poznati po:",
+      "answers": ["Trigonometriji", "Preciznim tablicama i proračunima", "Izumu decimalne tačke", "Rani algebarski simbolima"],
+      "correct": 1
+    },
+    {
+      "question": "Koja kultura direktno potiče iz vavilonske tradicije?",
+      "answers": ["Sumeri", "Asirci", "Ahemenidi", "Hetiti"],
+      "correct": 1
+    },
+    {
+      "question": "Šta je simbolizovao bog Marduk u vavilonskoj religiji?",
+      "answers": ["Sunce i pravdu", "Rat i hrabrost", "Nebo i stvaranje", "Vodu i plodnost"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se nazivao glavni hram posvećen Marduku?",
+      "answers": ["Etemenanki", "Esagila", "Ekur", "Zikkurat Ur"],
+      "correct": 1
+    }
+  ]
+}

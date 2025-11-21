@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <title>Istorijski Kviz – Civilizacije</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        /* Osnovni stil */
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            background: #0b1020;
+            color: #e7e9f5;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px 16px 40px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 26px;
+            letter-spacing: 0.04em;
+        }
+
+        header p {
+            margin: 8px 0 0;
+            font-size: 14px;
+            opacity: 0.8;
+        }
+
+        .layout {
+            display: grid;
+            grid-template-columns: 260px 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 800px) {
+            .layout {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Sidebar */
+
+        .sidebar {
+            background: #141a33;
+            border-radius: 14px;
+            padding: 16px;
+            box-shadow: 0 0 0 1px rgba(255,255,255,0.03), 0 16px 40px rgba(0,0,0,0.6);
+        }
+
+        .sidebar h2 {
+            font-size: 16px;
+            margin: 0 0 12px;
+        }
+
+        .sidebar p {
+            font-size: 13px;
+            opacity: 0.8;
+            margin: 0 0 12px;
+        }
+
+        label {
+            font-size: 13px;
+            display: block;
+            margin-bottom: 6px;
+            opacity: 0.9;
+        }
+
+        #eraSelect {
+            width: 100%;
+            padding: 8px 10px;
+            border-radius: 8px;
+            border: 1px solid #363d60;
+            background: #0f152b;
+            color: #e7e9f5;
+            font-size: 14px;
+        }
+
+        #eraSelect:focus {
+            outline: none;
+            border-color: #4b86ff;
+            box-shadow: 0 0 0 1px #4b86ff40;
+        }
+
+        .hint-box {
+            margin-top: 16px;
+            padding: 10px 12px;
+            border-radius: 10px;
+            background: #101731;
+            font-size: 12px;
+            opacity: 0.9;
+        }
+
+        /* Glavni deo */
+
+        .content {
+            background: #141a33;
+            border-radius: 14px;
+            padding: 18px 18px 22px;
+            box-shadow: 0 0 0 1px rgba(255,255,255,0.03), 0 16px 40px rgba(0,0,0,0.6);
+        }
+
+        .section-label {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.13em;
+            opacity: 0.7;
+            margin-bottom: 4px;
+        }
+
+        #eraTitle {
+            margin: 0 0 6px;
+            font-size: 20px;
+        }
+
+        .era-tagline {
+            margin: 0 0 14px;
+            font-size: 13px;
+            opacity: 0.75;
+        }
+
+        #eraIntro {
+            font-size: 14px;
+            line-height: 1.6;
+            margin-bottom: 18px;
+            max-height: 250px;
+            overflow-y: auto;
+            padding-right: 8px;
+        }
+
+        #eraIntro p {
+            margin: 0 0 10px;
+        }
+
+        /* Kviz deo */
+
+        #questionText {
+            font-size: 16px;
+            margin-bottom: 12px;
+        }
+
+        .answers {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+
+        .answer-btn {
+            border: 1px solid #2c3558;
+            background: #171f3b;
+            color: #e7e9f5;
+            padding: 8px 10px;
+            border-radius: 10px;
+            text-align: left;
+            font-size: 14px;
+            cursor: pointer;
+            transition: transform 0.05s ease-out, box-shadow 0.1s, background 0.15s, border-color 0.15s;
+        }
+
+        .answer-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+        }
+
+        .answer-btn.correct {
+            background: #1d4f32;
+            border-color: #38c172;
+        }
+
+        .answer-btn.wrong {
+            background: #4b1c2b;
+            border-color: #e3342f;
+        }
+
+        .answer-btn:disabled {
+            opacity: 0.65;
+            cursor: default;
+            box-shadow: none;
+            transform: none;
+        }
+
+        #nextBtn {
+            margin-top: 10px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 10px;
+            font-size: 15px;
+            font-weight: 500;
+            background: #4b86ff;
+            color: #f5f6ff;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        #nextBtn:disabled {
+            opacity: 0.4;
+            cursor: default;
+        }
+
+        #nextBtn:hover:not(:disabled) {
+            background: #346fff;
+        }
+
+        #feedback {
+            margin-top: 10px;
+            font-size: 14px;
+            min-height: 20px;
+            opacity: 0.9;
+        }
+
+        #finalResult {
+            margin-top: 12px;
+            font-size: 15px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Istorijski Kviz – Civilizacije</h1>
+        <p>Izaberi period istorije, pogledaj edukativni uvod i testiraj znanje kroz kviz.</p>
+    </header>
+
+    <div class="layout">
+
+        <!-- LEVA STRANA -->
+        <aside class="sidebar">
+            <h2>Civilizacije</h2>
+            <p>Izaberi istorijsku epohu iz liste. Sadržaj i pitanja se automatski učitavaju.</p>
+
+            <label for="eraSelect">Izaberi epohu:</label>
+            <select id="eraSelect"></select>
+
+            <div class="hint-box">
+                📘 Preporuka:<br>
+                Prvo pročitaj uvod, zatim pokreni kviz.
+            </div>
+        </aside>
+
+        <!-- DESNA STRANA -->
+        <section class="content">
+
+            <!-- EDUKACIJA -->
+            <div id="educationSection">
+                <div class="section-label">Edukativni uvod</div>
+                <h2 id="eraTitle">Učitavanje...</h2>
+                <p class="era-tagline" id="eraTagline"></p>
+
+                <div id="eraIntro"></div>
+
+                <button id="startQuizBtn"
+                    style="margin-top:20px;padding:10px 20px;border:none;border-radius:10px;
+                    font-size:16px;background:#4b86ff;color:#fff;cursor:pointer;">
+                    Pokreni kviz
+                </button>
+            </div>
+
+            <!-- KVIZ -->
+            <div id="quizSection" style="display:none;">
+
+                <div class="section-label">Kviz pitanja</div>
+
+                <div id="questionText">Klikni na „Pokreni kviz“ da počneš.</div>
+
+                <div class="answers" id="answersContainer"></div>
+
+                <div class="quiz-footer" style="display:flex;justify-content:space-between;margin-top:8px;">
+                    <span id="progress">Pitanje 0/0</span>
+                    <span id="score">Rezultat: 0</span>
+                </div>
+
+                <button id="nextBtn">Sledeće pitanje</button>
+
+                <div id="feedback"></div>
+                <div id="finalResult"></div>
+
+            </div>
+
+        </section>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+
+</body>
+
+<body>
+
+<nav style="width:100%;padding:14px 0;text-align:center;background:#0f152b;border-bottom:1px solid rgba(255,255,255,0.1);margin-bottom:20px;">
+    <a href="index.html" style="color:#e7e9f5; margin:0 12px; text-decoration:none;">Home</a>
+    <a href="about.html" style="color:#e7e9f5; margin:0 12px; text-decoration:none;">About</a>
+    <a href="contact.html" style="color:#e7e9f5; margin:0 12px; text-decoration:none;">Contact</a>
+    <a href="coffee.html" style="color:#e7e9f5; margin:0 12px; text-decoration:none;">Buy me a coffee</a>
+    <a href="privacy.html" style="color:#e7e9f5; margin:0 12px; text-decoration:none;">Privacy</a>
+</nav>
+
+<div class="container">
+    ...
+
+</html>

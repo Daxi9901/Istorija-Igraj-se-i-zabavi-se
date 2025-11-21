@@ -1,0 +1,116 @@
+{
+  "id": "americkarevolucija",
+  "name": "Američka revolucija",
+  "tagline": "Borba 13 kolonija za nezavisnost od Britanske imperije.",
+  "intro": [
+    "Američka revolucija (1765–1783) predstavlja jedan od najvažnijih događaja moderne istorije. U pitanju je proces kojim su trinaest britanskih kolonija u Severnoj Americi proglasile svoju nezavisnost i formirale Sjedinjene Američke Države. Uzroci revolucije bili su duboko ukorenjeni u ekonomskim, političkim i ideološkim sukobima između kolonista i britanske krune.",
+    "Nakon Sedmogodišnjeg rata, Velika Britanija je bila finansijski iscrpljena i pokušala je da nadoknadi troškove uvođenjem novih poreza u kolonijama: Zakon o šećeru, Zakon o markicama, Zakon o čaju i drugi. Međutim, kolonisti su se oštro protivili ovim merama, jer nisu imali predstavnike u britanskom parlamentu. Tako je nastao slogan koji je postao simbol otpora: 'No taxation without representation!' — bez političkog predstavljanja nema oporezivanja.",
+    "Odnosi su dodatno pogoršani nakon Bostonskog masakra 1770. i posebno nakon Bostonske čajanke 1773, kada su kolonisti protestujući protiv poreza bacili velike količine britanskog čaja u more. Kao odgovor, Britanija uvodi tzv. Nepodnošljive zakone, kojima kažnjava kolonije i ograničava njihovu autonomiju. Ovo dovodi do stvaranja Prvog i Drugog kontinentalnog kongresa, gde se kolonije prvi put organizuju zajednički protiv britanske vlasti.",
+    "Rat počinje 1775. godine bitkama kod Leksingtona i Konkorda. Kontinentalna vojska pod vođstvom Džordža Vašingtona suočava se sa profesionalnom britanskom vojskom, ali američki otpor jača, posebno posle ključnih pobeda kod Saratoge 1777. Ova pobeda ubeđuje Francusku da uđe u rat na strani kolonista, čime se sukob pretvara u međunarodni rat. Dolazak francuske mornarice i vojske, kao i finansijska i materijalna podrška, pokazali su se presudnim.",
+    "Tokom rata odvijaju se velike bitke širom kolonija: Bitka kod Bruklina, Trenton, Princeton, Saratoga, Gilford Korthauz, Jorktaun i druge. Rat nije bio samo vojni sukob — predstavljao je i ideološku revoluciju u kojoj se formiraju temelji modernog republikanizma, koncepta građanskih sloboda i prava, kao i ideje suverenosti naroda.",
+    "Kulminacija dolazi 1781. godine opsadom Jorktauna, gde kombinovane američko-francuske snage primoravaju britanskog generala Kornvalisa na kapitulaciju. Mir u Parizu 1783. godine priznaje nezavisnost Sjedinjenih Američkih Država i definiše njihove prve granice.",
+    "Američka revolucija ostavila je dubok globalni uticaj. Inspirisala je druge pokrete, uključujući Francusku revoluciju, borbe za nezavisnost u Latinskoj Americi i širenje ideja individualnih prava, ustavnosti i republikanizma širom sveta. Revolucija nije bila savršena — ropstvo je ostalo prisutno, a prava žena i domorodaca bila su ograničena — ali njeni principi postavili su temelje savremenih demokratija."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio glavnokomandujući Kontinentalne vojske tokom Američke revolucije?",
+      "answers": ["Džon Adams", "Džordž Vašington", "Tomas Džeferson", "Benedikt Arnold"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je zajednički uzvik kolonista sažimao njihovo nezadovoljstvo britanskim porezima?",
+      "answers": ["No taxation without representation", "Give me liberty", "United we stand", "Freedom or death"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bitka ubedila Francusku da stupi u rat na strani Amerikanaca?",
+      "answers": ["Bitka kod Bunkers Hila", "Bitka kod Saratoge", "Bitka kod Jorktauna", "Bitka kod Trenta"],
+      "correct": 1
+    },
+    {
+      "question": "Koji događaj je uključivao bacanje čaja u more kao protest protiv poreza?",
+      "answers": ["Bostonska čajanka", "Bostonski masakr", "Opsada Bostona", "Pokrštavanje kolonija"],
+      "correct": 0
+    },
+    {
+      "question": "Koji dokument objavljuje nezavisnost kolonija 1776. godine?",
+      "answers": ["Ustav SAD", "Federalistički spisi", "Deklaracija nezavisnosti", "Pariški sporazum"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je glavni autor Deklaracije nezavisnosti?",
+      "answers": ["Džon Henkok", "Džejms Medison", "Tomas Džeferson", "Džon Džej"],
+      "correct": 2
+    },
+    {
+      "question": "Rat zvanično počinje bitkama kod:",
+      "answers": ["Filadelfije i Njujorka", "Leksingtona i Konkorda", "Savane i Čarlstona", "Richmonda i Baltimora"],
+      "correct": 1
+    },
+    {
+      "question": "Koja evropska sila je najviše pomogla Amerikancima?",
+      "answers": ["Španija", "Francuska", "Portugalija", "Holandija"],
+      "correct": 1
+    },
+    {
+      "question": "Koji britanski general se predao u Jorktaunu 1781. godine?",
+      "answers": ["Gage", "Kornvalis", "Klinton", "Burgoin"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je bila prva velika pobeda kolonista nakon prelaska Delawarea?",
+      "answers": ["Bitka kod Trenta", "Bitka kod Saratoge", "Bitka kod Jorktauna", "Bitka kod Monmauta"],
+      "correct": 0
+    },
+    {
+      "question": "Koji je bio glavni cilj Britanije u ranim fazama rata?",
+      "answers": ["Uništavanje francuske flote", "Izolacija Nove Engleske", "Napad na Kanadu", "Ujedinjenje kolonija"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je ratni plan dovodio britanskog generala Burgoynea do katastrofe?",
+      "answers": ["Južni plan", "Kanadski plan", "Plan tri vojske ka Albani", "Atlantik strategija"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je označila najveću taktičku pobedu Amerikanaca pre Francuske pomoći?",
+      "answers": ["Monmaut", "Trenton", "Bruklin", "Gilford"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je, uz Francusku, takođe pomagala kolonistima finansijski i vojno?",
+      "answers": ["Rusija", "Španija", "Danska", "Švedska"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove prvi zvanični ustav kolonija iz 1781.?",
+      "answers": ["Ustav SAD", "Federalistički zakoni", "Članci Konfederacije", "Deklaracija prava"],
+      "correct": 2
+    },
+    {
+      "question": "Koji kolonijalni grad je bio centar političkog okupljanja protiv Britanaca?",
+      "answers": ["Boston", "Čarlston", "Savannah", "Richmond"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio komandant francuske vojske koja je pomogla kod Jorktauna?",
+      "answers": ["La Fajet", "Rošanbo", "Vilnev", "Šamfort"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila glavna snaga kolonijalne vojske u ranim fazama rata?",
+      "answers": ["Brojnija pešadija", "Poznavanje terena", "Nadmoćna mornarica", "Teška artiljerija"],
+      "correct": 1
+    },
+    {
+      "question": "Koji sporazum formalno okončava rat 1783?",
+      "answers": ["Sporazum iz Filadelfije", "Sporazum iz Londona", "Pariški sporazum", "Sporazum iz Bostona"],
+      "correct": 2
+    },
+    {
+      "question": "Koji američki diplomata je pregovarao mir sa Britanijom?",
+      "answers": ["Džon Džej", "Džon Adams", "Benjamin Frenklin", "Sva trojica"],
+      "correct": 3
+    }
+  ]
+}

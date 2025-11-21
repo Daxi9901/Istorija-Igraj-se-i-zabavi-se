@@ -1,0 +1,115 @@
+{
+  "id": "prvisrpskiustanak",
+  "name": "Prvi srpski ustanak",
+  "tagline": "Početak srpske borbe za slobodu i rušenje osmanske vlasti.",
+  "intro": [
+    "Prvi srpski ustanak (1804–1813) predstavlja jedan od najvažnijih događaja u istoriji Srbije. On je označio početak dugotrajnog procesa oslobađanja srpskog naroda od Osmanlijskog carstva i stvaranje temelja moderne srpske države. Ustanak je započeo kao reakcija na ekstremno nasilje dahija, otcepljenih osmanskih janičara u Beogradskom pašaluku, koji su sprovodili teror nad stanovništvom, vršili samovolju, iznuđivanje i ubistva.",
+    "Povod za ustanak bio je 'Seča knezova', kada su dahije tokom februara 1804. ubile najuglednije srpske knezove, pokušavajući da spreče moguć otpor. Ovaj događaj razgnevio je narod i potisnuo strah kojim su Osmanlije vekovima održavale svoju vlast. U Orašcu je 14. februara 1804. održan zbor na kojem je Karađorđe Petrović izabran za vožda i vođu ustanka.",
+    "U početnoj fazi ustanka ustanici su ostvarili nekoliko važnih pobeda. Ubrzo su oslobođeni Požarevac, Šabac, Smederevo, a Beograd je zauzet 1806. godine nakon odlučnih borbi. Ustanička vojska, iako neredovna i sastavljena uglavnom od seljaka, bila je izuzetno motivisana i vođena snažnom željom za slobodom. Uspostavljene su nove ustanove vlasti — Narodna skupština, Praviteljstvujušči sovjet i sudovi.",
+    "Voždu Karađorđu pomogli su veliki hajdučki vojvode i lokalne vojvode: Stanoje Glavaš, Hajduk Veljko, Milenko Stojković, Petar Dobrnjac i mnogi drugi. Ustanak je dobio novu dimenziju kada je Rusija pružila podršku Srbima u okviru svojih sukoba protiv Osmanlijskog carstva. Ugovorima i vojnim operacijama 1807–1812, ruska diplomatija pokušavala je da učvrsti srpsku autonomiju.",
+    "Međutim, 1812. godine Rusija potpisuje Bukureški mir sa Osmanlijama zbog Napoleonovog napada na Rusiju. Time Srbija ostaje bez ključne podrške u trenutku kada su Osmanlije započele snažnu ofanzivu. Ustanici su pružali otpor, ali su se suočili sa nadmoćnom osmanskom vojskom, nedostatkom sredstava, unutrašnjim sukobima među vojvodama i iscrpljenošću naroda.",
+    "Krajem 1813. Prvi srpski ustanak slomljen je ponovnom okupacijom Beograda i padom većine utvrđenih punktova. Karađorđe i mnogi vojvode bili su primorani da prebegnu preko Dunava. Iako vojno neuspešan, Prvi ustanak postavio je temelje državnosti, probudio nacionalnu svest i direktno inspirisao Drugi srpski ustanak 1815. godine, kojim će Srbija započeti put ka autonomiji i stvaranju moderne države."
+  ],
+  "questions": [
+    {
+      "question": "Koji događaj je bio neposredni povod za Prvi srpski ustanak?",
+      "answers": ["Opsada Beograda", "Bitka na Ivankovcu", "Seča knezova", "Napad Karađorđevih ustanika na dahije"],
+      "correct": 2
+    },
+    {
+      "question": "Gde je doneta odluka o podizanju ustanka 1804. godine?",
+      "answers": ["Topola", "Požarevac", "Orašac", "Smederevo"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je izabran za vožda na Orašcu 1804?",
+      "answers": ["Stanoje Glavaš", "Karađorđe Petrović", "Milenko Stojković", "Petar Dobrnjac"],
+      "correct": 1
+    },
+    {
+      "question": "Koja grupa osmanskih odmetnika vršila teror u Beogradskom pašaluku pre ustanka?",
+      "answers": ["Spahije", "Derviši", "Dahije", "Janjičari iz Rumelije"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio jedan od najistaknutijih ustanika, poznat po odbrani Negotinske krajine?",
+      "answers": ["Hajduk Veljko", "Stanoje Glavaš", "Veljko Petrović", "Miloš Obrenović"],
+      "correct": 0
+    },
+    {
+      "question": "Koji je grad oslobođen 1806. posle velike borbe?",
+      "answers": ["Valjevo", "Novi Sad", "Beograd", "Niš"],
+      "correct": 2
+    },
+    {
+      "question": "Koji organ je vršio civilnu vlast tokom ustanka?",
+      "answers": ["Beogradski divan", "Praviteljstvujušči sovjet", "Ustavotvorna skupština", "Narodni savet knezova"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je pružala Srbima značajnu pomoći tokom ustanka?",
+      "answers": ["Austrija", "Velika Britanija", "Rusija", "Francuska"],
+      "correct": 2
+    },
+    {
+      "question": "U kojoj bici su ustanici 1805. ostvarili jednu od prvih velikih pobeda?",
+      "answers": ["Boj na Deligradu", "Boj na Ljubiću", "Boj na Ivankovcu", "Boj na Mišaru"],
+      "correct": 2
+    },
+    {
+      "question": "Koja ličnost je vodila vojsku na Mišarskom polju 1806?",
+      "answers": ["Milenko Stojković", "Karađorđe", "Petar Dobrnjac", "Luka Lazarević"],
+      "correct": 3
+    },
+    {
+      "question": "Koji međunarodni sporazum je ostavio Srbiju bez podrške Rusije 1812?",
+      "answers": ["Bukureški mir", "Osmanlijski pakt", "Tilsitski sporazum", "Pariški ugovor"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvala osmanska tvrđava koja je predstavljala centar vlasti u Srbiji?",
+      "answers": ["Beogradski divanhana", "Carigradska kapija", "Beogradska tvrđava", "Smederevski sultanov dvor"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio jedan od prvih ustaničkih vojvoda poznat po pregovorima sa dahijama?",
+      "answers": ["Ilija Birčanin", "Stanoje Glavaš", "Sima Marković", "Miloje Petrović"],
+      "correct": 1
+    },
+    {
+      "question": "Koji događaj označava kraj Prvog srpskog ustanka?",
+      "answers": ["Pad Beograda 1813.", "Pogibija Hajduk Veljka", "Ubijanje dahija", "Bekstvo Karađorđa"],
+      "correct": 0
+    },
+    {
+      "question": "Koja bitka je bila ključna za odbranu ustanka u istočnoj Srbiji?",
+      "answers": ["Boj na Ivankovcu", "Boj kod Varvarina", "Boj na Čoku", "Boj na Štubiku"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio ruski general koji je sarađivao sa ustanicima?",
+      "answers": ["Kutuzov", "Bagration", "Miloradović", "Orlov"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio jedan od najuticajnijih diplomata u Sovjetu praviteljstvujušćem?",
+      "answers": ["Prota Mateja Nenadović", "Đorđe Branković", "Stefan Stevanović Tenka", "Avram Lukačić"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je predvodio odbranu Deligrada?",
+      "answers": ["Karađorđe", "Petar Dobrnjac", "Milenko Stojković", "Stojan Čupić"],
+      "correct": 1
+    },
+    {
+      "question": "Koji ustanički vođa je bio poznat kao 'Zmaj od Noćaja'?",
+      "answers": ["Stanoje Glavaš", "Luka Lazarević", "Stojan Čupić", "Vasa Čarapić"],
+      "correct": 2
+    },
+    {
+      "question": "Koji događaj je direktno usledio nakon sloma ustanka?",
+      "answers": ["Obnova Osmanskog pašaluka", "Drugi srpski ustanak", "Uspostavljanje austrijske vlasti", "Dolazak ruskih trupa"],
+      "correct": 1
+    }
+  ]
+}

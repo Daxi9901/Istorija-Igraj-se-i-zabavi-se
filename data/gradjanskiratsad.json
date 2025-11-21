@@ -1,0 +1,115 @@
+{
+  "id": "gradjanskiratsad",
+  "name": "Građanski rat u SAD",
+  "tagline": "Sukob između Unije i Konfederacije koji je odredio sudbinu Amerike.",
+  "intro": [
+    "Građanski rat u Sjedinjenim Američkim Državama (1861–1865) predstavlja najkrvaviji sukob u istoriji SAD. Rat je vođen između severnih saveznih država, koje su ostale lojalne Uniji, i južnih država koje su se odvojile i formirale Konfederativne Američke Države. Glavni uzroci rata bili su ropstvo, sukobi oko državnih prava, političke napetosti i ekonomske razlike između industrijskog Severа i agrarnog, robovlasničkog Juga.",
+    "Do početka rata dolazi nakon izbora Abrahama Linkolna 1860. godine. Iako Linkoln nije odmah planirao ukidanje ropstva, južne države su se plašile da njegova administracija predstavlja pretnju njihovom ekonomskom sistemu zasnovanom na radu robova. Nakon njegovog izbora, sedam južnih država se otcepljuje i formira Konfederaciju. Rat počinje u aprilu 1861. kada konfederacione trupe napadaju tvrđavu Fort Samter u Južnoj Karolini.",
+    "Rat se odvijao na više frontova: istočnom, zapadnom i trans-misišipskom. Najpoznatije bitke uključuju Getisburg, Antitam, Šajlo, Vilijamsburg, Čatanugu i bogate kampanje generala Granta i Šermana. Bitka kod Getisburga (1863) smatra se prekretnicom rata, dok je Šermanov pohod ka moru 1864. godine dodatno oslabio konfederacione resurse i moral.",
+    "Ropstvo je bilo centralno pitanje rata. U januaru 1863. godine Abraham Linkoln izdaje Proglas o emancipaciji (Emancipation Proclamation), koji proglašava slobodu robova u južnim državama pod pobunom. Time rat poprima moralnu dimenziju i dodatno motiviše borbu Unije protiv Konfederacije. Afroamerički vojnici ulaze u sastav vojske Unije i odigravaju značajnu ulogu u završnim godinama sukoba.",
+    "Do leta 1865. Konfederacija je bila vojno i ekonomski iscrpljena. General Robert E. Li predaje svoju vojsku generalu Ulisesu S. Grantu kod Appomattoxa, čime rat efektivno prestaje. Rezultat rata bio je očuvanje teritorijalnog jedinstva SAD, ukidanje ropstva i početak perioda Rekonstrukcije — političke i društvene transformacije američkog Juga.",
+    "Građanski rat ostavio je duboke rane i podeljenosti u američkom društvu. Ipak, postavio je temelje moderne američke nacije, jačanja federalne vlade i borbe za građanska prava, koja će se nastaviti i u 20. veku."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio predsednik SAD tokom Građanskog rata?",
+      "answers": ["Endrju Džonson", "Džeferson Dejvis", "George Washington", "Abraham Linkoln"],
+      "correct": 3
+    },
+    {
+      "question": "Kako se zvala država koju su formirale otcepljene južne države?",
+      "answers": ["Nova Amerika", "Konfederativne Američke Države", "Republika Juga", "Južna Unija"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila glavna ekonomska osnova Konfederacije?",
+      "answers": ["Industrija", "Ropstvo i plantaže pamuka", "Rudarstvo", "Pomorstvo"],
+      "correct": 1
+    },
+    {
+      "question": "Gde je ispaljen prvi hitac Građanskog rata?",
+      "answers": ["Richmond", "Fort Samter", "Vicksburg", "Nashville"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio glavnokomandujući vojske Konfederacije?",
+      "answers": ["John Bell Hood", "Stonewall Jackson", "Robert E. Lee", "James Longstreet"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je predvodio Uniju u završnim fazama rata?",
+      "answers": ["George McClellan", "William Sherman", "Ulises S. Grant", "Nathan Forrest"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva Linkolnov dokument iz 1863. koji proglašava slobodu robova na jugu?",
+      "answers": ["Federalni dekret", "Ukaz o slobodi", "Deklaracija jednakosti", "Proglas o emancipaciji"],
+      "correct": 3
+    },
+    {
+      "question": "Koja bitka se smatra prekretnicom Građanskog rata?",
+      "answers": ["Antitam", "Šajlo", "Getisburg", "Petersburg"],
+      "correct": 2
+    },
+    {
+      "question": "Koji general je poznat po 'Pohodu na more' (March to the Sea)?",
+      "answers": ["Stonewall Jackson", "Grant", "William T. Sherman", "Lee"],
+      "correct": 2
+    },
+    {
+      "question": "Koji grad je bio glavni grad Konfederacije nakon 1861?",
+      "answers": ["Atlanta", "New Orleans", "Richmond", "Savannah"],
+      "correct": 2
+    },
+    {
+      "question": "Koja bitka je najkrvaviji jednodnevni sukob u istoriji SAD?",
+      "answers": ["Antitam", "Getisburg", "Bull Run", "Nashville"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bila glavna prednost Unije tokom rata?",
+      "answers": ["Bolji generali", "Brojnija populacija i jača industrija", "Strane kolonije", "Potpuna kontrola nad Meksičkim zalivom"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio predsednik Konfederacije?",
+      "answers": ["Robert E. Lee", "Jefferson Davis", "Andrew Jackson", "John Breckinridge"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bitka dala Uniji kontrolu nad Misisipijem?",
+      "answers": ["Chattanooga", "Vicksburg", "Mobile Bay", "Appomattox"],
+      "correct": 1
+    },
+    {
+      "question": "Gde se general Lee predao generalu Grantu?",
+      "answers": ["Savannah", "Appomattox Court House", "Charleston", "Knoxville"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio vodeći politički cilj severa tokom rata?",
+      "answers": ["Osamostaljenje severnih država", "Zadržavanje unije i ukidanje ropstva", "Stvaranje carstva", "Osvajanje Meksika"],
+      "correct": 1
+    },
+    {
+      "question": "Kojom se taktikom proslavio general Sherman?",
+      "answers": ["Gerilski napadi", "Totalni rat i uništavanje resursa", "Pomorska opsada", "Hitri prodori konjice"],
+      "correct": 1
+    },
+    {
+      "question": "Koji događaj se smatra neposrednim povodom otcepljenja Juga?",
+      "answers": ["Linkolnova pobeda na izborima 1860.", "Poraz Meksika", "Pobuna robova", "Bitka kod Fort Donelsona"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivala severna vojska tokom Građanskog rata?",
+      "answers": ["Patriotska armija", "Unijska armija", "Federalna koalicija", "Američke brigade"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je sporazum konačno okončao Građanski rat?",
+      "answers": ["Sporazum iz Atlante", "Vašingtonski sporazum", "Kapitulacija Konfederacije 1865.", "Pariški sporazum"],
+      "correct": 2
+    }
+  ]
+}

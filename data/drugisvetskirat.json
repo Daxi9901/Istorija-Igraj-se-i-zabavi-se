@@ -1,0 +1,117 @@
+{
+  "id": "drugisvetskirat",
+  "name": "Drugi svetski rat",
+  "tagline": "Najveći i najrazorniji sukob u istoriji čovečanstva.",
+  "intro": [
+    "Drugi svetski rat (1939–1945) predstavlja globalni sukob koji je obuhvatio gotovo sve delove sveta i direktno ili indirektno uključio više od 100 miliona ljudi. Bio je to rat nezamislivih razmera, razaranja i žrtava, sa procenama od preko 70 miliona poginulih civila i vojnika. Rat je promenio političku mapu sveta, ubrzao tehnološki razvoj i oblikovao savremeno doba.",
+    "Glavni uzroci rata potiču iz Prvog svetskog rata — ponižavajući uslovi Versajskog ugovora, ekonomska kriza, rast ekstremnih ideologija poput fašizma, nacizma i militarizma, kao i nesposobnost međunarodne zajednice da zaustavi agresivne države. Nemačka pod Hitlerom, Japan pod vojnim režimom i fašistička Italija postali su vodeće sile Osovine.",
+    "Rat zvanično počinje 1. septembra 1939. godine, kada nacistička Nemačka napada Poljsku. Kao odgovor, Velika Britanija i Francuska objavljuju rat Nemačkoj. U narednim mesecima Nemačka brzo osvaja veći deo Evrope koristeći taktiku 'Blitzkrieg' — kombinaciju brzog kretanja tenkova, avijacije i pešadije. Do sredine 1940. godine, Francuska je poražena, a Britanija ostaje sama protiv Hitlera.",
+    "Na istoku, 22. juna 1941. godine, Nemačka pokreće Operaciju Barbarosa — invaziju na Sovjetski Savez. Time počinje najveći i najkrvaviji front u istoriji ratovanja, sa stotinama hiljada poginulih u bitkama poput Staljingrada, Kurska i Lenjingrada. Sovjeti će kasnije postati ključni faktor u slamanju nacizma.",
+    "Japan započinje širenje u Aziji još 1930-ih godina, a 7. decembra 1941. izvodi napad na američku pomorsku bazu Perl Harbur. Time Sjedinjene Države ulaze u rat, što potpuno menja globalnu ravnotežu snaga. U Pacifiku se vode krvave bitke — Midvej, Gvadalkanalska kampanja, Okinava i Ivo Džima.",
+    "Prekretnica u ratu dolazi između 1942. i 1943. godine: Staljingrad na istoku, Midvej na Pacifiku i Severnoafrička kampanja označavaju početak kraja sile Osovine. Saveznici započinju masovne ofanzive, uključujući iskrcavanje u Normandiji (D–Day) 6. juna 1944. godine, što otvara zapadni front protiv Nemačke.",
+    "Rat završava u Evropi 8. maja 1945. godine kapitulacijom nacističke Nemačke, nekoliko dana nakon Hitlerovog samoubistva u Berlinu. U Aziji, rat traje do avgusta 1945, kada SAD bacaju dve nuklearne bombe na Hirošimu i Nagasaki, primoravajući Japan na predaju.",
+    "Drugi svetski rat ostavio je trajne posledice: osnivanje Ujedinjenih nacija, početak Hladnog rata između SAD-a i Sovjetskog Saveza, razpad evropskih kolonijalnih imperija, kao i pravno-političke reforme širom sveta. Takođe je razotkrio najmračniji zločin u istoriji — Holokaust, u kojem je ubijeno šest miliona Jevreja i milioni drugih civila."
+  ],
+  "questions": [
+    {
+      "question": "Kojim događajem je započeo Drugi svetski rat?",
+      "answers": ["Napadom Japana na Kinu", "Napadom Nemačke na Poljsku", "Bitkom za Britaniju", "Napadom na SSSR"],
+      "correct": 1
+    },
+    {
+      "question": "Koje zemlje su činile Osovinu?",
+      "answers": ["SAD, Francuska, Britanija", "Nemačka, Italija, Japan", "SSSR, Kina, Turska", "Španija, Portugal, Italija"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je vojna taktika omogućila Nemačkoj brza osvajanja početkom rata?",
+      "answers": ["Gerilski rat", "Blitzkrieg", "Strategija iscrpljivanja", "Defanzivno nadiranje"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka se smatra prekretnicom na istočnom frontu?",
+      "answers": ["Bitka kod Berlina", "Bitka za Moskvu", "Bitka kod Staljingrada", "Bitka kod Krima"],
+      "correct": 2
+    },
+    {
+      "question": "Koja država je napala Perl Harbur?",
+      "answers": ["Kina", "Japan", "Nemačka", "SSSR"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je označila veliku pobedu SAD nad Japanom?",
+      "answers": ["Bitka kod Kurska", "Bitka kod Midveja", "Bitka kod Ardena", "Bitka kod El Alamejna"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove nacistički genocid nad Jevrejima?",
+      "answers": ["Holokaust", "Pogrom", "Inkvizicija", "Čistka"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio vođa nacističke Nemačke?",
+      "answers": ["Ćerčil", "Hitler", "Mao Cedung", "Staljin"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio vođa Sovjetskog Saveza tokom rata?",
+      "answers": ["Lenjin", "Staljin", "Brežnjev", "Gorbačov"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvala operacija savezničkog iskrcavanja u Normandiji?",
+      "answers": ["Operacija Crvena oluja", "Operacija Lavina", "Operacija Overlord", "Operacija Dragun"],
+      "correct": 2
+    },
+    {
+      "question": "Koje godine je Nemačka kapitulirala?",
+      "answers": ["1940.", "1944.", "1945.", "1947."],
+      "correct": 2
+    },
+    {
+      "question": "Koji događaj je primorao Japan na predaju?",
+      "answers": ["Bitka kod Midveja", "Kapitulacija Nemačke", "Atomskih bombardovanja", "Smrt Hirohita"],
+      "correct": 2
+    },
+    {
+      "question": "Koja zemlja je najviše stradala na istočnom frontu?",
+      "answers": ["Francuska", "SSSR", "Italija", "Švajcarska"],
+      "correct": 1
+    },
+    {
+      "question": "Šta označava termin ‘D–Day’?",
+      "answers": ["Napad Japana na Kinu", "Dan kapitulacije Italije", "Dan savezničkog iskrcavanja u Normandiji", "Dan pobede nad Japanom"],
+      "correct": 2
+    },
+    {
+      "question": "Koja država je bila žestoko bombardovana u Blitzu?",
+      "answers": ["SSSR", "Velika Britanija", "Francuska", "Španija"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je najveća tenkovska bitka u istoriji?",
+      "answers": ["El Alamejn", "Kursk", "Tobruk", "Varšava"],
+      "correct": 1
+    },
+    {
+      "question": "Koja zemlja je kapitulirala 1943.?",
+      "answers": ["Japan", "Italija", "Rumunija", "Bugarska"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je bila neutralna tokom celog rata?",
+      "answers": ["Norveška", "Turska", "Španija", "Grčka"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je potpisao kapitulaciju Nemačke 8. maja 1945?",
+      "answers": ["Himmler", "Gering", "Keitel", "Hitler"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je ključna posledica rata?",
+      "answers": ["Raspad Kine", "Stvaranje NATO-a i početak Hladnog rata", "Ujedinjenje Evrope pod Sovjetima", "Nestanak SAD kao sile"],
+      "correct": 1
+    }
+  ]
+}

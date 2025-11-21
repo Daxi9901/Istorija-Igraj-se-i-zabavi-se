@@ -1,0 +1,115 @@
+{
+  "id": "mongoli",
+  "name": "Mongolsko Carstvo",
+  "tagline": "Najveća kopnena imperija u istoriji, nastala pod vođstvom Džingis-kana i njegovih naslednika.",
+  "intro": [
+    "Mongoli su bili nomadski narod koji je živeo na stepskim prostranstvima današnje Mongolije i severne Kine. Do 13. veka bili su podeljeni u plemena i klanove međusobno u sukobu. Stanje se dramatično menja kada Temudžin, kasnije poznat kao Džingis-kan, uspeva da ujedini mongolska plemena. Godine 1206. proglašen je za 'kana svih Mongola', čime počinje istorija Mongolskog Carstva.",
+    "Mongolska vojska bila je jedna od najefikasnijih u istoriji. Organizovana u jedinice od 10, 100, 1.000 i 10.000 ljudi, poznate kao tümen, oslanjala se na neverovatnu mobilnost, taktiku lažnog povlačenja, konjicu naoružanu složenim lukovima i strogu disciplinu. Mongoli su mogli da pređu ogromne udaljenosti za kratko vreme, što je omogućilo iznenadne napade i nezaustavljive pohode.",
+    "Džingis-kan proširio je carstvo zauzimajući severnu Kinu, Centralnu Aziju, Horezm, delove Persije i Kavkaza. Njegovi naslednici nastavili su osvajanja: Batu-kan stigao je do Evrope i porazio Ugarsku i Poljsku, dok je Kublaj-kan osnovao dinastiju Juan u Kini i učvrstio mongolsku vlast u istočnoj Aziji. Mongolsko Carstvo postalo je najveća kopnena imperija ikada stvorena – prostiralo se od Pacifika do Crnog mora.",
+    "Iako su bili poznati po razornim osvajačkim pohodima, Mongoli su takođe uspostavili stabilan sistem vlasti, poreza i komunikacija. Stvorili su mrežu poštanskih stanica (jam sistem), što je omogućilo brzu razmenu informacija. Podstakli su trgovinu duž Puta svile, pa su trgovci, učenjaci, lekari i zanatlije slobodno putovali kroz ogromnu imperiju. Ova era postala je poznata kao 'pax mongolica' – mongolski mir.",
+    "Kublaj-kan je prigrlio kineske administrativne metode i izgradio grad Hanbalik (današnji Peking). Mongoli su prihvatali različite religije – budizam, islam, hrišćanstvo i šamanizam – i pružali zaštitu verskim učenjacima. Imperija je bila podeljena na više delova, uključujući Zlatnu Hordu, Ilhanat, Čagataj-kanat i dinastiju Juan.",
+    "Mongolsko carstvo počelo je da se raspada u 14. veku usled unutrašnjih sukoba, pobuna i širenja bolesti poput kuge. Ipak, njihovo nasleđe ostalo je ogromno: od kulturnih razmena, trgovine i geografskih otkrića, do uticaja na evropske vojne taktike, administraciju i razvoj globalnih komunikacija. Džingis-kan i njegovi naslednici trajno su promenili sliku srednjovekovnog sveta."
+  ],
+  "questions": [
+    {
+      "question": "Kako se zvao osnivač Mongolskog Carstva?",
+      "answers": ["Batu-kan", "Temudžin (Džingis-kan)", "Kublaj-kan", "Timur Lenk"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je glavni vojni rod dominirao mongolskom vojskom?",
+      "answers": ["Teška pešadija", "Laka konjica sa lukovima", "Krikosnici", "Vojska sa oklopnim kočijama"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvala osnovna organizaciona jedinica mongolske vojske?",
+      "answers": ["Kohorta", "Falanga", "Tümen", "Divizija"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je osnovao dinastiju Yuan u Kini?",
+      "answers": ["Ögedej", "Kublaj-kan", "Batu-kan", "Toluj"],
+      "correct": 1
+    },
+    {
+      "question": "Koji deo mongolskog carstva je vladao Rusijom i istočnom Evropom?",
+      "answers": ["Ilhanat", "Čagataj-kanat", "Zlatna Horda", "Dinastija Yuan"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zvao sistem poštanskih stanica u Mongolskom Carstvu?",
+      "answers": ["Jurt sistem", "Satrapija", "Jam sistem", "Pax kurjer"],
+      "correct": 2
+    },
+    {
+      "question": "Koji mongolski vladar je osvojio severnu Kinu i Centralnu Aziju?",
+      "answers": ["Kaiduan", "Džingis-kan", "Berke-kan", "Timur"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je ključna prednost mongolske vojske bila?",
+      "answers": ["Katapulti", "Mobilnost i taktika lažnog povlačenja", "Morske flote", "Veliki broj pešadije"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva period stabilnosti i trgovine pod mongolskom vlašću?",
+      "answers": ["Pax romana", "Pax asiatica", "Pax mongolica", "Pax orientalis"],
+      "correct": 2
+    },
+    {
+      "question": "Kojom religijom su Mongoli izvorno dominirali?",
+      "answers": ["Šamanizam", "Islam", "Budizam", "Zoroastrizam"],
+      "correct": 0
+    },
+    {
+      "question": "Koji je naslednik Džingis-kana osvojio značajan deo Evrope?",
+      "answers": ["Ögedej", "Batu-kan", "Kublaj-kan", "Guyuk-kan"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao glavni grad dinastije Yuan?",
+      "answers": ["Samarkand", "Karakorum", "Hanbalik (Peking)", "Kazan"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je bolest značajno doprinela padu mongolske svetske dominacije?",
+      "answers": ["Gladiola", "Kuga", "Male boginje", "Kolera"],
+      "correct": 1
+    },
+    {
+      "question": "Koja kultura je najviše uticala na administraciju Kublaj-kana?",
+      "answers": ["Persijska", "Kineska", "Arapska", "Ruska"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva tradicija mongolskog proročanstva i religije?",
+      "answers": ["Tengrizam", "Zaratustrizam", "Manihejizam", "Šinto"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio treći veliki kan Mongolskog Carstva?",
+      "answers": ["Toluj", "Batu-kan", "Ögedej", "Temur"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je evropska zemlja poražena od Mongola 1241. godine?",
+      "answers": ["Francuska", "Engleska", "Ugarska", "Španija"],
+      "correct": 2
+    },
+    {
+      "question": "Na koju regiju se odnosio Ilhanat?",
+      "answers": ["Rusiju", "Persiju", "Kinu", "Ugarsku"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je glavni grad Mongolskog Carstva pre osvajanja Kine?",
+      "answers": ["Karakorum", "Delhi", "Damask", "Kyoto"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je obnovio mongolsku moć u Centralnoj Aziji u 14. veku, iako nije bio pravi Mongol?",
+      "answers": ["Timur Lenk (Tamerlan)", "Berke-kan", "Ögedej-kagan", "Guyuk-kagan"],
+      "correct": 0
+    }
+  ]
+}

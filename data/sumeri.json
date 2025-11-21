@@ -1,0 +1,115 @@
+{
+  "id": "sumeri",
+  "name": "Sumerska civilizacija",
+  "tagline": "Prva urbana civilizacija u istoriji, kolijevka pisma, matematike i državnosti.",
+  "intro": [
+    "Sumerska civilizacija smatra se najstarijom poznatom urbanom civilizacijom u ljudskoj istoriji. Nastala je u južnoj Mesopotamiji, na području između reka Tigra i Eufrata, u regionu koji će kasnije biti poznat kao 'Plodni polumesec'. Sumeri su oko 3500. godine p.n.e. stvorili prve gradove-države kao što su Ur, Uruk, Kiš, Lagaš i Eridu. Njihova urbano-državna organizacija, podeljena na kraljeve, sveštenike, pisare i zanatlije, oblikovala je temelje svih kasnijih civilizacija Bliskog istoka.",
+    "Sumeri su izumeli klinasto pismo, jedno od najvažnijih otkrića u istoriji čovečanstva. U početku korišćeno za administrativne zapise, pismo se razvilo u kompleksan sistem koji je omogućio beleženje trgovine, zakona, religijskih tekstova, mitova i književnosti. Najpoznatiji sumerski ep je 'Epopeja o Gilgamešu', koja se smatra najstarijim sačuvanim književnim delom na svetu.",
+    "Sumerski gradovi imali su zigurate — masivne stepenaste strukture koje su služile kao hramovi posvećeni glavnim bogovima. Najpoznatiji je zigurat u Uru, posvećen bogu Nani (Sin), bogu Meseca. Religija Sumera bila je politeistička, sa ključnim božanstvima kao što su Enki (bog mudrosti i vode), Anu (bog neba), Inana/Ishtar (boginja ljubavi i rata) i Enlil (bog vazduha i moći).",
+    "Sumeri su bili majstori inovacija: razvili su plug, točak, kanalsko navodnjavanje, astronomiju, aritmetiku, kalendar zasnovan na mesečevim ciklusima i tročlanu klasnu strukturu. Njihova pravna praksa značajno je uticala na kasnije zakonike, uključujući vavilonski Hamurabijev zakonik.",
+    "Politički, sumeri nikada nisu formirali jedinstveno carstvo; umesto toga, postojale su nezavisne gradske države koje su često ratovale. Najmoćniji vladari poput Gilgameša u Uruku ili Lugalzagesija u Umi povremeno su ujedinili veće teritorije, ali su sumersku nezavisnost presekli osvajači Akađani pod Sargonom Velikim oko 2334. godine p.n.e. Ipak, sumerska kultura nastavila je da živi kroz Akađane, Vavilonce i Asirce.",
+    "Uprkos svom nestanku kao političkog entiteta, sumerska civilizacija ostavila je neizbrisiv trag u istoriji čovečanstva. Njihova pisma, mitologija, astronomija, matematika i gradska organizacija postale su temelji kasnijih mezopotamskih kultura i time oblikovale razvoj čitave ljudske civilizacije."
+  ],
+  "questions": [
+    {
+      "question": "Koja civilizacija se smatra najstarijom urbanom civilizacijom na svetu?",
+      "answers": ["Egipatska", "Sumerska", "Vavilonska", "Asirska"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvalo pismo koje su Sumeri izumeli?",
+      "answers": ["Hijeroglifi", "Klinasto pismo", "Alfabet", "Linear B"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je jedan od najpoznatijih sumerskih epova?",
+      "answers": ["Ilijada", "Epopeja o Gilgamešu", "Rigveda", "Enuma Eliš"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala glavna religijska građevina u sumerskim gradovima?",
+      "answers": ["Piramida", "Akropol", "Zigurat", "Step hram"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio sumerski bog mudrosti i vode?",
+      "answers": ["Enki", "Ašur", "Anu", "Baal"],
+      "correct": 0
+    },
+    {
+      "question": "Koji je grad bio jedan od najstarijih u sumerskoj tradiciji?",
+      "answers": ["Ur", "Niniva", "Babilon", "Asur"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio legendarni kralj Uruka?",
+      "answers": ["Gilgameš", "Lugalzagesi", "Sargon", "Ur-Nammu"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se nazivao sumerski bog neba?",
+      "answers": ["Enlil", "Anu", "Nanna", "Marduk"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je narod osvojio sumerske gradove oko 2334. godine p.n.e.?",
+      "answers": ["Egipćani", "Hetiti", "Akađani", "Persijanci"],
+      "correct": 2
+    },
+    {
+      "question": "Koja sumerska boginja bila je povezana s ljubavlju i ratom?",
+      "answers": ["Isis", "Inana", "Hera", "Ninhursag"],
+      "correct": 1
+    },
+    {
+      "question": "Koji izum se tradicionalno pripisuje Sumerima?",
+      "answers": ["Kompas", "Točak", "Pismo Linear A", "Papir"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala osnovna politička jedinica sumerske civilizacije?",
+      "answers": ["Carstvo", "Klan", "Gradska država", "Satrapija"],
+      "correct": 2
+    },
+    {
+      "question": "Koji sumerski bog je bio povezan s vazduhom i moći?",
+      "answers": ["Enlil", "Enki", "Anu", "Utu"],
+      "correct": 0
+    },
+    {
+      "question": "Koja inovacija je bila ključna za sumersku poljoprivredu?",
+      "answers": ["Navodnjavanje kanalima", "Upotreba slonova", "Metalni plugovi", "Podzemne akvadukte"],
+      "correct": 0
+    },
+    {
+      "question": "Koju vrstu kalendara su koristili Sumeri?",
+      "answers": ["Solarni", "LunisolarnI", "Mesečev", "Julijanski"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zvao sumerski bog Meseca?",
+      "answers": ["Šamaš", "Nanna (Sin)", "Utu", "Anu"],
+      "correct": 1
+    },
+    {
+      "question": "Koja civilizacija je nasledila mnogo sumerskih tradicija?",
+      "answers": ["Asirci", "Rimljani", "Feničani", "Kartaginjani"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio prvi veliki osvajač koji je pokorio Sumere?",
+      "answers": ["Ramses II", "Sargon Veliki", "Hammurabi", "Nabukodonosor II"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila glavna svrha klinastog pisma?",
+      "answers": ["Umetnost", "Administracija i trgovina", "Verske ceremonije", "Zabava"],
+      "correct": 1
+    },
+    {
+      "question": "Koja sumerska boginja je zaštitnica žena i fertiliteta?",
+      "answers": ["Tiamat", "Hathor", "Ninhursag", "Artemida"],
+      "correct": 2
+    }
+  ]
+}

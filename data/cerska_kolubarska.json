@@ -1,0 +1,114 @@
+{
+  "id": "cerska_kolubarska",
+  "name": "Cerska i Kolubarska bitka",
+  "tagline": "Dve najveće i najpoznatije srpske pobede u Prvom svetskom ratu.",
+  "intro": [
+    "Cerska i Kolubarska bitka predstavljaju dva monumentalna podviga srpske vojske tokom Prvog svetskog rata. Ove pobede, izvojevane 1914. godine, ušle su u vojnu istoriju kao primeri izuzetne strategije, izdržljivosti i morala jedne male zemlje koja se suprotstavila mnogo nadmoćnijem neprijatelju – Austro-Ugarskoj.",
+    "Cerska bitka, vođena od 15. do 24. avgusta 1914, bila je prva velika savezničko–srpska pobeda u Prvom svetskom ratu. Austro-Ugarska je izvršila invaziju na Srbiju sa ciljem brze i odlučujuće pobede. Međutim, srpska vojska pod komandom vojvode Stepe Stepanovića zaustavila je neprijatelja na planini Cer nakon dramatičnih noćnih borbi. Pobednički juriši Drinske divizije, čuveni „Tekeriš”, ali i odlična organizacija snabdevanja i odbrane, doveli su do potpunog poraza austrougarskih trupa. Srpska vojska zauzela je veliki broj zarobljenika, ratnog materijala i povratila moral saveznika širom Evrope.",
+    "Kolubarska bitka (16. novembar – 15. decembar 1914) bila je jedna od najtežih, ali i najvažnijih pobeda Srbije. Nakon pada Valjeva i povlačenja srpske vojske, činilo se da je slom Srbije neminovan. Međutim, vrhovni komandant Živojin Mišić preuzima Prvu armiju i sprema iznenadnu protivofanzivu. Srpska vojska, iscrpljena, bosa i gladna, izvela je jedan od najimpresivnijih manevara rata – taktičko povlačenje i iznenadni napad.",
+    "Mišićev plan bio je hrabar: povući se duboko u planine, stabilizovati liniju i čekati pogodan trenutak za napad. Kada je austrijska vojska razvukla front i izgubila fokus, srpska vojska izvela je iznenadnu ofanzivu početkom decembra. U nizu juriša oslobođeni su Lazarevac, Ljig, Lajkovac i Valjevo, a austrougarska vojska bila je potpuno poražena i izbačena iz Srbije. Ova pobeda odjeknula je širom sveta kao jedan od najvećih vojnih uspeha početka rata.",
+    "Zajedno, Cerska i Kolubarska bitka pokazale su stratešku snagu srpskog vojnog rukovodstva, naročito Stepe Stepanovića i Živojina Mišića. One su ojačale međunarodni ugled Srbije, ali i jasno pokazale da se srpski narod neće predati uprkos ogromnim žrtvama. Ove pobede i danas se smatraju stubovima srpskog vojničkog ponosa i jednim od najvažnijih događaja Prvog svetskog rata."
+  ],
+  "questions": [
+    {
+      "question": "Koja bitka se smatra prvom velikom savezničkom pobedom u Prvom svetskom ratu?",
+      "answers": ["Kolubarska bitka", "Bitka kod Jadra", "Cerska bitka", "Bitka na Drini"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je komandovao srpskom vojskom u Cerskoj bici?",
+      "answers": ["Živojin Mišić", "Petar Bojović", "Stepa Stepanović", "Radomir Putnik"],
+      "correct": 2
+    },
+    {
+      "question": "Na kojoj planini je vođen odlučujući deo Cerske bitke?",
+      "answers": ["Tara", "Jastrebac", "Rudnik", "Cer"],
+      "correct": 3
+    },
+    {
+      "question": "Koji je datum početka Kolubarske bitke?",
+      "answers": ["15. avgust 1914.", "3. decembar 1914.", "16. novembar 1914.", "12. oktobar 1914."],
+      "correct": 2
+    },
+    {
+      "question": "Koji srpski vojskovođa je izveo iznenadnu protivofanzivu u Kolubarskoj bici?",
+      "answers": ["Kosta Vojinović", "Živojin Mišić", "Vojvoda Putnik", "Vojvoda Stepa"],
+      "correct": 1
+    },
+    {
+      "question": "Koji grad je oslobodila srpska vojska tokom Kolubarske ofanzive?",
+      "answers": ["Niš", "Valjevo", "Beograd", "Šabac"],
+      "correct": 1
+    },
+    {
+      "question": "Koja jedinica je posebno proslavljena u noćnim borbama na Ceru?",
+      "answers": ["Moravska divizija", "Timočka divizija", "Drinska divizija", "Dinarska divizija"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva uzvišenje kod Cera gde se vodila ključna borba?",
+      "answers": ["Tekeriš", "Zavlaka", "Zvečan", "Rajac"],
+      "correct": 0
+    },
+    {
+      "question": "Koja austrougarska armija je izvršila invaziju na Srbiju tokom Cerske bitke?",
+      "answers": ["1. armija", "3. armija", "2. armija", "5. armija"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je bio vrhovni komandant srpske vojske tokom Kolubarske bitke?",
+      "answers": ["Radomir Putnik", "Mihailo Nenadović", "Živojin Mišić", "Miloš Božanović"],
+      "correct": 0
+    },
+    {
+      "question": "Koji grad je pao u ruke Austro-Ugarske uoči Kolubarske bitke?",
+      "answers": ["Valjevo", "Užice", "Jagodina", "Paraćin"],
+      "correct": 0
+    },
+    {
+      "question": "Koja taktička odluka Mišića je omogućila pobedu u Kolubarskoj bici?",
+      "answers": ["Masovno povlačenje u Albaniju", "Frontski napad", "Duboko taktičko povlačenje i iznenadni napad", "Prelazak Dunava"],
+      "correct": 2
+    },
+    {
+      "question": "Koliko je trajala Cerska bitka?",
+      "answers": ["2 dana", "10 dana", "7 dana", "25 dana"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove reka u čijoj je dolini vođen deo borbi Kolubarske bitke?",
+      "answers": ["Ibar", "Kolubara", "Morava", "Toplica"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je komandovao austrougarskom 5. armijom tokom Cerske bitke?",
+      "answers": ["Oskar Poćorek", "Liborius Frank", "August von Mackensen", "Moric Papen"],
+      "correct": 1
+    },
+    {
+      "question": "Koja srpska armija je izvela ključni napad kod Suvobora?",
+      "answers": ["Drinska armija", "Ibarska armija", "Prva srpska armija", "Dunavska divizija"],
+      "correct": 2
+    },
+    {
+      "question": "Koji geografski položaj je bio presudan za srpsku protivofanzivu u Kolubarskoj bici?",
+      "answers": ["Kopaonik", "Suvobor i Rajac", "Stara planina", "Avala"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je prva izvestila o srpskoj pobedi na Ceru kao senzaciji?",
+      "answers": ["Francuska", "Nemačka", "Velika Britanija", "Rusija"],
+      "correct": 2
+    },
+    {
+      "question": "Koju poznatu titulu je Mišić dobio nakon Kolubarske pobede?",
+      "answers": ["Vojvoda", "General armije", "Knez komandant", "Maršal Srbije"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bila najvažnija posledica Cerske i Kolubarske bitke?",
+      "answers": ["Ulazak Srbije u Trojni savez", "Potpuno oslobađanje Bosne", "Povlačenje Srbije iz rata", "Očuvanje Srbije i ogromno podizanje međunarodnog ugleda"],
+      "correct": 3
+    }
+  ]
+}

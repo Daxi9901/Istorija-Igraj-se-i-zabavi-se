@@ -1,0 +1,116 @@
+{
+  "id": "napoleon",
+  "name": "Napoleon Bonaparta",
+  "tagline": "Uspon i pad najvećeg vojskovođe modernog doba.",
+  "intro": [
+    "Napoleon Bonaparta (1769–1821) bio je jedan od najuticajnijih političkih i vojnih lidera u istoriji Evrope. Rođen na Korzici samo godinu dana nakon što je ostrvo postalo deo Francuske, Napoleon je od malih nogu bio izuzetno ambiciozan. Školovao se na vojnoj akademiji i brzo napredovao u činovima tokom Francuske revolucije, kada su se stare aristokratske strukture urušavale, a mladi talentovani oficiri dobijali priliku za uspon.",
+    "Njegov meteorski uspon započeo je pobedom protiv austrijskih snaga u Italiji 1796–1797. godine. Ubrzo je postao nacionalni heroj. Godine 1799. sprovodi državni udar (18. brimer) i postaje Prvi konzul Francuske, a 1804. kruniše se za cara. Napoleon je sproveo duboke reforme — Napoleonski zakonik, modernizaciju uprave, centralizaciju države, reformu školstva i ekonomije. Njegove pravne reforme i danas su temelj mnogih evropskih zakonodavstava.",
+    "U vojnom smislu, Napoleon je bio genije. Kreirao je nove taktičke metode zasnovane na brzini, mobilnosti, korpusnom sistemu i kombinovanoj upotrebi artiljerije, pešadije i konjice. Njegova vojska, Velika armija, izvojevala je spektakularne pobede: Austerlic, Jena, Marengo, Wagram — bitke koje su menjale tok istorije. Do 1812. godine Napoleon kontroliše najveći deo Evrope, direktno ili kroz savezničke države i marionetske monarhije.",
+    "Ali njegovi ambiciozni planovi imaju cenu. Napad na Rusiju 1812. godine bio je ključni trenutak Napoleonovog pada. Strašna zima, spaljena zemlja i logistički kolaps doveli su do toga da Velika armija izgubi stotine hiljada vojnika. Koalicije evropskih država — Rusija, Pruska, Austrija i Britanija — udružile su se protiv njega. Nakon poraza kod Lajpciga 1813. godine Napoleon je primoran da abdicira 1814. i odlazi u izgnanstvo na ostrvo Elba.",
+    "Ipak, Napoleon se vraća. U martu 1815. beži sa Elbe i započinje čuvenih 'Sto dana'. Reorganizuje vojsku i pokušava da porazi britansko-pruske snage u Belgiji. Bitka kod Vaterloa 18. juna 1815. označila je njegov konačan poraz. Marshal Velington i pruski feldmaršal Gebhard fon Bljucher uspeli su da slome Napoleonovu vojsku.",
+    "Nakon poraza kod Vaterloa Napoleon biva prognan na ostrvo Svetu Jelenu u južnom Atlantiku. Tamo provodi poslednjih šest godina života pod britanskim nadzorom. Umro je 1821. godine, verovatno od raka želuca, mada postoje brojne teorije o trovanju arsenom.",
+    "Napoleonovo nasleđe ostalo je ogromno — od vojnih taktika, preko državnih institucija, do reforme pravnog sistema i stvaranja moderne evropske nacije. Bio je simbol genijalnosti, ambicije, ali i upozorenje o opasnostima neograničene moći. Njegov uticaj oseća se u istoriji, politici, kulturi i modernom identitetu Evrope."
+  ],
+  "questions": [
+    {
+      "question": "Gde je rođen Napoleon Bonaparta?",
+      "answers": ["Pariz", "Marsej", "Korzika", "Lion"],
+      "correct": 2
+    },
+    {
+      "question": "Koje godine se Napoleon okrunio za cara Francuske?",
+      "answers": ["1804.", "1799.", "1812.", "1800."],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvao Napoleonov pravni sistem koji i danas utiče na evropsko pravo?",
+      "answers": ["Zakonik revolucionarne skupštine", "Napoleonski zakonik", "Građanski kodeks Evrope", "Pariški sudski statut"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je Napoleonova najpoznatija pobeda protiv Austrije i Rusije?",
+      "answers": ["Bitka kod Vaterloa", "Bitka kod Austerlica", "Bitka kod Trafalgara", "Bitka kod Borodina"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je bila Napoleonov najveći pomorski protivnik?",
+      "answers": ["Španija", "Rusija", "Velika Britanija", "Portugal"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je najveća Napoleonova vojna katastrofa?",
+      "answers": ["Bitka kod Marenga", "Ruski pohod 1812.", "Bitka kod Lajpciga", "Povlačenje iz Egipta"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva period Napoleonovog povratka sa Elbe 1815.?",
+      "answers": ["Sto dana", "Druga republika", "Veliki marš", "Francuski preokret"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je predvodio britanske snage kod Vaterloa?",
+      "answers": ["Nelson", "Velington", "Bljucher", "Pit"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je predvodio prusku vojsku u bici kod Vaterloa?",
+      "answers": ["Bljucher", "Moltke", "Švarcenberg", "Hindenburg"],
+      "correct": 0
+    },
+    {
+      "question": "Na koje ostrvo je Napoleon poslat posle poraza kod Vaterloa?",
+      "answers": ["Korziku", "Maltu", "Svetu Jelenu", "Sardiniju"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zvala Napoleonova elitna vojska?",
+      "answers": ["Francuska kraljevska garda", "Velika armija", "Evropski korpus", "Armija Alpa"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bitka označila Napoleonov konačni poraz?",
+      "answers": ["Austerlic", "Borodino", "Lajpcig", "Vaterlo"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je bio Napoleonov naslednik tokom njegovog prvog egzila?",
+      "answers": ["Luj XVIII", "Šarl X", "Luj Filip", "Marat"],
+      "correct": 0
+    },
+    {
+      "question": "Koji je glavni uzrok Napoleonovog neuspeha u Rusiji?",
+      "answers": ["Nedostatak artiljerije", "Zimski uslovi i spaljena zemlja", "Pobuna u Francuskoj", "Napad Švedske"],
+      "correct": 1
+    },
+    {
+      "question": "Gde je Napoleon pobedio Austrijance 1800. godine?",
+      "answers": ["Jena", "Marengo", "Lipcig", "Wagram"],
+      "correct": 1
+    },
+    {
+      "question": "Koja flota je porazila Francuze kod Trafalgara?",
+      "answers": ["Pruska", "Ruska", "Britanska", "Austrijska"],
+      "correct": 2
+    },
+    {
+      "question": "Koji čuveni britanski admiral je poginuo kod Trafalgara?",
+      "answers": ["Drake", "Nelson", "Cook", "Howard"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao Napoleonov sin, naziv koji mu je dodeljen?",
+      "answers": ["Kralj Italije", "Rimski kralj", "Princ Evrope", "Francuski delfin"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio Napoleonov najpoznatiji protivnik u prvoj koaliciji?",
+      "answers": ["Rusija", "Austrija", "Velika Britanija", "Pruska"],
+      "correct": 1
+    },
+    {
+      "question": "Gde je Napoleon umro?",
+      "answers": ["Na Elbi", "U Parizu", "Na Svetoj Jeleni", "U Londonu"],
+      "correct": 2
+    }
+  ]
+}

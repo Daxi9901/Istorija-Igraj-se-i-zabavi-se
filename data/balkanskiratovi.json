@@ -1,0 +1,116 @@
+{
+  "id": "balkanskiratovi",
+  "name": "Balkanski ratovi",
+  "tagline": "Veliki ratovi balkanskih država protiv Osmanskog i kasnije Bugarskog carstva.",
+  "intro": [
+    "Balkanski ratovi (1912–1913) predstavljaju dve povezane vojne kampanje koje su dramatično promenile političku kartu jugoistočne Evrope. Ovi ratovi označili su kraj višestovekovne osmanske dominacije na Balkanu, ali i otvorili put novim sukobima, uključujući i Prvi svetski rat.",
+    "Prvi balkanski rat počeo je u oktobru 1912. godine, kada su se Srbija, Crna Gora, Bugarska i Grčka udružile u Balkanski savez sa ciljem potiskivanja Osmanskog carstva iz Evrope. Uzrok stvaranja saveza bio je dugogodišnji pritisak Osmanskog carstva nad hrišćanskim narodima, kao i želja balkanskih država da oslobode teritorije sa svojim sunarodnicima i da reše pitanje Makedonije, Epira i Trakije.",
+    "Balkanski savez ostvario je niz brzih i odlučnih pobeda. Srpska vojska odnela je ključne pobede kod Kumanova, Bitolja i Prilepa, oslobađajući Makedoniju. Bugarska je osvojila Jedrene, dok je Grčka napredovala ka Solunu, koji je oslobodila u novembru 1912. Crnogorska vojska bila je angažovana pretežno na oslobađanju Skadra.",
+    "Uspesi balkanskih vojski doveli su do potpisivanja Londonskog ugovora u maju 1913. Osmansko carstvo se povlači iz gotovo čitave Evrope, osim uskog pojasa oko Carigrada. Međutim, neslaganja oko podele osvojenih teritorija, posebno Makedonije, dovela su do novog sukoba — Drugog balkanskog rata.",
+    "Drugi balkanski rat izbio je u junu 1913. godine kada je Bugarska napala svoje dotadašnje saveznike — Srbiju i Grčku, nezadovoljna teritorijalnom podelom. Srbija i Grčka uzvratile su snažno, a u rat su se protiv Bugarske brzo uključile Rumunija i Osmansko carstvo. Bugarska je pretrpela težak poraz i bila prinđena da potpiše Bukureški mir u avgustu 1913.",
+    "Rezultat balkanskih ratova bio je stvaranje potpuno nove političke mape Balkana. Srbija je gotovo udvostručila svoju teritoriju i stanovništvo, zauzimajući Kosovo, Metohiju, Sandžak, najveći deo današnje Severne Makedonije i deo današnje Albanije. Grčka i Crna Gora takođe su proširile svoje granice, dok je Bugarska, nekada najjača članica saveza, izašla iz ratova razočarana i oslabljena.",
+    "Balkanski ratovi nisu samo razrešili staro pitanje Osmanskog carstva, već su stvorili nove tenzije, posebno između Srbije i Bugarske. Ove tenzije će igrati ključnu ulogu u predvečerju Prvog svetskog rata i kasnijim sukobima. Ratovi su dokazali vojnu odlučnost balkanskih država i otvorili put konačnom oslobođenju juga Srbije i stvaranju buduće Jugoslavije."
+  ],
+  "questions": [
+    {
+      "question": "Koje godine je počeo Prvi balkanski rat?",
+      "answers": ["1912.", "1914.", "1908.", "1910."],
+      "correct": 0
+    },
+    {
+      "question": "Koje države su činile Balkanski savez?",
+      "answers": ["Srbija, Grčka, Bugarska i Crna Gora", "Srbija, Rumunija i Hrvatska", "Grčka, Albanija i Turska", "Crna Gora, Austrija i Bugarska"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je bila glavna strateška oblast sukoba u Prvom balkanskom ratu?",
+      "answers": ["Istra", "Makedonija", "Dalmacija", "Erdelj"],
+      "correct": 1
+    },
+    {
+      "question": "Koja odlučujuća srpska pobeda otvara put oslobađanju Makedonije?",
+      "answers": ["Boj na Slivnici", "Bitka kod Kumanova", "Bitka na Bregalnici", "Bitka kod Edrena"],
+      "correct": 1
+    },
+    {
+      "question": "Koji grad je grčka vojska oslobodila 1912?",
+      "answers": ["Atinu", "Solun", "Janinu", "Larisu"],
+      "correct": 1
+    },
+    {
+      "question": "Koja država je osvojila Jedrene tokom rata?",
+      "answers": ["Srbija", "Grčka", "Bugarska", "Crna Gora"],
+      "correct": 2
+    },
+    {
+      "question": "Koja država je napala svoje saveznike i time izazvala Drugi balkanski rat?",
+      "answers": ["Rumunija", "Grčka", "Bugarska", "Srbija"],
+      "correct": 2
+    },
+    {
+      "question": "Koji ugovor je okončao Prvi balkanski rat?",
+      "answers": ["Bukureški ugovor", "Versajski ugovor", "Londonski ugovor", "Sanstefanski mir"],
+      "correct": 2
+    },
+    {
+      "question": "Koji ugovor je okončao Drugi balkanski rat?",
+      "answers": ["Bukureški mir 1913.", "Atinski ugovor", "Carigradski mir", "Sofijski sporazum"],
+      "correct": 0
+    },
+    {
+      "question": "Koja država se pridružila Srbiji i Grčkoj protiv Bugarske u Drugom balkanskom ratu?",
+      "answers": ["Austrija", "Rumunija", "Italija", "Nemačka"],
+      "correct": 1
+    },
+    {
+      "question": "Koji strateški grad je Crna Gora opsedala tokom rata?",
+      "answers": ["Skadar", "Prizren", "Priština", "Berane"],
+      "correct": 0
+    },
+    {
+      "question": "Šta je bila posledica balkanskih ratova za Srbiju?",
+      "answers": ["Teritorijalno smanjenje", "Izgubljena nezavisnost", "Značajno teritorijalno proširenje", "Ulazak u savezništvo sa Nemačkom"],
+      "correct": 2
+    },
+    {
+      "question": "Koja država je najviše teritorije izgubila posle balkanskih ratova?",
+      "answers": ["Grčka", "Bugarska", "Crna Gora", "Rumunija"],
+      "correct": 1
+    },
+    {
+      "question": "Koja bitka je bila jedan od ključnih sukoba Drugog balkanskog rata?",
+      "answers": ["Bitka kod Kumanova", "Bitka kod Štipa", "Bitka na Bregalnici", "Bitka kod Skadra"],
+      "correct": 2
+    },
+    {
+      "question": "Koja sila je posredovala tokom zaključenja mira 1913?",
+      "answers": ["Rusija", "Velika Britanija", "Nemačka", "SAD"],
+      "correct": 1
+    },
+    {
+      "question": "Koji narod je bio posebno važan povod za sukobe oko Makedonije?",
+      "answers": ["Albanci", "Bugari", "Turci", "Makedonci"],
+      "correct": 3
+    },
+    {
+      "question": "Koja država je privremeno zauzela delove istočne Trakije tokom Drugog balkanskog rata?",
+      "answers": ["Osmansko carstvo", "Grčka", "Bugarska", "Srbija"],
+      "correct": 0
+    },
+    {
+      "question": "Kako se zvala vojno-politička ideja Srbije o ujedinjenju Južnih Slovena?",
+      "answers": ["Jugoslovenska misao", "Ilirski pokret", "Načertanije", "Velikosrpski memorandum"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je bila glavna posledica ratova po Osmansko carstvo?",
+      "answers": ["Povratak na Balkan", "Potpuni gubitak gotovo svih balkanskih teritorija", "Povećanje uticaja", "Sklapanje saveza sa Srbijom"],
+      "correct": 1
+    },
+    {
+      "question": "Koji budući sukob je delimično pripremljen tenzijama nakon balkanskih ratova?",
+      "answers": ["Francusko–pruski rat", "Rusko–japanski rat", "Prvi svetski rat", "Kineska revolucija"],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "industrijskarevolucija",
+  "name": "Industrijska revolucija",
+  "tagline": "Period tehnoloških inovacija koji je promenio svet zauvek.",
+  "intro": [
+    "Industrijska revolucija je jedan od najvažnijih procesa u istoriji čovečanstva. Ona je započela u Velikoj Britaniji sredinom 18. veka i obeležila prelazak sa tradicionalne, ručne proizvodnje na mehanizovanu industriju. Revolucija je donela korenite promene u ekonomiji, društvu, tehnologiji i svakodnevnom životu ljudi – i njeni efekti osećaju se i danas.",
+    "Uzroci Industrijske revolucije leže u jedinstvenom spoju faktora: bogatim rudnim rezervama (naročito uglja i gvožđa), razvijenoj trgovini, stabilnoj političkoj situaciji, jakom bankarskom sistemu i velikoj mreži kolonija. Britanija je imala i rastuću populaciju, koja je obezbeđivala kako radnu snagu tako i tržište za nove proizvode.",
+    "Jedna od ključnih inovacija bila je parna mašina, koju je usavršio Džejms Vat 1769. godine. Parna energija omogućila je razvoj fabrika, železnica i brodova, što je dramatično povećalo produktivnost. Tekstilna industrija bila je prva koja se transformisala: izume poput mehaničkog razboja, letećeg čunka i Spinning Jenny revolucionisali su proizvodnju odeće.",
+    "Industrijska revolucija dovela je do urbanizacije – preseljenja velikog broja ljudi iz ruralnih područja u gradove. Gradovi poput Mančestera, Liverpula i Birmingema postali su centri industrijske proizvodnje, ali su se suočili i s problemima prenatrpanosti, zagađenja, niskih plata i teških radnih uslova. Rani industrijski radnici često su radili 12–16 sati dnevno, uključujući i decu.",
+    "U drugoj fazi Industrijske revolucije (1870–1914) pojavljuju se nova goriva i tehnologije: električna energija, motor sa unutrašnjim sagorevanjem, hemijska industrija, čelik proizveden Bessemerovim postupkom i rani oblici masovne proizvodnje. Ovaj period stvara temelje modernog kapitalizma, globalne trgovine i urbanog načina života.",
+    "Industrijska revolucija transformisala je čitav svet. Donela je rast produktivnosti, razvoj nauke i medicine, poboljšanje transporta i komunikacija, ali je stvorila i nove izazove – socijalne nejednakosti, radničke pobune, zagađenje životne sredine i nastanak ideologija poput socijalizma. Njena nasleđa vidljiva su u svakom aspektu savremenog društva."
+  ],
+  "questions": [
+    {
+      "question": "U kojoj zemlji je započela Industrijska revolucija?",
+      "answers": ["Nemačka", "Sjedinjene Države", "Velika Britanija", "Francuska"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je usavršio parnu mašinu 1769. godine?",
+      "answers": ["Nikola Tesla", "Džon Kej", "Džejms Vat", "Henri Ford"],
+      "correct": 2
+    },
+    {
+      "question": "Koja industrija je bila prva mehanizovana?",
+      "answers": ["Hemijska industrija", "Tekstilna industrija", "Automobilska industrija", "Poljoprivreda"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva proces u kojem ljudi masovno sele iz sela u gradove?",
+      "answers": ["Migracija", "Urbanizacija", "Kolonizacija", "Industrializacija"],
+      "correct": 1
+    },
+    {
+      "question": "Koji izum je omogućio brže tkanje u tekstilnim fabrikama?",
+      "answers": ["Leteći čunak", "Bessemerov postupak", "Telegraf", "Motor sa unutrašnjim sagorevanjem"],
+      "correct": 0
+    },
+    {
+      "question": "Koji energent je bio ključan za ranu Industrijsku revoluciju?",
+      "answers": ["Nafta", "Električna energija", "Ugalj", "Atom"],
+      "correct": 2
+    },
+    {
+      "question": "Koji grad se smatra simbolom rane industrijalizacije?",
+      "answers": ["Barselona", "Mančester", "Beč", "Moskva"],
+      "correct": 1
+    },
+    {
+      "question": "Koja klasa se formira tokom industrijalizacije kao vlasnici fabrika?",
+      "answers": ["Proleterijat", "Aristokratija", "Buržoazija", "Sveštenstvo"],
+      "correct": 2
+    },
+    {
+      "question": "Deca su tokom ranog industrijskog perioda često radila:",
+      "answers": ["U državnoj administraciji", "U fabrikama i rudnicima", "Kao privatni učitelji", "U vojsci"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove izum koji omogućava masovnu proizvodnju čelika?",
+      "answers": ["Tesla coil", "Bessemerov postupak", "Parna turbina", "Katalitički proces"],
+      "correct": 1
+    },
+    {
+      "question": "Koja faza je obeležena pojavom električne energije, čelika i hemijske industrije?",
+      "answers": ["Treća industrijska faza", "Rani industrijski period", "Druga industrijska revolucija", "Period renesanse"],
+      "correct": 2
+    },
+    {
+      "question": "Koji izum omogućava komunikaciju na daljinu krajem 19. veka?",
+      "answers": ["Telegraf", "Mikroskop", "Radio", "Električna sijalica"],
+      "correct": 0
+    },
+    {
+      "question": "Koji pronalazač je razvio koncept masovne proizvodnje automobila?",
+      "answers": ["Nikola Tesla", "Henri Ford", "Graham Bell", "Edison"],
+      "correct": 1
+    },
+    {
+      "question": "Koja grupa radnika raste najviše tokom Industrijske revolucije?",
+      "answers": ["Seljaci", "Vojska", "Industrijski radnici", "Sveštenici"],
+      "correct": 2
+    },
+    {
+      "question": "Koji materijal postaje ključan za železnice, mostove i mašine?",
+      "answers": ["Bronza", "Bakreni lim", "Drvo", "Čelik"],
+      "correct": 3
+    },
+    {
+      "question": "Koji izum je bio kritičan za razvoj železnica?",
+      "answers": ["Parna lokomotiva", "Kompas", "Radio", "Motor s unutrašnjim sagorevanjem"],
+      "correct": 0
+    },
+    {
+      "question": "Šta je bio veliki društveni problem tokom ranog industrijskog perioda?",
+      "answers": ["Prevelik broj fakulteta", "Visoke plate radnika", "Teški uslovi rada i izuzetno dugi radni dani", "Masovno otvaranje univerziteta"],
+      "correct": 2
+    },
+    {
+      "question": "Koja ideologija nastaje kao reakcija na eksploataciju radnika?",
+      "answers": ["Feudalizam", "Socijalizam", "Apsolutizam", "Imperijalizam"],
+      "correct": 1
+    },
+    {
+      "question": "Koji materijal je zamenio železo u kasnoj 19. veku zbog jače otpornosti?",
+      "answers": ["Titanijum", "Čelik", "Bakar", "Mesing"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je jedan od najvažnijih efekata Industrijske revolucije?",
+      "answers": ["Smanjenje trgovine", "Povratak feudalizma", "Brz tehnološki napredak i rast produktivnosti", "Ukinuta su sva zanimanja"],
+      "correct": 2
+    }
+  ]
+}

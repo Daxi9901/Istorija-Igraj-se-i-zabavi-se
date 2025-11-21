@@ -1,0 +1,117 @@
+{
+  "id": "greece",
+  "name": "Stara Grčka",
+  "tagline": "Kolevka demokratije, filozofije, nauke i sporta.",
+  "intro": [
+    "Stara Grčka se smatra jednim od najuticajnijih kulturnih i istorijskih područja u celokupnoj ljudskoj civilizaciji. Grčki svet obuhvatao je stotine nezavisnih polis-državica kao što su Atina, Sparta, Korint i Teba. Iako politički razjedinjene, ove zajednice su delile isti jezik, religiju i običaje. Takva raznolikost unutar zajedničkog identiteta stvorila je temelje jedne od najbogatijih kultura ikada.",
+    "Grčka se razvila u tri ključna istorijska perioda: Arhajski period, u kojem nastaju kolonije i alfabet; Klasični period, vreme procvata filozofije, demokratije, umetnosti i nauke; i Helenistički period, nakon osvajanja Aleksandra Velikog, gde se grčka kultura širi od Egipta do Indije. Upravo u ovim epohama nastaju prvi istorijski zapisi Herodota, političke teorije i filozofske škole koje i danas utiču na svet.",
+    "Atina je bila centar demokratije i kulture. U njoj su delovali najveći filozofi: Sokrat, Platon i Aristotel. Demokratski sistem, iako ograničen i dostupan samo slobodnim muškim građanima, predstavljao je revolucionarni pristup upravljanju državom. Atinjani su razvili dramu, komediju, geometriju, istoriju, medicinu i astronomiju.",
+    "Sparta je predstavljala suprotnost Atini – društvo zasnovano na ratničkoj disciplini, strogoj hijerarhiji i vojnoj moći. Spartanci su bili poznati po izuzetno snažnoj pešadiji, tzv. hoplitima, kao i po asketskom načinu života. Država je organizovala vojnu obuku dece već od sedme godine kroz sistem 'agoge'.",
+    "U grčkoj religiji bogovi su predstavljali ljudske osobine – ljubav, ljubomoru, hrabrost, slabosti i strasti. Najvažniji među njima bio je Zevs, vladar Olimpa. Mitovi o Herkulu, Ahilu, Odiseju i Tezeju oblikovali su književnost sveta. Grci su verovali u proročišta poput Delfa, gde su sveštenice (pitije) prenosile volju bogova.",
+    "Posebno mesto zauzimaju antičke Olimpijske igre, održavane u čast boga Zevsa. Prve zabeležene igre datiraju iz 776. godine p.n.e., a pobednici su smatrani nacionalnim herojima. Igre su uključivale trčanje, rvanje, petoboj, boks i trke kočijama.",
+    "Helenistički period počinje Aleksandrovim osvajanjem Persijskog carstva. Aleksandar Makedonski stvorio je najveće carstvo tog vremena i omogućio širenje grčke nauke, umetnosti i jezika na ogromne teritorije. Gradovi poput Aleksandrije postali su centri znanja sa bibliotekama, opservatorijama i univerzitetima.",
+    "Grčka filozofija, matematika, medicina, drama i politički sistemi čine temelj zapadne civilizacije. Njihovi koncepti logike, naučnog razmišljanja i demokratskih vrednosti žive i danas kroz obrazovanje, pravo i kulturu modernog sveta."
+  ],
+  "questions": [
+    {
+      "question": "Koja država-polis je bila centar demokratije u Staroj Grčkoj?",
+      "answers": ["Sparta", "Atina", "Teba", "Korint"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala vojna obuka dece u Sparti, započeta u sedmoj godini?",
+      "answers": ["Agoge", "Gymnasion", "Syssitia", "Stratiotikon"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio najvažniji bog u grčkoj religiji?",
+      "answers": ["Hefest", "Hermes", "Ares", "Zevs"],
+      "correct": 3
+    },
+    {
+      "question": "Ko je autor dela 'Država' (Politeia)?",
+      "answers": ["Platon", "Sokrat", "Aristotel", "Herodot"],
+      "correct": 0
+    },
+    {
+      "question": "Koja je država bila poznata po vojnoj disciplini i hoplitima?",
+      "answers": ["Atina", "Sparta", "Argos", "Rodos"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je otac istorije prema antičkim izvorima?",
+      "answers": ["Herodot", "Tukidid", "Ksenofon", "Pausanija"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je bio osnivač najvećeg carstva antičkog sveta pre Rimljana?",
+      "answers": ["Leonida", "Perikle", "Aleksandar Veliki", "Filip II"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se zove slavni rat između Atine i Sparte?",
+      "answers": ["Trojanski rat", "Peloponeski rat", "Mesečni rat", "Mikenski rat"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je godina tradicionalno uzeta kao početak Olimpijskih igara?",
+      "answers": ["490. p.n.e.", "776. p.n.e.", "221. p.n.e.", "612. p.n.e."],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio autor epskih poema Ilijada i Odiseja?",
+      "answers": ["Heziod", "Pindar", "Homer", "Eshil"],
+      "correct": 2
+    },
+    {
+      "question": "Koji je filozof bio učitelj Aleksandra Velikog?",
+      "answers": ["Platon", "Aristotel", "Diogen", "Anaksagora"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zove grčki ratnik poznat po 'peti' kao slaboj tački?",
+      "answers": ["Herkul", "Odisej", "Ahilej", "Jason"],
+      "correct": 2
+    },
+    {
+      "question": "Glavni skup građana u Atini, u kojem su donošene odluke, nazivao se:",
+      "answers": ["Areopag", "Ekklesia", "Boule", "Geruzija"],
+      "correct": 1
+    },
+    {
+      "question": "Koja poznata biblioteka je osnovana u helenističkom periodu?",
+      "answers": ["Pergamska", "Aleksandrijska", "Atinska", "Spartanska"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva grčki vojnik teško naoružan kopljem i štitom?",
+      "answers": ["Psilos", "Hoplita", "Toksota", "Hipparh"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala tzv. 'zlatna era Atine' tokom Periklove vladavine?",
+      "answers": ["Geometrijsko doba", "Periklovo doba", "Helensko doba", "Arhajsko doba"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je napisao delo 'Politika'?",
+      "answers": ["Platon", "Aristotel", "Solon", "Kleon"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je grčki bog bio zaštitnik mora?",
+      "answers": ["Posejdon", "Hermes", "Helios", "Demetra"],
+      "correct": 0
+    },
+    {
+      "question": "Koji filozof je bio poznat po životu u buretu i učenju o jednostavnom životu?",
+      "answers": ["Aristotel", "Platon", "Diogen", "Epikur"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je planina bila mitološki dom grčkih bogova?",
+      "answers": ["Etna", "Olimp", "Parnas", "Tajget"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "vikinzi",
+  "name": "Vikinzi",
+  "tagline": "Nordijski pomorci, ratnici, trgovci i istraživači koji su oblikovali Evropu.",
+  "intro": [
+    "Vikinzi su bili nordijski pomorci poreklom iz današnje Norveške, Švedske i Danske, a njihova istorijska epoha – Vikinško doba – traje približno od 793. do 1066. godine. Ovo razdoblje počinje napadom na ostrvo Lindisfarne u Engleskoj i završava se porazom Norvežana u bici kod Stenford Bridza. Vikinzi su bili mnogo više od ratnika: bili su farmeri, trgovci, zanatlije, moreplovci, diplomate i istraživači koji su ostavili dubok trag u razvoju Evrope.",
+    "Njihova društvena organizacija bila je zasnovana na lokalnim zajednicama koje su predvodili jarli i poglavari. Vikinzi su se bavili trgovinom duž čitave Evrope i do Bliskog istoka, a njihovi trgovački centri poput Birke, Hedebija i Kaupanga bili su među najznačajnijim ekonomskim središtima srednjeg veka. Hiljade arheoloških nalaza potvrdile su da su posedovali naprednu metalurgiju, kvalitetno oružje, sofisticirani nakit i detaljno rezbarene predmete od drveta.",
+    "Njihova pomorska tehnologija bila je revolucionarna. Vikinški dugački brodovi, poznati kao drakari, bili su brzi, stabilni, sposobni za plovidbu i otvorenim morem i plitkim rekama. Ovakvi brodovi omogućili su im da organizuju brze napade, ali i da otkrivaju nove zemlje. Vikinzi su naselili Island, Grenland i neka područja Irske, Škotske i Engleske. Oko 1000. godine Lejf Erikson, sin Erika Crvenog, stigao je do Severne Amerike – oko 500 godina pre Kristofora Kolumba.",
+    "Religija Vikinga zasnivala se na nordijskoj mitologiji, koja je bila bogata složenim mitovima o bogovima, herojima i stvorenjima. Odin, bog mudrosti i rata, Tor, bog groma, i Loki, bog prevara, bili su među najvažnijim božanstvima. Vikinzi su verovali da ratnici koji časno poginu prelaze u Valhalu, gde se pripremaju za Ragnarök – poslednju kosmičku bitku bogova i čudovišta. Ritualna kultura uključivala je žrtvene običaje, runsku magiju i skaldsku poeziju.",
+    "Osim ratnih pohoda, Vikinzi su ostavili trag i kao trgovci i diplomate. Njihove trgovačke rute vodile su od severne Evrope do reke Volge, Kaspijskog mora i čak Bagdada. Varjaška garda, sastavljena uglavnom od Vikinga, bila je lična elitna jedinica vizantijskih careva, poznata po lojalnosti i izdržljivosti.",
+    "Vikinzi su u velikoj meri uticali na genetiku, jezik, kulturni identitet i političku strukturu mnogih evropskih regiona. Normandija – kojoj su vladali potomci vikinga predvođeni Rolfom (Rollo) – postala je jedna od najuticajnijih vojnih i političkih sila kasnijeg srednjeg veka. Njihove sage, poput islandske sage o Egilu, Njalu i Vinlandskim sagama, predstavljaju jedinstvene književne izvore koji prenose živopisne priče o ratu, časti, osveti i sudbini.",
+    "Kraj vikinške ere označava postepeno prihvatanje hrišćanstva, stabilizacija evropskih kraljevina i jačanje centralizovanih država u Skandinaviji. Ipak, uticaj Vikinga ostao je ogroman – od engleskog jezika i toponima, preko skandinavskih runa i mitova, do tehnika brodogradnje i vojnih taktika. Danas ih pamtimo kao hrabre moreplovce i ratnike, ali i kao temeljne graditelje moderne Evrope."
+  ],
+  "questions": [
+    {
+      "question": "Iz kojih zemalja su poticali Vikinzi?",
+      "answers": ["Norveška, Švedska i Danska", "Finska, Island i Škotska", "Irska, Norveška i Rusija", "Danska, Estonija i Engleska"],
+      "correct": 0
+    },
+    {
+      "question": "Ko je u nordijskoj mitologiji bio vrhovni bog?",
+      "answers": ["Tor", "Odin", "Loki", "Frej"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao poznati vikinški brod?",
+      "answers": ["Karaka", "Galeja", "Drakar", "Liburna"],
+      "correct": 2
+    },
+    {
+      "question": "Koji Viking je stigao do Severne Amerike?",
+      "answers": ["Harald Plavokosi", "Erik Crveni", "Lejf Erikson", "Ragnar Lodbrok"],
+      "correct": 2
+    },
+    {
+      "question": "Šta je Ragnarök u nordijskoj mitologiji?",
+      "answers": ["Vikinški raj", "Poslednja bitka bogova", "Osnivanje Valhale", "Svetinja runskih sveštenika"],
+      "correct": 1
+    },
+    {
+      "question": "Koja jedinica Vizantije je bila sastavljena od Vikinga?",
+      "answers": ["Rimska kohorta", "Varjaška garda", "Teutonska bratija", "Saksonski štitonoše"],
+      "correct": 1
+    },
+    {
+      "question": "Ko se smatrao začetnikom ruske državnosti prema hronikama?",
+      "answers": ["Grci", "Varjazi", "Kijevljani", "Sasi"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio otac Lejfa Eriksona?",
+      "answers": ["Erik Crveni", "Torvald Erikson", "Harald Plavokosi", "Bjorn Železna Strana"],
+      "correct": 0
+    },
+    {
+      "question": "Koja zemlja je bila najčešća meta ranih vikinških napada?",
+      "answers": ["Rusija", "Engleska", "Francuska", "Poljska"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivala vikinška pesnička tradicija?",
+      "answers": ["Saga", "Skaldska poezija", "Edda", "Runopis"],
+      "correct": 1
+    },
+    {
+      "question": "Koji su bili najveći trgovački centri Vikinga?",
+      "answers": ["Birka, Hedeb i Kaupang", "Oslo, Aarhus i Bergen", "York, Dublin i London", "Kijev i Novgorod"],
+      "correct": 0
+    },
+    {
+      "question": "Kojim pismom su pisali Vikinzi?",
+      "answers": ["Grčkim", "Runama", "Klinastim pismom", "Latinicom"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je bio bog groma?",
+      "answers": ["Loki", "Njord", "Tor", "Baldr"],
+      "correct": 2
+    },
+    {
+      "question": "Ko je bio prvi kralj ujedinjene Norveške?",
+      "answers": ["Ragnar Lodbrok", "Harald Plavokosi", "Olaf Trygvason", "Knut Veliki"],
+      "correct": 1
+    },
+    {
+      "question": "Čime se bavila većina Vikinga?",
+      "answers": ["Ratovanjem", "Poljoprivredom i stočarstvom", "Svešteničkim radom", "Brodogradnjom"],
+      "correct": 1
+    },
+    {
+      "question": "Koji bog je bio povezan sa mudrošću i runama?",
+      "answers": ["Odin", "Loki", "Njord", "Frej"],
+      "correct": 0
+    },
+    {
+      "question": "Koje zemlje su Vikinzi kolonizovali?",
+      "answers": ["Egipat i Siriju", "Island i Grenland", "Persiju i Indiju", "Siciliju i Maltu"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvao dvoboj kojim su rešavali sporove?",
+      "answers": ["Blot", "Holmganga", "Vardlokur", "Runased"],
+      "correct": 1
+    },
+    {
+      "question": "Kako su se zvali ratnici koji su se borili u transu?",
+      "answers": ["Skaldi", "Godi", "Berserkeri", "Volturni"],
+      "correct": 2
+    },
+    {
+      "question": "Koja godina se smatra krajem vikinške ere?",
+      "answers": ["793.", "1204.", "1066.", "934."],
+      "correct": 2
+    }
+  ]
+}

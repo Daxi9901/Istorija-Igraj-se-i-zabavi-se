@@ -1,0 +1,116 @@
+{
+  "id": "holokaust",
+  "name": "Holokaust",
+  "tagline": "Sistematski genocid nad Jevrejima i drugim grupama tokom Drugog svetskog rata.",
+  "intro": [
+    "Holokaust predstavlja sistematski, državno organizovan genocid koji su nacistička Nemačka i njeni saradnici sproveli protiv šest miliona Jevreja, kao i miliona drugih žrtava — uključujući Rome, Slovene, političke protivnike, osobe sa invaliditetom, homoseksualce, ratne zarobljenike i druge. Reč 'Holokaust' koristi se da označi najmasovnije i najindustrijalizovanije ubijanje u čovečanstvu, koje je trajalo od 1933. do 1945. godine.",
+    "Koreni Holokausta nalaze se u ekstremnom antisemitizmu i rasnoj ideologiji nacističke partije. Po dolasku Hitlera na vlast 1933. godine, započinje postepena dehumanizacija Jevreja kroz diskriminatorske zakone, propagandu, segregaciju, ekonomsko oduzimanje imovine i fizičke napade. Prekretnica u pravcu potpunog progonstva bila je Kristalna noć (1938), kada su širom Nemačke spaljene sinagoge, uništene jevrejske radnje i uhapšeni deseci hiljada ljudi.",
+    "Nakon izbijanja Drugog svetskog rata, nacisti uvode getoizaciju — nasilno zatvaranje Jevreja u prenatrpane, izolovane kvartove poput Varšavskog geta. Paralelno, SS jedinice (Einsatzgruppen) prate nemačku vojsku na istoku i izvršavaju masovne egzekucije nad Jevrejima, komunistima i drugim ciljnim grupama. Ova faza nazivana je 'Holokaust mecima', jer su stotine hiljada ljudi ubijane masovnim streljanjima u rovovima i šumama.",
+    "Na konferenciji u Vanzeu 1942. godine nacistički vrh formalizuje 'Konačno rešenje jevrejskog pitanja' — plan za potpuno uništenje evropskih Jevreja. Ubrzo nastaju najgori logori smrti: Aušvic-Birkenau, Treblinka, Sobibor, Belzec, Majdanek i Čelmn. Ovi logori funkcionišu kao fabrike smrti, koristeći gasne komore, krematorijume, prisilni rad i glad kao sredstva istrebljenja.",
+    "Aušvic-Birkenau postaje najveći i najužasniji logor smrti, gde je ubijeno više od milion ljudi. Deportacije su vršene vozovima iz svih okupiranih delova Evrope. U mnogim transportima, po dolasku u logor, većina zatvorenika odmah je slata u gasne komore, dok su drugi bili izloženi prisilnom radu, medicinskim eksperimentima i nehumanim uslovima koji su dovodili do masovne smrtnosti.",
+    "Otpor je postojao čak i u najmračnijim okolnostima: pobune u Treblinki, Sobiboru i Varšavskom getu pokazale su izuzetnu hrabrost ljudi koji su se borili za dostojanstvo i život. Saveznici razotkrivaju razmere genocida tek nakon oslobađanja logora 1944–1945. godine. Snimci, dokumenti i svedočenja otkrivaju svet do tada nezamislive zločine.",
+    "Holokaust je trajno obeležio istoriju čovečanstva. Posledice se osećaju i danas — kroz sećanje, obrazovanje, istraživanje genocida i borbu protiv antisemitizma, rasizma i ekstremizma. Razumevanje Holokausta ostaje nužno kako bi se sprečilo ponavljanje ovakvih zločina u budućnosti."
+  ],
+  "questions": [
+    {
+      "question": "Ko je bio glavni arhitekta nacističke politike genocida poznate kao 'Konačno rešenje'?",
+      "answers": ["Hajnrih Himler", "Reinhard Hajdrih", "Adolf Ajhman", "Jozef Gebels"],
+      "correct": 1
+    },
+    {
+      "question": "Koji logor je bio najveći nacistički logor smrti?",
+      "answers": ["Treblinka", "Majdanek", "Dahau", "Aušvic-Birkenau"],
+      "correct": 3
+    },
+    {
+      "question": "Kako se naziva nacistička organizacija zadužena za masovne egzekucije iza fronta?",
+      "answers": ["Gestapo", "Einsatzgruppen", "Vafen-SS", "SA jedinice"],
+      "correct": 1
+    },
+    {
+      "question": "Koja 1938. godina je obeležena pogromom poznatim kao 'Kristalna noć'?",
+      "answers": ["1933.", "1938.", "1942.", "1929."],
+      "correct": 1
+    },
+    {
+      "question": "U kom se gradu održala konferencija gde je formalizovano 'Konačno rešenje'?",
+      "answers": ["Berlin", "Minhen", "Vanze", "Hamburg"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva faza Holokausta tokom koje su žrtve masovno ubijane streljanjem?",
+      "answers": ["Veliki teror", "Holokaust mecima", "Konačno rešenje", "Operacija Barbarosa"],
+      "correct": 1
+    },
+    {
+      "question": "Koji je logor imao najveći broj neposrednih pogubljenja gasnim komorama?",
+      "answers": ["Belzec", "Dahau", "Sachsenhausen", "Sobibor"],
+      "correct": 0
+    },
+    {
+      "question": "Koja grupa, pored Jevreja, bila posebno meta genocida?",
+      "answers": ["Šveđani", "Romima (Romi i Sinti)", "Švajcarci", "Danici"],
+      "correct": 1
+    },
+    {
+      "question": "Ko je vodio administrativnu logistiku deportacija evropskih Jevreja?",
+      "answers": ["Ernst Rohm", "Albert Šper", "Adolf Ajhman", "Hans Frank"],
+      "correct": 2
+    },
+    {
+      "question": "Koji geto je bio najveći u Evropi tokom okupacije?",
+      "answers": ["Krakovski geto", "Riganski geto", "Varšavski geto", "Vilnjuski geto"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je bila glavna svrha logora Treblinka?",
+      "answers": ["Radni logor", "Koncentracioni logor za zarobljenike", "Logor smrti", "Medicinski centar"],
+      "correct": 2
+    },
+    {
+      "question": "Šta je označilo početak masovnih deportacija Jevreja iz okupirane Evrope?",
+      "answers": ["Vanzejska konferencija", "Napad na Poljsku", "Kristalna noć", "Oslobađanje Aušvica"],
+      "correct": 0
+    },
+    {
+      "question": "Koja pobuna je jedna od najpoznatijih u istoriji Holokausta?",
+      "answers": ["Pobuna u Sobiboru", "Pobuna u Osvijencimu", "Pobuna u Hamburgu", "Pobuna u Budimpešti"],
+      "correct": 0
+    },
+    {
+      "question": "Koji logor je oslobodila Crvena armija 27. januara 1945?",
+      "answers": ["Dahau", "Aušvic", "Bergen-Belzen", "Treblinka"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se zvala policijska služba odgovorna za unutrašnju represiju u nacističkoj Nemačkoj?",
+      "answers": ["Gestapo", "SD", "SA", "Wehrmacht obaveštajna služba"],
+      "correct": 0
+    },
+    {
+      "question": "Koju ulogu je imao Jozef Mengele u Aušvicu?",
+      "answers": ["Komandant logora", "Oficir za ishranu", "Vodio medicinske eksperimente", "Prevoznik zatvorenika"],
+      "correct": 2
+    },
+    {
+      "question": "Kako se naziva nacistička ideologija koja je Jevreje proglašavala „nižom rasom“?",
+      "answers": ["Socijalizam", "Rasni darvinizam", "Rasni antisemitizam", "Četnički nacionalizam"],
+      "correct": 2
+    },
+    {
+      "question": "Koja je država imala najveći broj ubijenih Jevreja tokom Holokausta?",
+      "answers": ["Grčka", "Poljska", "Holandija", "Francuska"],
+      "correct": 1
+    },
+    {
+      "question": "Kako se naziva proces suđenja nacističkim zločincima posle rata?",
+      "answers": ["Lajpcigški proces", "Nirnberški proces", "Hag tribunal", "Versajski tribunal"],
+      "correct": 1
+    },
+    {
+      "question": "Koja je bila glavna propaganda institucija nacističke Nemačke?",
+      "answers": ["SA", "Ministarstvo propagande", "SS odredi", "NSDAP komitet"],
+      "correct": 1
+    }
+  ]
+}
